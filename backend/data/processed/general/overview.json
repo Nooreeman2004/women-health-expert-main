@@ -1,0 +1,293 @@
+{
+    "category": "general",
+    "subcategory": "overview",
+    "last_updated": "2025-12-25",
+    "description": "General information about menopause - what it is, when it happens, and its impact",
+    "entries": [
+        {
+            "id": "gen_001",
+            "title": "What is Menopause?",
+            "description": "Definition and basic understanding of menopause",
+            "content": "Menopause is a natural biological process marking the end of a woman's reproductive years. It's defined as the point when you've gone 12 consecutive months without a menstrual period. Menopause occurs when your ovaries stop releasing eggs and producing reproductive hormones (primarily estrogen and progesterone). It's a normal part of aging, not a disease or medical condition, though it can cause uncomfortable symptoms that may benefit from treatment.",
+            "definition": "12 consecutive months without a menstrual period",
+            "key_points": [
+                "Natural part of aging",
+                "Marks end of reproductive years",
+                "Caused by declining ovarian hormone production",
+                "Not a disease, but symptoms can be treated",
+                "Affects everyone with ovaries differently"
+            ],
+            "tags": [
+                "menopause",
+                "definition",
+                "overview",
+                "basics"
+            ],
+            "related_topics": [
+                "perimenopause",
+                "postmenopause",
+                "hormonal_changes"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_002",
+            "title": "Average Age and Timeline",
+            "description": "When menopause typically occurs",
+            "content": "The average age of menopause in the United States is 52 years old, but it's normal to reach menopause anywhere between ages 45-55. The transition to menopause (perimenopause) usually begins in your mid-40s and lasts an average of 4-8 years, though this varies widely. Some women transition quickly while others experience a longer perimenopause.",
+            "average_age": "52 years old",
+            "normal_range": "45-55 years old",
+            "perimenopause_start": "Usually mid-40s, can begin late 30s",
+            "perimenopause_duration": "Average 4-8 years, can be 2-10+ years",
+            "early_menopause": "Ages 40-45",
+            "premature_menopause": "Before age 40",
+            "tags": [
+                "menopause",
+                "age",
+                "timeline",
+                "perimenopause"
+            ],
+            "related_topics": [
+                "perimenopause",
+                "early_menopause",
+                "premature_menopause"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_003",
+            "title": "Hormonal Changes",
+            "description": "What happens to hormones during menopause",
+            "content": "Menopause is driven by changes in reproductive hormones, primarily estrogen and progesterone. As you approach menopause, your ovaries gradually produce less of these hormones. During perimenopause, hormone levels fluctuate unpredictably - sometimes high, sometimes low - causing irregular periods and symptoms. After menopause, estrogen and progesterone remain at consistently low levels. These hormonal changes affect many body systems, causing the wide range of menopausal symptoms.",
+            "key_hormones": [
+                "Estrogen: Declines significantly; affects many body systems",
+                "Progesterone: Declines; regulates menstrual cycle",
+                "FSH (Follicle-Stimulating Hormone): Rises as ovaries produce less estrogen",
+                "Testosterone: Gradually declines with age"
+            ],
+            "perimenopause_pattern": "Fluctuating, unpredictable hormone levels",
+            "postmenopause_pattern": "Consistently low estrogen and progesterone",
+            "effects_of_low_estrogen": [
+                "Hot flashes and night sweats",
+                "Vaginal and urinary changes",
+                "Bone loss",
+                "Mood and cognitive changes",
+                "Skin and hair changes",
+                "Cardiovascular changes"
+            ],
+            "tags": [
+                "hormones",
+                "estrogen",
+                "progesterone",
+                "hormonal_changes"
+            ],
+            "related_topics": [
+                "symptoms",
+                "perimenopause",
+                "HRT"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_004",
+            "title": "Natural vs. Induced Menopause",
+            "description": "Different ways menopause can occur",
+            "content": "Menopause can happen naturally as part of aging, or it can be induced by medical treatments or surgery. The symptoms and health implications are similar, but induced menopause often causes more sudden and severe symptoms because hormone levels drop abruptly rather than gradually.",
+            "types": [
+                {
+                    "type": "Natural menopause",
+                    "description": "Gradual decline in ovarian function with age; most common",
+                    "characteristics": "Gradual hormone decline, symptoms develop over years"
+                },
+                {
+                    "type": "Surgical menopause",
+                    "description": "Removal of both ovaries (bilateral oophorectomy)",
+                    "characteristics": "Immediate menopause, often more severe symptoms due to sudden hormone drop"
+                },
+                {
+                    "type": "Medical menopause",
+                    "description": "Caused by chemotherapy, radiation, or medications that affect ovaries",
+                    "characteristics": "Can be temporary or permanent; sudden onset"
+                },
+                {
+                    "type": "Primary ovarian insufficiency",
+                    "description": "Ovaries stop functioning normally before age 40 without clear cause",
+                    "characteristics": "Premature menopause, may be intermittent"
+                }
+            ],
+            "tags": [
+                "menopause",
+                "types",
+                "natural",
+                "induced",
+                "surgical"
+            ],
+            "related_topics": [
+                "premature_menopause",
+                "causes"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_005",
+            "title": "Impact on Daily Life",
+            "description": "How menopause affects quality of life and functioning",
+            "content": "Menopause can significantly impact daily life, relationships, work, and overall well-being. The severity of impact varies greatly - some women have minimal symptoms while others experience severe disruption. Common areas affected include sleep quality, work performance, relationships, sexual health, mental health, and social activities. It's important to know that effective treatments are available and you don't have to 'just suffer through it.'",
+            "areas_affected": [
+                "Sleep: Disrupted by night sweats, insomnia",
+                "Work: Concentration problems, fatigue, hot flashes in meetings",
+                "Relationships: Mood changes, irritability, reduced libido",
+                "Sexual health: Vaginal dryness, pain, reduced desire",
+                "Mental health: Anxiety, depression, low self-esteem",
+                "Social life: Embarrassment about symptoms, social withdrawal",
+                "Physical activity: Fatigue, joint pain",
+                "Self-image: Body changes, aging concerns"
+            ],
+            "important_message": [
+                "You don't have to suffer in silence",
+                "Effective treatments are available",
+                "Symptoms are real and valid",
+                "Seeking help is important for quality of life",
+                "Many women experience significant impact - you're not alone"
+            ],
+            "tags": [
+                "menopause",
+                "quality_of_life",
+                "impact",
+                "daily_life"
+            ],
+            "related_topics": [
+                "symptoms",
+                "treatment",
+                "support"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_006",
+            "title": "Who Experiences Menopause",
+            "description": "Who goes through menopause",
+            "content": "Menopause affects anyone who has ovaries and experiences menstrual periods. This includes cisgender women, transgender men who have not had ovaries removed, and non-binary individuals with ovaries. The experience and symptoms are the same regardless of gender identity. Everyone deserves access to information, support, and treatment for menopausal symptoms.",
+            "who_it_affects": "Anyone with ovaries who has had menstrual periods",
+            "includes": [
+                "Cisgender women",
+                "Transgender men (if ovaries present)",
+                "Non-binary individuals (if ovaries present)",
+                "Intersex individuals (if ovaries present)"
+            ],
+            "important_note": "Gender identity doesn't change the biological process or symptoms; everyone deserves appropriate care",
+            "tags": [
+                "menopause",
+                "who",
+                "inclusive",
+                "gender"
+            ],
+            "related_topics": [
+                "overview",
+                "symptoms"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "gen_007",
+            "title": "Cardiovascular Health After Menopause",
+            "description": "Increased heart disease risk and prevention strategies",
+            "content": "Post-menopause cardiovascular risk significantly increases because dropping estrogen levels negatively impact cholesterol, blood pressure, and fat distribution. Estrogen has a protective effect on the heart, and its decline removes this protection. Heart disease becomes the leading cause of death for women after menopause, making heart-healthy habits crucial for prevention.",
+            "why_risk_increases": [
+                "Estrogen's protective role: Estrogen helps regulate cholesterol and fat metabolism",
+                "Lipid profile changes: Higher LDL ('bad') cholesterol, lower HDL ('good') cholesterol, increased triglycerides",
+                "Small-dense LDL particles: More harmful particles that predict heart disease",
+                "Blood pressure: Often rises after menopause",
+                "Fat distribution: Shifts to abdominal fat, increasing heart risk",
+                "Metabolic changes: Increased risk of insulin resistance and diabetes"
+            ],
+            "prevention_strategies": [
+                "Regular exercise: 150 minutes/week of moderate activity (walking, cycling, dancing)",
+                "Healthy diet: Balanced nutrition, low sugar, controlled portions, Mediterranean-style diet",
+                "Don't smoke: Smoking significantly elevates cardiovascular risk",
+                "Manage weight: Maintain healthy weight through diet and exercise",
+                "Monitor health: Regular heart health screenings, blood pressure checks, cholesterol tests",
+                "Stress management: High stress worsens hormonal imbalances",
+                "Limit alcohol: Excessive alcohol increases blood pressure and heart risk"
+            ],
+            "discuss_with_doctor": [
+                "Hormone Replacement Therapy (HRT): May lower heart disease risk if started within 10 years of menopause",
+                "Medications: For blood pressure or cholesterol if needed",
+                "Aspirin therapy: For some high-risk women",
+                "Regular screenings: ECG, stress tests if indicated"
+            ],
+            "tags": [
+                "cardiovascular_health",
+                "heart_disease",
+                "prevention",
+                "postmenopause",
+                "risk_factors"
+            ],
+            "related_topics": [
+                "postmenopause",
+                "HRT",
+                "exercise",
+                "nutrition",
+                "health_screening"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "gen_008",
+            "title": "Postmenopause Health Considerations",
+            "description": "Long-term health concerns and preventive care after menopause",
+            "content": "Postmenopause is the stage after reaching menopause, lasting for the rest of your life. While many menopausal symptoms ease up over time, postmenopausal women face increased risks for certain health conditions due to persistently low estrogen levels. Preventive care and healthy lifestyle choices are crucial for maintaining quality of life and longevity.",
+            "key_health_risks": [
+                "Osteoporosis: Accelerated bone loss increases fracture risk",
+                "Cardiovascular disease: Leading cause of death in postmenopausal women",
+                "Genitourinary syndrome (GSM): Persistent vaginal and urinary symptoms without treatment",
+                "Type 2 diabetes: Increased risk due to metabolic changes",
+                "Weight gain: Especially abdominal fat",
+                "Cognitive changes: Some increased risk of dementia (research ongoing)"
+            ],
+            "preventive_measures": [
+                "Bone health: Calcium (1200mg/day), vitamin D (800 IU/day), weight-bearing exercise, DEXA scans",
+                "Heart health: Regular exercise, healthy diet, blood pressure and cholesterol monitoring",
+                "Vaginal health: Vaginal estrogen for persistent symptoms, regular sexual activity, moisturizers",
+                "Weight management: Balanced diet, regular exercise including strength training",
+                "Cancer screenings: Mammograms, cervical screening, colonoscopy as recommended",
+                "Mental health: Stay socially active, manage stress, seek help for depression/anxiety"
+            ],
+            "hormone_therapy_considerations": [
+                "Can continue HRT as long as benefits outweigh risks",
+                "Particularly important for premature/early menopause",
+                "Vaginal estrogen safe for long-term use",
+                "Regular review with healthcare provider"
+            ],
+            "quality_of_life": [
+                "Many symptoms improve 5-10 years after menopause",
+                "Some symptoms (vaginal dryness, urinary issues) may persist without treatment",
+                "Maintaining healthy lifestyle supports longevity and vitality",
+                "Women who start menopause after age 50 and have 40+ reproductive years may have increased longevity"
+            ],
+            "when_to_see_doctor": [
+                "Any post-menopausal bleeding (CRITICAL - see doctor immediately)",
+                "New or worsening symptoms",
+                "Regular health screenings and check-ups",
+                "Bone density testing",
+                "Cardiovascular risk assessment"
+            ],
+            "tags": [
+                "postmenopause",
+                "long_term_health",
+                "prevention",
+                "osteoporosis",
+                "cardiovascular_health",
+                "screening"
+            ],
+            "related_topics": [
+                "osteoporosis",
+                "cardiovascular_health",
+                "vaginal_atrophy",
+                "HRT",
+                "health_screening"
+            ],
+            "severity": "high"
+        }
+    ]
+}

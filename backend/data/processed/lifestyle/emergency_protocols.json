@@ -1,0 +1,376 @@
+{
+    "category": "lifestyle",
+    "subcategory": "emergency_protocols",
+    "last_updated": "2025-12-25",
+    "description": "Immediate action protocols for acute menopause symptom crises",
+    "entries": [
+        {
+            "id": "emergency_001",
+            "title": "Severe Hot Flash Protocol",
+            "description": "What to do during an intense hot flash episode",
+            "content": "Severe hot flashes can feel overwhelming and frightening. Having a protocol helps you regain control and reduce the intensity and duration.",
+            "immediate_actions": [
+                "1. BREATHE: Start box breathing immediately (Inhale 4, Hold 4, Exhale 4, Hold 4)",
+                "2. COOL: Remove layers, use handheld fan, apply cold water to wrists and neck",
+                "3. DRINK: Sip cold water or ice water slowly",
+                "4. SIT: If possible, sit down and focus on breathing",
+                "5. DISTRACT: Count backwards from 100 by 7s to engage your brain"
+            ],
+            "cooling_strategies": [
+                "Cold water on wrists, neck, face",
+                "Handheld battery fan (keep one in purse/desk)",
+                "Ice pack or frozen water bottle to hold",
+                "Step outside if indoors (fresh air)",
+                "Remove clothing layers",
+                "Cooling towel or mist spray"
+            ],
+            "what_not_to_do": [
+                "Don't panic - it will pass (usually 2-5 minutes)",
+                "Don't hold your breath",
+                "Don't fight it - accept and breathe through it",
+                "Don't feel embarrassed - it's a medical symptom"
+            ],
+            "prevention_kit": "Keep a 'hot flash kit' ready: handheld fan, cooling towel, water bottle, hair tie (to get hair off neck)",
+            "when_to_seek_help": "If hot flashes are happening multiple times per hour, preventing sleep, or significantly impacting your life, see your doctor. Effective treatments are available.",
+            "tags": [
+                "emergency",
+                "hot_flash",
+                "acute_symptom",
+                "protocol",
+                "crisis"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "box_breathing",
+                "treatment_options"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "emergency_002",
+            "title": "Panic Attack During Menopause",
+            "description": "Managing acute anxiety or panic episodes",
+            "content": "Panic attacks can occur or worsen during menopause due to hormonal effects on stress regulation. They're frightening but not dangerous, and you can manage them.",
+            "immediate_actions": [
+                "1. RECOGNIZE: Remind yourself 'This is a panic attack, not a heart attack. It will pass.'",
+                "2. BREATHE: Box breathing or 4-7-8 breathing (Inhale 4, Hold 7, Exhale 8)",
+                "3. GROUND: 5-4-3-2-1 technique (name 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste)",
+                "4. MOVE: If possible, walk slowly or do gentle stretching",
+                "5. COLD: Splash cold water on face or hold ice cube (activates dive reflex, calms nervous system)"
+            ],
+            "grounding_techniques": [
+                "5-4-3-2-1 sensory awareness",
+                "Hold ice cube and focus on sensation",
+                "Touch textured object (stress ball, fabric)",
+                "Name objects in the room out loud",
+                "Stomp feet to feel connection to ground",
+                "Progressive muscle relaxation"
+            ],
+            "breathing_techniques": [
+                "Box breathing (4-4-4-4)",
+                "4-7-8 breathing (Inhale 4, Hold 7, Exhale 8)",
+                "Belly breathing (hand on stomach, breathe deep)",
+                "Counted breathing (count each breath to 10, repeat)"
+            ],
+            "what_to_remember": [
+                "Panic attacks peak in 10 minutes and pass within 20-30 minutes",
+                "You are not dying or going crazy",
+                "This is your body's stress response misfiring",
+                "Hormonal changes make panic more likely during menopause",
+                "Treatment (HRT, therapy, medication) can prevent future attacks"
+            ],
+            "when_to_call_911": "If you have chest pain, difficulty breathing that doesn't improve, or are unsure if it's panic or a heart problem, call 911. Better safe than sorry.",
+            "follow_up": "If panic attacks are recurring, see your doctor. HRT, CBT, and/or anti-anxiety medication can be very effective.",
+            "tags": [
+                "emergency",
+                "panic_attack",
+                "anxiety",
+                "acute",
+                "crisis"
+            ],
+            "related_topics": [
+                "anxiety",
+                "panic_attacks",
+                "breathing_techniques",
+                "treatment"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "emergency_003",
+            "title": "Insomnia Crisis (Multiple Sleepless Nights)",
+            "description": "What to do when you haven't slept in days",
+            "content": "Multiple nights of severe insomnia can feel desperate. While you need medical help for chronic insomnia, these strategies can help in the short term.",
+            "immediate_actions_tonight": [
+                "1. ACCEPT: Stop trying to force sleep - it creates more anxiety",
+                "2. GET UP: If awake >20 minutes, get up and do something boring (read, listen to calm music)",
+                "3. COOL: Keep room very cool (65-68°F) - helps with night sweats and sleep",
+                "4. DARK: Ensure complete darkness (blackout curtains, eye mask)",
+                "5. QUIET: Use earplugs or white noise if needed",
+                "6. NO CLOCK: Turn clock away - watching time increases anxiety"
+            ],
+            "short_term_strategies": [
+                "Take melatonin 1-2 hours before desired bedtime (1-3mg)",
+                "Magnesium glycinate 200-400mg before bed",
+                "Warm bath or shower 1-2 hours before bed",
+                "Progressive muscle relaxation in bed",
+                "Guided sleep meditation (apps: Calm, Headspace, Insight Timer)",
+                "Avoid caffeine after 12pm",
+                "No alcohol (disrupts sleep quality)",
+                "No screens 1 hour before bed"
+            ],
+            "what_not_to_do": [
+                "Don't lie in bed awake for hours (creates negative association)",
+                "Don't nap during day (makes night sleep worse)",
+                "Don't drink alcohol to sleep (causes rebound wakefulness)",
+                "Don't catastrophize ('I'll never sleep again') - you will",
+                "Don't take Benadryl regularly (tolerance develops, side effects)"
+            ],
+            "crisis_management": "If you're on day 3-4 of no sleep, call your doctor. They may prescribe short-term sleep medication while addressing the underlying cause.",
+            "underlying_causes": [
+                "Night sweats (treat with HRT or other medications)",
+                "Anxiety (treat with HRT, therapy, or medication)",
+                "Hormonal insomnia (HRT often very effective)",
+                "Poor sleep hygiene (fixable with behavioral changes)"
+            ],
+            "long_term_solution": "See doctor for: HRT (if hormonal cause), CBT-I (Cognitive Behavioral Therapy for Insomnia - highly effective), or other treatments. Don't suffer long-term.",
+            "tags": [
+                "emergency",
+                "insomnia",
+                "sleep",
+                "crisis",
+                "acute"
+            ],
+            "related_topics": [
+                "sleep_management",
+                "insomnia",
+                "night_sweats",
+                "treatment"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "emergency_004",
+            "title": "Severe Mood Episode (Rage or Despair)",
+            "description": "Managing intense emotional episodes",
+            "content": "Intense mood swings, rage, or despair can occur during menopause due to hormonal effects on neurotransmitters. These episodes are real, biological, and manageable.",
+            "during_rage_episode": [
+                "1. REMOVE: Remove yourself from the situation if possible",
+                "2. BREATHE: Deep breathing to activate calm response",
+                "3. MOVE: Physical activity helps discharge the energy (walk, run, exercise)",
+                "4. COLD: Cold water on face or ice pack can interrupt the rage response",
+                "5. WAIT: Don't make decisions or send messages during the episode",
+                "6. RELEASE: Scream into pillow, punch pillow, or cry - safe emotional release"
+            ],
+            "during_despair_episode": [
+                "1. SAFETY FIRST: If having thoughts of self-harm, call 988 (Suicide Prevention Lifeline) or go to ER",
+                "2. REACH OUT: Call trusted friend, family member, or therapist",
+                "3. REMIND: 'This is hormones. This feeling will pass. It's not reality.'",
+                "4. COMFORT: Wrap in blanket, drink warm tea, gentle self-soothing",
+                "5. DISTRACT: Watch comforting show, listen to music, pet an animal",
+                "6. WAIT: Don't make major decisions during the episode"
+            ],
+            "grounding_for_intense_emotions": [
+                "Name the feeling: 'I'm experiencing rage/despair'",
+                "Remind yourself: 'This is a hormonal episode, not reality'",
+                "Physical grounding: stomp feet, hold ice, splash cold water",
+                "Timed breathing: breathe slowly for 5 minutes",
+                "Safe emotional release: cry, scream into pillow, write angry letter (don't send)"
+            ],
+            "what_helps_long_term": [
+                "HRT (often dramatically improves mood stability)",
+                "Therapy (CBT, DBT for emotion regulation)",
+                "Medication (antidepressants if needed)",
+                "Exercise (regular exercise stabilizes mood)",
+                "Sleep (improving sleep improves mood)",
+                "Support (talking to others who understand)"
+            ],
+            "crisis_resources": [
+                "988 Suicide & Crisis Lifeline (call or text)",
+                "Crisis Text Line: Text HOME to 741741",
+                "Your doctor or therapist",
+                "Emergency room if in immediate danger",
+                "Trusted friend or family member"
+            ],
+            "important_message": "Severe mood episodes during menopause are REAL and BIOLOGICAL. They don't mean you're weak or crazy. They mean you need treatment. Please seek help.",
+            "tags": [
+                "emergency",
+                "mood",
+                "rage",
+                "despair",
+                "crisis",
+                "mental_health"
+            ],
+            "related_topics": [
+                "mood_swings",
+                "depression",
+                "anxiety",
+                "treatment",
+                "crisis_resources"
+            ],
+            "severity": "critical"
+        },
+        {
+            "id": "emergency_005",
+            "title": "Sudden Severe Headache or Migraine",
+            "description": "When to seek emergency care vs manage at home",
+            "content": "Headaches and migraines can worsen during menopause due to hormonal fluctuations. Most are manageable at home, but some require emergency care.",
+            "red_flags_requiring_er": [
+                "Sudden, severe 'thunderclap' headache (worst headache of your life)",
+                "Headache with fever, stiff neck, confusion, or vision changes",
+                "Headache after head injury",
+                "Headache with weakness, numbness, or difficulty speaking",
+                "New severe headache pattern if over 50",
+                "Headache that worsens despite medication"
+            ],
+            "migraine_management_at_home": [
+                "1. DARK & QUIET: Go to dark, quiet room immediately",
+                "2. COLD: Ice pack on forehead or back of neck",
+                "3. MEDICATE: Take migraine medication or pain reliever EARLY (waiting makes it worse)",
+                "4. HYDRATE: Drink water (dehydration worsens migraines)",
+                "5. CAFFEINE: Small amount of caffeine can help (coffee or tea) if you don't usually consume it",
+                "6. REST: Sleep if possible"
+            ],
+            "prevention_strategies": [
+                "Identify triggers (keep headache diary)",
+                "Avoid common triggers: alcohol, aged cheese, processed meats, artificial sweeteners",
+                "Stay hydrated",
+                "Regular sleep schedule",
+                "Manage stress",
+                "Consider HRT (can reduce hormonal migraines)",
+                "Preventive medication if frequent"
+            ],
+            "when_to_see_doctor_non_emergency": [
+                "Headaches occurring more than 2x per week",
+                "Headaches interfering with daily life",
+                "New headache pattern",
+                "Over-the-counter medications not helping",
+                "Need for preventive treatment"
+            ],
+            "hormonal_migraine_note": "Migraines often worsen during perimenopause due to fluctuating estrogen. HRT (especially transdermal estrogen) can significantly reduce hormonal migraines for many women.",
+            "tags": [
+                "emergency",
+                "headache",
+                "migraine",
+                "red_flag",
+                "pain"
+            ],
+            "related_topics": [
+                "headaches",
+                "migraines",
+                "red_flags",
+                "when_to_see_doctor"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "emergency_006",
+            "title": "Severe Palpitations or Chest Discomfort",
+            "description": "When to go to ER vs when it's likely hormonal",
+            "content": "Heart palpitations are common during menopause, but chest pain or severe palpitations require medical evaluation to rule out cardiac issues.",
+            "go_to_er_immediately_if": [
+                "Chest pain or pressure (especially if radiating to arm, jaw, or back)",
+                "Palpitations with shortness of breath",
+                "Palpitations with dizziness or fainting",
+                "Palpitations lasting more than a few minutes",
+                "Feeling like you might pass out",
+                "Chest pain with sweating or nausea"
+            ],
+            "likely_hormonal_palpitations": [
+                "Brief fluttering sensation (few seconds to 1-2 minutes)",
+                "Occurs during hot flash or anxiety",
+                "No chest pain or shortness of breath",
+                "Stops on its own",
+                "You feel otherwise well"
+            ],
+            "managing_hormonal_palpitations": [
+                "Sit down and breathe slowly",
+                "Cough forcefully (can reset heart rhythm)",
+                "Splash cold water on face",
+                "Avoid caffeine and stimulants",
+                "Manage stress and anxiety",
+                "Consider HRT (can reduce palpitations)"
+            ],
+            "follow_up_needed": "Even if palpitations seem hormonal, see your doctor for ECG to rule out arrhythmias. Better to check and be reassured.",
+            "important_distinction": "Palpitations = feeling your heartbeat (usually benign). Chest pain = potential emergency. When in doubt, go to ER.",
+            "tags": [
+                "emergency",
+                "palpitations",
+                "chest_pain",
+                "cardiac",
+                "red_flag"
+            ],
+            "related_topics": [
+                "palpitations",
+                "red_flags",
+                "cardiovascular_health",
+                "when_to_see_doctor"
+            ],
+            "severity": "critical"
+        },
+        {
+            "id": "emergency_007",
+            "title": "Emergency Contacts & Resources",
+            "description": "Critical phone numbers and resources",
+            "content": "Keep these resources readily available for menopause-related emergencies and crises.",
+            "crisis_hotlines": [
+                {
+                    "resource": "988 Suicide & Crisis Lifeline",
+                    "contact": "Call or text 988",
+                    "use_for": "Suicidal thoughts, severe depression, emotional crisis"
+                },
+                {
+                    "resource": "Crisis Text Line",
+                    "contact": "Text HOME to 741741",
+                    "use_for": "Any crisis, prefer texting over calling"
+                },
+                {
+                    "resource": "Emergency Services",
+                    "contact": "911 (US)",
+                    "use_for": "Medical emergencies, chest pain, severe symptoms"
+                },
+                {
+                    "resource": "National Domestic Violence Hotline",
+                    "contact": "1-800-799-7233",
+                    "use_for": "If menopause stress is affecting relationship safety"
+                }
+            ],
+            "medical_contacts_to_have_ready": [
+                "Your primary care doctor's number",
+                "Your gynecologist's number",
+                "After-hours nurse line (often through insurance)",
+                "Nearest urgent care location",
+                "Nearest emergency room location",
+                "Pharmacy phone number",
+                "Therapist/counselor (if you have one)"
+            ],
+            "online_support": [
+                "Menopause Society (menopause.org) - find certified practitioners",
+                "Online menopause support communities",
+                "Menopause-focused social media groups",
+                "Telehealth menopause services"
+            ],
+            "when_to_use_which": [
+                "988/Crisis Line: Suicidal thoughts, severe depression, emotional crisis",
+                "911: Chest pain, difficulty breathing, severe headache with neurological symptoms, any life-threatening emergency",
+                "ER: Severe symptoms, post-menopausal bleeding, symptoms that might be cardiac",
+                "Urgent Care: Severe symptoms during off-hours, need evaluation but not life-threatening",
+                "Doctor's Office: Non-emergency symptoms, treatment adjustments, follow-up",
+                "Nurse Line: Unsure if symptoms warrant ER, need guidance"
+            ],
+            "tags": [
+                "emergency",
+                "resources",
+                "crisis",
+                "contacts",
+                "support"
+            ],
+            "related_topics": [
+                "crisis_resources",
+                "when_to_see_doctor",
+                "support"
+            ],
+            "severity": "critical"
+        }
+    ]
+}

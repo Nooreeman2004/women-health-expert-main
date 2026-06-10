@@ -1,0 +1,397 @@
+{
+    "category": "diagnosis",
+    "subcategory": "when_to_see_doctor",
+    "last_updated": "2025-12-25",
+    "description": "Red flag symptoms requiring immediate medical attention and guidance on when to seek care",
+    "escalation_keywords": [
+        "bleeding",
+        "post-menopausal bleeding",
+        "spotting after menopause",
+        "severe pain",
+        "chest pain",
+        "palpitations",
+        "forgetting how to",
+        "severe headache",
+        "vision changes",
+        "sudden weight loss",
+        "lump",
+        "breast lump"
+    ],
+    "entries": [
+        {
+            "id": "doctor_001",
+            "title": "CRITICAL: Post-Menopausal Bleeding",
+            "description": "Any bleeding after 12 months without periods - URGENT",
+            "content": "Post-menopausal bleeding is ANY spotting or bleeding after you have gone 12 consecutive months without a period. This is NEVER normal and requires urgent medical evaluation to rule out uterine or cervical cancer. While it's often due to benign causes like thinning tissues, it must always be investigated.",
+            "urgency": "CRITICAL - See doctor within 24-48 hours",
+            "escalation_trigger": true,
+            "why_its_serious": "Can be early sign of uterine or cervical cancer; early detection is crucial",
+            "what_doctor_will_do": [
+                "Pelvic examination",
+                "Transvaginal ultrasound to measure uterine lining thickness",
+                "Possibly endometrial biopsy",
+                "Referral to gynecologist if needed"
+            ],
+            "chatbot_response": "⚠️ IMPORTANT: Post-menopausal bleeding requires urgent medical evaluation. Please contact your doctor within 24-48 hours or visit urgent care. While often benign, this must be checked to rule out serious conditions.",
+            "tags": [
+                "red_flag",
+                "critical",
+                "bleeding",
+                "cancer_screening",
+                "urgent"
+            ],
+            "related_topics": [
+                "post_menopausal_bleeding",
+                "uterine_cancer",
+                "red_flags"
+            ],
+            "severity": "critical"
+        },
+        {
+            "id": "doctor_002",
+            "title": "CRITICAL: Cognitive Changes Beyond Brain Fog",
+            "description": "Forgetting how to perform familiar tasks",
+            "content": "Brain fog (forgetting names, losing keys) is normal in menopause. However, forgetting HOW to do familiar tasks (like driving to a familiar place, using the stove, or performing work tasks you've done for years) is NOT normal brain fog and requires neurological evaluation.",
+            "urgency": "URGENT - See doctor within 1 week",
+            "escalation_trigger": true,
+            "distinction": "Brain fog = forgetting WHAT (names, words). Concerning = forgetting HOW (to do familiar tasks)",
+            "why_its_serious": "May indicate neurological issues requiring early intervention, not just hormonal brain fog",
+            "what_doctor_will_do": [
+                "Cognitive assessment",
+                "Rule out other causes (thyroid, B12 deficiency, depression)",
+                "Possibly refer to neurologist",
+                "Brain imaging if indicated"
+            ],
+            "chatbot_response": "This sounds more serious than typical menopause brain fog. Please see your doctor within the week for a cognitive assessment. Forgetting how to do familiar tasks needs medical evaluation.",
+            "tags": [
+                "red_flag",
+                "cognitive",
+                "dementia",
+                "urgent",
+                "brain_fog"
+            ],
+            "related_topics": [
+                "brain_fog",
+                "cognitive_changes",
+                "dementia_vs_brain_fog"
+            ],
+            "severity": "critical"
+        },
+        {
+            "id": "doctor_003",
+            "title": "URGENT: New Heart Palpitations",
+            "description": "New irregular heartbeat or racing heart",
+            "content": "While heart palpitations can be caused by estrogen loss affecting heart rhythm, NEW palpitations must be checked via ECG to rule out actual heart conditions (arrhythmias) which increase after menopause. Especially urgent if accompanied by chest pain, shortness of breath, or dizziness.",
+            "urgency": "URGENT if with chest pain/SOB - ER. Otherwise see doctor within 1 week",
+            "escalation_trigger": true,
+            "when_to_go_to_er": [
+                "Palpitations with chest pain",
+                "Palpitations with shortness of breath",
+                "Palpitations with fainting or near-fainting",
+                "Palpitations lasting more than a few minutes"
+            ],
+            "why_its_serious": "Could be hormonal OR could be cardiac arrhythmia requiring treatment",
+            "what_doctor_will_do": [
+                "ECG (electrocardiogram)",
+                "Possibly 24-hour Holter monitor",
+                "Blood tests (thyroid, electrolytes)",
+                "Assess cardiovascular risk factors"
+            ],
+            "chatbot_response": "⚠️ New heart palpitations need medical evaluation. If you have chest pain, shortness of breath, or dizziness with palpitations, go to ER immediately. Otherwise, see your doctor within a week for an ECG.",
+            "tags": [
+                "red_flag",
+                "heart",
+                "palpitations",
+                "urgent",
+                "cardiovascular"
+            ],
+            "related_topics": [
+                "palpitations",
+                "cardiovascular_health",
+                "red_flags"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "doctor_004",
+            "title": "HIGH PRIORITY: Heavy Bleeding or Flooding",
+            "description": "Soaking through pad/tampon every hour or passing large clots",
+            "content": "While irregular heavy periods can occur in perimenopause, flooding (soaking through protection every hour for several hours) or passing clots larger than a quarter requires medical evaluation. This can lead to anemia and may indicate fibroids, polyps, or other conditions requiring treatment.",
+            "urgency": "See doctor within 1-2 weeks; sooner if causing anemia symptoms (dizziness, extreme fatigue)",
+            "escalation_trigger": false,
+            "warning_signs": [
+                "Soaking through pad/tampon every hour for 2+ hours",
+                "Passing clots larger than a quarter",
+                "Bleeding lasting more than 7-10 days",
+                "Symptoms of anemia (extreme fatigue, dizziness, pale skin, shortness of breath)"
+            ],
+            "why_its_serious": "Can cause anemia; may indicate treatable conditions like fibroids or polyps",
+            "what_doctor_will_do": [
+                "Blood count to check for anemia",
+                "Pelvic ultrasound",
+                "Possibly endometrial biopsy",
+                "Discuss treatment options (hormonal, surgical)"
+            ],
+            "tags": [
+                "heavy_bleeding",
+                "perimenopause",
+                "anemia",
+                "high_priority"
+            ],
+            "related_topics": [
+                "heavy_periods",
+                "flooding",
+                "anemia",
+                "fibroids"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "doctor_005",
+            "title": "HIGH PRIORITY: Severe Breast Pain or New Lumps",
+            "description": "Localized breast pain or palpable lumps",
+            "content": "While breast tenderness is common in perimenopause due to hormonal fluctuations, severe localized pain or any new lump requires evaluation. Most lumps are benign, but breast cancer risk increases with age.",
+            "urgency": "See doctor within 1-2 weeks",
+            "escalation_trigger": true,
+            "concerning_signs": [
+                "New lump or thickening",
+                "Localized pain (not general tenderness)",
+                "Skin changes (dimpling, redness, orange-peel texture)",
+                "Nipple discharge (especially bloody)",
+                "Nipple inversion or changes"
+            ],
+            "what_doctor_will_do": [
+                "Clinical breast exam",
+                "Mammogram and/or ultrasound",
+                "Possibly biopsy if suspicious",
+                "Referral to breast specialist if needed"
+            ],
+            "tags": [
+                "breast_health",
+                "lumps",
+                "breast_cancer",
+                "high_priority"
+            ],
+            "related_topics": [
+                "breast_pain",
+                "breast_cancer_screening"
+            ],
+            "severity": "high"
+        },
+        {
+            "id": "doctor_006",
+            "title": "Symptoms Severely Affecting Quality of Life",
+            "description": "When symptoms interfere with daily functioning",
+            "content": "You don't have to suffer through menopause. If symptoms are significantly affecting your work, relationships, sleep, or mental health, you deserve treatment. Effective options are available.",
+            "urgency": "Schedule appointment within 2-4 weeks",
+            "escalation_trigger": false,
+            "when_symptoms_warrant_treatment": [
+                "Missing work due to symptoms",
+                "Unable to sleep more than a few hours per night",
+                "Severe mood changes affecting relationships",
+                "Anxiety or depression interfering with daily life",
+                "Hot flashes disrupting daily activities multiple times per day",
+                "Vaginal symptoms preventing intimacy",
+                "Joint pain limiting physical activity"
+            ],
+            "important_message": "Menopause is natural, but suffering is not mandatory. Treatment can dramatically improve quality of life.",
+            "what_to_prepare": [
+                "Symptom diary (2-4 weeks of tracking)",
+                "List of all current medications and supplements",
+                "Family medical history",
+                "Questions about treatment options",
+                "Your goals and concerns"
+            ],
+            "tags": [
+                "quality_of_life",
+                "treatment",
+                "symptoms",
+                "appointment_prep"
+            ],
+            "related_topics": [
+                "symptoms",
+                "treatment_options",
+                "HRT",
+                "quality_of_life"
+            ],
+            "severity": "medium"
+        },
+        {
+            "id": "doctor_007",
+            "title": "Preparing for Your Menopause Appointment",
+            "description": "How to get the most from your doctor visit",
+            "content": "Preparation is key to getting appropriate care for menopause symptoms. Many doctors have limited menopause training, so being informed and organized helps ensure you get the care you need.",
+            "symptom_tracking": "Keep a symptom tracker for 2-4 weeks before visit noting: which symptoms, severity (1-10), frequency, triggers, impact on daily life",
+            "information_to_bring": [
+                "Complete list of symptoms with severity ratings",
+                "Menstrual pattern (dates of last several periods)",
+                "All current medications and supplements",
+                "Family history (especially breast cancer, heart disease, osteoporosis)",
+                "Previous treatments tried and results",
+                "Your treatment preferences and concerns"
+            ],
+            "questions_to_ask": [
+                "Is my symptom profile consistent with my age/stage of menopause?",
+                "What are the risks vs. benefits of HRT for my specific situation and family history?",
+                "What are all my treatment options (hormonal and non-hormonal)?",
+                "How do we monitor for side effects?",
+                "When should I follow up?",
+                "Are there any tests I need (bone density, cardiovascular screening)?"
+            ],
+            "finding_specialist": "Look for 'MSC' (Menopause Society Certified) practitioners or gynecologists with menopause focus",
+            "if_doctor_dismissive": [
+                "Ask directly: 'What are my options for managing these symptoms?'",
+                "Bring printed symptom tracker showing impact",
+                "Request referral to menopause specialist",
+                "Consider finding a new provider if consistently dismissed"
+            ],
+            "tags": [
+                "appointment_prep",
+                "doctor_visit",
+                "questions",
+                "specialist"
+            ],
+            "related_topics": [
+                "diagnosis",
+                "treatment_planning",
+                "advocacy"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "doctor_008",
+            "title": "Finding a Menopause Specialist",
+            "description": "How to find knowledgeable menopause care providers",
+            "content": "Not all healthcare providers have extensive menopause training. Finding a specialist or certified practitioner can make a significant difference in the quality of care you receive.",
+            "certifications_to_look_for": [
+                "NCMP (North American Menopause Society Certified Menopause Practitioner)",
+                "MSC (Menopause Society Certified)",
+                "Fellowship in menopause medicine"
+            ],
+            "where_to_search": [
+                "Menopause Society provider directory (menopause.org)",
+                "Academic medical centers with menopause clinics",
+                "OB/GYN practices with menopause focus",
+                "Endocrinologists specializing in reproductive hormones"
+            ],
+            "what_to_ask_when_calling": [
+                "Do you have providers certified in menopause care?",
+                "What percentage of your practice focuses on menopause?",
+                "Do you prescribe HRT? What types?",
+                "Do you offer non-hormonal options?",
+                "What is your approach to menopause management?"
+            ],
+            "red_flags": [
+                "Dismisses symptoms as 'just aging'",
+                "Refuses to discuss HRT without medical contraindication",
+                "Doesn't ask about symptom impact on quality of life",
+                "Pushes unregulated supplements instead of evidence-based treatment"
+            ],
+            "tags": [
+                "specialist",
+                "finding_care",
+                "NCMP",
+                "quality_care"
+            ],
+            "related_topics": [
+                "healthcare_providers",
+                "advocacy",
+                "quality_care"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "doctor_009",
+            "title": "Regular Health Screenings After Menopause",
+            "description": "Preventive care and monitoring in postmenopause",
+            "content": "Postmenopause requires specific health screenings due to increased risks for certain conditions. Regular monitoring helps catch problems early when they're most treatable.",
+            "recommended_screenings": [
+                {
+                    "test": "Bone Density (DEXA) Scan",
+                    "frequency": "Baseline at menopause or age 65; repeat based on results",
+                    "why": "Screen for osteoporosis; guides treatment decisions"
+                },
+                {
+                    "test": "Mammogram",
+                    "frequency": "Annually or every 2 years (discuss with doctor)",
+                    "why": "Breast cancer screening"
+                },
+                {
+                    "test": "Cervical Screening (Pap/HPV)",
+                    "frequency": "Per guidelines (often can stop at 65 if previous normal results)",
+                    "why": "Cervical cancer screening"
+                },
+                {
+                    "test": "Cardiovascular Screening",
+                    "frequency": "Blood pressure annually; cholesterol every 3-5 years or as recommended",
+                    "why": "Heart disease risk increases after menopause"
+                },
+                {
+                    "test": "Diabetes Screening",
+                    "frequency": "Every 3 years or more often if risk factors",
+                    "why": "Metabolic changes increase diabetes risk"
+                },
+                {
+                    "test": "Colonoscopy",
+                    "frequency": "Starting at 45-50, then every 10 years if normal",
+                    "why": "Colon cancer screening"
+                }
+            ],
+            "annual_checkup_should_include": [
+                "Blood pressure",
+                "Weight and BMI",
+                "Discussion of symptoms and quality of life",
+                "Review of medications and supplements",
+                "Age-appropriate cancer screenings",
+                "Cardiovascular risk assessment"
+            ],
+            "tags": [
+                "screening",
+                "prevention",
+                "postmenopause",
+                "health_monitoring"
+            ],
+            "related_topics": [
+                "postmenopause",
+                "preventive_care",
+                "bone_health",
+                "cardiovascular_health"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "doctor_010",
+            "title": "When Symptoms Return or Worsen",
+            "description": "Changes requiring medical follow-up",
+            "content": "If you're on treatment and symptoms return or worsen, or if new symptoms develop, follow-up with your healthcare provider is needed. Treatment may need adjustment.",
+            "situations_requiring_follow_up": [
+                "Symptoms return while on HRT (may need dose adjustment)",
+                "New symptoms develop",
+                "Side effects from treatment",
+                "Breakthrough bleeding on HRT",
+                "Mood changes or depression worsening",
+                "Vaginal bleeding pattern changes",
+                "Any red flag symptoms"
+            ],
+            "dont_wait": "Don't suffer in silence or assume treatment isn't working. Many issues can be resolved with dose or formulation adjustments.",
+            "what_doctor_may_do": [
+                "Adjust HRT dose or formulation",
+                "Add or change medications",
+                "Investigate new symptoms",
+                "Check hormone levels (sometimes)",
+                "Refer to specialist if needed"
+            ],
+            "tags": [
+                "follow_up",
+                "treatment_adjustment",
+                "symptom_changes"
+            ],
+            "related_topics": [
+                "treatment_monitoring",
+                "HRT_adjustment",
+                "side_effects"
+            ],
+            "severity": "medium"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "category": "symptoms",
+    "subcategory": "vasomotor",
+    "last_updated": "2025-12-25",
+    "description": "Vasomotor symptoms related to temperature regulation during menopause",
+    "entries": [
+        {
+            "id": "vaso_001",
+            "title": "Hot Flashes",
+            "description": "Sudden intense feelings of heat spreading through the body",
+            "content": "Hot flashes are the hallmark symptom of menopause, affecting 75-85% of menopausal women. They involve sudden waves of intense heat, primarily in the face, neck, and chest, lasting 30 seconds to 10 minutes. Episodes are accompanied by flushing (redness), sweating, and sometimes rapid heartbeat. The sensation can range from mild warmth to intense heat. Hot flashes are caused by changes in the hypothalamus (the brain's thermostat) in response to declining estrogen levels, leading to inappropriate heat dissipation responses.",
+            "severity": "medium",
+            "frequency": "Can occur multiple times per day or week; varies greatly",
+            "duration": "Average 7 years, but can last 10+ years in some women",
+            "triggers": [
+                "Caffeine",
+                "Alcohol",
+                "Spicy foods",
+                "Hot beverages",
+                "Warm environments",
+                "Stress and anxiety",
+                "Smoking",
+                "Tight clothing"
+            ],
+            "management": [
+                "Dress in layers with breathable fabrics (cotton, linen)",
+                "Keep environment cool (fans, air conditioning)",
+                "Identify and avoid personal triggers",
+                "Cold water or ice packs",
+                "Relaxation techniques and stress management",
+                "Regular exercise",
+                "Maintain healthy weight",
+                "Hormone therapy (HRT) - most effective treatment",
+                "Non-hormonal medications: SSRIs/SNRIs, gabapentin, fezolinetant (Veozah)",
+                "Cognitive Behavioral Therapy (CBT)"
+            ],
+            "tags": [
+                "vasomotor",
+                "common",
+                "thermoregulation",
+                "estrogen",
+                "quality_of_life"
+            ],
+            "related_topics": [
+                "night_sweats",
+                "hormone_therapy",
+                "fezolinetant",
+                "lifestyle_modifications"
+            ],
+            "when_to_see_doctor": "If hot flashes are severe, frequent, disruptive to daily life or sleep, or accompanied by unexplained weight loss or other concerning symptoms"
+        },
+        {
+            "id": "vaso_002",
+            "title": "Night Sweats",
+            "description": "Hot flashes occurring during sleep causing excessive sweating",
+            "content": "Night sweats are hot flashes that occur during sleep, causing profuse sweating that can drench sleepwear and bedding. They are one of the most disruptive menopausal symptoms, severely impacting sleep quality and leading to insomnia, daytime fatigue, irritability, and reduced quality of life. Night sweats can occur multiple times per night, requiring changing clothes or sheets. Like daytime hot flashes, they result from hormonal changes affecting temperature regulation.",
+            "severity": "high",
+            "frequency": "Can occur multiple times per night",
+            "duration": "Can persist for several years",
+            "impact": "Severe sleep disruption, daytime fatigue, mood problems, reduced quality of life",
+            "management": [
+                "Keep bedroom cool (60-67°F / 15-19°C)",
+                "Use breathable, moisture-wicking bedding and sleepwear",
+                "Layer bedding for easy adjustment",
+                "Place cold packs under pillow, flip to cool side",
+                "Use fan or air conditioning",
+                "Avoid alcohol, caffeine, and heavy meals before bed",
+                "Shower before bed",
+                "Hormone therapy (HRT) - highly effective",
+                "Non-hormonal medications: gabapentin (especially for nighttime symptoms), SSRIs/SNRIs, fezolinetant (Veozah)",
+                "CBT for insomnia and hot flashes"
+            ],
+            "tags": [
+                "vasomotor",
+                "sleep",
+                "common",
+                "disruptive",
+                "quality_of_life"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "insomnia",
+                "hormone_therapy",
+                "gabapentin",
+                "sleep_management"
+            ],
+            "when_to_see_doctor": "If soaking through sheets nightly, especially with unexplained weight loss, lumps (armpit, neck, groin), or other concerning symptoms - could indicate lymphoma or other serious conditions"
+        },
+        {
+            "id": "vaso_003",
+            "title": "Cold Flashes",
+            "description": "Sudden feelings of coldness, often following hot flashes",
+            "content": "Cold flashes are less common than hot flashes but can occur during menopause. They involve sudden feelings of being cold, sometimes with shivering or chills. Cold flashes often occur after a hot flash as the body overcorrects its temperature regulation, but can also happen independently. They are caused by the same hypothalamic dysfunction that causes hot flashes.",
+            "severity": "low",
+            "frequency": "Less common than hot flashes, often follows hot flash episodes",
+            "duration": "Usually brief, seconds to minutes",
+            "management": [
+                "Keep layers available to add warmth",
+                "Warm beverages (non-caffeinated)",
+                "Gentle movement to generate warmth",
+                "Manage hot flashes to reduce cold flash rebound",
+                "Hormone therapy may help"
+            ],
+            "tags": [
+                "vasomotor",
+                "temperature",
+                "uncommon",
+                "thermoregulation"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "hormone_therapy"
+            ],
+            "when_to_see_doctor": "If severe or accompanied by other symptoms"
+        },
+        {
+            "id": "vaso_004",
+            "title": "Facial Flushing",
+            "description": "Redness and warmth in the face, neck, and chest",
+            "content": "Facial flushing is the visible redness that accompanies hot flashes, caused by dilation of blood vessels near the skin surface. The face, neck, and chest become noticeably red and warm. This can be embarrassing in social or professional situations and is a visible sign of a hot flash episode.",
+            "severity": "low",
+            "frequency": "Accompanies hot flashes",
+            "duration": "Lasts as long as the hot flash, typically minutes",
+            "management": [
+                "Same strategies as hot flash management",
+                "Cool compresses on face and neck",
+                "Breathable makeup if desired",
+                "Communicate with others if comfortable to reduce embarrassment",
+                "Hormone therapy or other hot flash treatments"
+            ],
+            "tags": [
+                "vasomotor",
+                "visible",
+                "hot_flash_related",
+                "social_impact"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "hormone_therapy"
+            ],
+            "when_to_see_doctor": "If part of severe hot flashes or causing significant distress"
+        },
+        {
+            "id": "vaso_005",
+            "title": "Excessive Sweating",
+            "description": "Increased sweating beyond normal hot flashes",
+            "content": "Some women experience excessive sweating (hyperhidrosis) during menopause beyond typical hot flash episodes. This can occur throughout the day and may be triggered by minor temperature changes or stress. While often benign, excessive sweating - especially night sweats that soak sheets - combined with unexplained weight loss or lumps can be a red flag for serious conditions like lymphoma.",
+            "severity": "medium",
+            "frequency": "Can be frequent or constant",
+            "duration": "Variable",
+            "management": [
+                "Breathable, moisture-wicking clothing",
+                "Antiperspirants (clinical strength if needed)",
+                "Stay hydrated",
+                "Avoid triggers",
+                "Manage stress",
+                "Hormone therapy may help",
+                "Medical treatments for hyperhidrosis if severe (prescription antiperspirants, Botox, etc.)"
+            ],
+            "tags": [
+                "vasomotor",
+                "sweating",
+                "quality_of_life"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "night_sweats",
+                "hormone_therapy"
+            ],
+            "when_to_see_doctor": "If excessive sweating is severe, especially with unexplained weight loss, lumps, or fever - could indicate serious conditions"
+        }
+    ]
+}

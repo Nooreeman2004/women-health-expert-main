@@ -1,0 +1,150 @@
+.voice-input {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+}
+
+.voice-button {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(42, 42, 42, 0.8);
+    color: var(--color-white-dimmer);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-base);
+    border: 2px solid rgba(220, 38, 38, 0.2);
+    position: relative;
+    overflow: visible;
+}
+
+.voice-button:hover:not(:disabled) {
+    background: rgba(42, 42, 42, 0.95);
+    border-color: rgba(220, 38, 38, 0.4);
+    color: var(--color-white);
+    transform: scale(1.05);
+}
+
+.voice-button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.voice-button svg {
+    width: 22px;
+    height: 22px;
+    position: relative;
+    z-index: 2;
+}
+
+/* Listening state */
+.voice-button.listening {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 50%, #991b1b 100%);
+    color: var(--color-white);
+    border-color: rgba(255, 255, 255, 0.3);
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.voice-button.listening:hover {
+    transform: scale(1.05);
+}
+
+/* Listening indicator */
+.listening-indicator {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.pulse-ring {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    border: 2px solid var(--color-red-primary);
+    border-radius: 50%;
+    animation: pulseRing 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+    opacity: 0;
+}
+
+.pulse-ring:nth-child(2) {
+    animation-delay: 0.66s;
+}
+
+.pulse-ring:nth-child(3) {
+    animation-delay: 1.33s;
+}
+
+@keyframes pulseRing {
+    0% {
+        transform: translate(-50%, -50%) scale(0.8);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translate(-50%, -50%) scale(1.8);
+        opacity: 0;
+    }
+}
+
+/* Transcript preview */
+.transcript-preview {
+    position: absolute;
+    bottom: calc(100% + 12px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(20, 20, 20, 0.95);
+    backdrop-filter: blur(20px);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: 16px;
+    border: 1px solid rgba(220, 38, 38, 0.3);
+    color: var(--color-white-dim);
+    font-size: var(--font-size-sm);
+    white-space: nowrap;
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    animation: slideInUp 0.3s ease-out;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.transcript-preview::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid rgba(20, 20, 20, 0.95);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .voice-button {
+        width: 50px;
+        height: 50px;
+    }
+
+    .voice-button svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .transcript-preview {
+        max-width: 200px;
+        font-size: 0.8rem;
+    }
+}

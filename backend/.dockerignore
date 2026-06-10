@@ -1,0 +1,48 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables - INCLUDED in Docker image
+# env
+# .env
+# .env.local
+
+# Test files
+test_results.txt
+test_critique.txt
+test_summary.md
+content_quality_analysis.md
+context_fix_results.md
+
+# Scripts
+scripts/
+
+# Data files
+data/
+*.csv
+*.json
+*.pkl
+
+# Firebase credentials
+*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

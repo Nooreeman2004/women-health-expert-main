@@ -1,0 +1,407 @@
+{
+    "category": "treatments",
+    "subcategory": "comparison_tools",
+    "last_updated": "2025-12-25",
+    "description": "Comparison tools and decision guidance for menopause treatment options",
+    "entries": [
+        {
+            "id": "compare_001",
+            "title": "HRT Types Comparison: Delivery Methods",
+            "description": "Comparing oral, transdermal, and vaginal estrogen delivery",
+            "content": "Different HRT delivery methods have different benefits, risks, and convenience factors. The best choice depends on your symptoms, risk factors, and preferences.",
+            "comparison_table": [
+                {
+                    "type": "Oral Estrogen (Pills)",
+                    "forms": [
+                        "Tablets taken daily"
+                    ],
+                    "pros": [
+                        "Convenient and familiar",
+                        "Good for hot flashes and systemic symptoms",
+                        "Often less expensive",
+                        "May improve cholesterol profile"
+                    ],
+                    "cons": [
+                        "Higher risk of blood clots than transdermal",
+                        "First-pass liver metabolism (may affect some women)",
+                        "Must remember daily pill",
+                        "Not ideal if history of blood clots or migraines"
+                    ],
+                    "best_for": "Women without blood clot risk, prefer pills, need systemic symptom relief",
+                    "avoid_if": "History of blood clots, stroke, migraines with aura, liver disease"
+                },
+                {
+                    "type": "Transdermal Estrogen (Patch)",
+                    "forms": [
+                        "Patches changed 1-2x weekly"
+                    ],
+                    "pros": [
+                        "Lower blood clot risk than oral",
+                        "Steady hormone levels (less fluctuation)",
+                        "Bypasses liver (safer for some conditions)",
+                        "Don't have to remember daily",
+                        "Good for migraines, blood clot concerns"
+                    ],
+                    "cons": [
+                        "Skin irritation possible",
+                        "Visible (though can be placed discreetly)",
+                        "May not stick well with sweating/swimming",
+                        "Slightly more expensive"
+                    ],
+                    "best_for": "Women with blood clot risk, migraines, liver concerns, prefer less frequent dosing",
+                    "avoid_if": "Severe skin sensitivity, allergies to adhesives"
+                },
+                {
+                    "type": "Transdermal Estrogen (Gel/Spray)",
+                    "forms": [
+                        "Daily gel or spray applied to skin"
+                    ],
+                    "pros": [
+                        "Lower blood clot risk than oral",
+                        "No visible patch",
+                        "Flexible dosing",
+                        "Bypasses liver",
+                        "Good for skin-sensitive women who can't use patches"
+                    ],
+                    "cons": [
+                        "Must apply daily",
+                        "Must let dry before contact with others (especially children/pets)",
+                        "Can transfer to others before dry",
+                        "More expensive than pills"
+                    ],
+                    "best_for": "Women who want transdermal benefits without patch visibility, can't tolerate patches",
+                    "avoid_if": "Close contact with children/pets immediately after application difficult to avoid"
+                },
+                {
+                    "type": "Vaginal Estrogen (Local)",
+                    "forms": [
+                        "Cream, tablet, or ring inserted vaginally"
+                    ],
+                    "pros": [
+                        "Treats vaginal/urinary symptoms directly",
+                        "Very low systemic absorption (safer)",
+                        "Can use long-term safely",
+                        "Doesn't require progesterone (usually)",
+                        "Safe for many women who can't take systemic HRT"
+                    ],
+                    "cons": [
+                        "Only treats vaginal/urinary symptoms",
+                        "Doesn't help hot flashes, mood, bones",
+                        "Requires vaginal insertion",
+                        "Cream can be messy"
+                    ],
+                    "best_for": "Women with only vaginal/urinary symptoms, or those who can't take systemic HRT",
+                    "avoid_if": "Need treatment for hot flashes or other systemic symptoms (would need additional treatment)"
+                }
+            ],
+            "progesterone_note": "If you have a uterus, you need progesterone with systemic estrogen to protect uterine lining. Progesterone comes as: oral pill (often causes drowsiness - take at night), IUD (Mirena), or combined estrogen-progesterone patch.",
+            "tags": [
+                "HRT",
+                "comparison",
+                "delivery_methods",
+                "decision_making"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "hormonal_treatments",
+                "risks_benefits"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "compare_002",
+            "title": "HRT vs Non-Hormonal Treatments Decision Guide",
+            "description": "When to choose hormonal vs non-hormonal options",
+            "content": "Both hormonal and non-hormonal treatments have roles in menopause management. The choice depends on symptom severity, risk factors, and personal preferences.",
+            "decision_factors": [
+                {
+                    "factor": "Symptom Severity",
+                    "choose_HRT_if": "Moderate to severe symptoms significantly affecting quality of life; multiple symptoms",
+                    "choose_non_hormonal_if": "Mild symptoms; only one or two bothersome symptoms",
+                    "rationale": "HRT is most effective for multiple moderate-severe symptoms; non-hormonal may suffice for mild cases"
+                },
+                {
+                    "factor": "Age & Timing",
+                    "choose_HRT_if": "Under 60 or within 10 years of menopause; early/premature menopause",
+                    "choose_non_hormonal_if": "Over 60 or more than 10 years past menopause (higher HRT risks)",
+                    "rationale": "HRT benefits outweigh risks when started early; risks increase with later start"
+                },
+                {
+                    "factor": "Medical History",
+                    "choose_HRT_if": "No contraindications; family history of osteoporosis; need bone protection",
+                    "choose_non_hormonal_if": "History of blood clots, stroke, breast cancer, or other contraindications",
+                    "rationale": "Some conditions make HRT unsafe; non-hormonal options are safer alternatives"
+                },
+                {
+                    "factor": "Primary Symptoms",
+                    "choose_HRT_if": "Hot flashes, night sweats, vaginal dryness, mood issues, joint pain, bone loss concerns",
+                    "choose_non_hormonal_if": "Primarily hot flashes only, or can't/won't take hormones",
+                    "rationale": "HRT treats widest range of symptoms; some non-hormonal options target specific symptoms"
+                },
+                {
+                    "factor": "Personal Preference",
+                    "choose_HRT_if": "Comfortable with hormones; want most effective option; willing to accept small risks",
+                    "choose_non_hormonal_if": "Prefer to avoid hormones; concerned about HRT risks; want 'natural' approach",
+                    "rationale": "Personal values and comfort matter; both approaches have evidence"
+                }
+            ],
+            "combination_approach": "Many women use both: HRT for systemic symptoms + lifestyle changes + CBT for coping. This isn't either/or.",
+            "can_switch": "You can start with non-hormonal and switch to HRT later if needed, or vice versa. Treatment can be adjusted.",
+            "tags": [
+                "decision_making",
+                "HRT",
+                "non_hormonal",
+                "treatment_choice"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "non_hormonal_treatments",
+                "treatment_planning"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "compare_003",
+            "title": "HRT Risk Assessment Guidance",
+            "description": "Understanding and evaluating your individual HRT risks",
+            "content": "HRT risks are individual and depend on age, timing, type of HRT, duration, and personal/family history. Absolute risks are generally small for most women under 60.",
+            "risk_categories": [
+                {
+                    "risk": "Breast Cancer",
+                    "absolute_risk": "Combined HRT: ~1 extra case per 1,000 women per year. Estrogen-only: no increased risk or slight decrease.",
+                    "risk_factors_increasing": [
+                        "Family history of breast cancer",
+                        "Long duration (>5 years)",
+                        "Combined HRT vs estrogen-only",
+                        "Older age at start"
+                    ],
+                    "risk_factors_decreasing": [
+                        "Estrogen-only HRT",
+                        "Shorter duration",
+                        "Starting younger",
+                        "No family history"
+                    ],
+                    "context": "Similar risk to drinking 2 glasses of wine daily or being overweight. Risk decreases after stopping."
+                },
+                {
+                    "risk": "Blood Clots (VTE)",
+                    "absolute_risk": "Oral estrogen: ~2 extra cases per 1,000 women per year. Transdermal: minimal to no increased risk.",
+                    "risk_factors_increasing": [
+                        "Oral estrogen",
+                        "History of blood clots",
+                        "Obesity",
+                        "Smoking",
+                        "Immobility"
+                    ],
+                    "risk_factors_decreasing": [
+                        "Transdermal estrogen (patch/gel)",
+                        "Normal weight",
+                        "Active lifestyle",
+                        "No clot history"
+                    ],
+                    "context": "Transdermal estrogen avoids this risk. Pregnancy carries higher VTE risk than HRT."
+                },
+                {
+                    "risk": "Stroke",
+                    "absolute_risk": "Small increase with oral estrogen, especially if started after 60. Transdermal may be safer.",
+                    "risk_factors_increasing": [
+                        "Starting after age 60",
+                        "High blood pressure",
+                        "Smoking",
+                        "Diabetes",
+                        "Oral estrogen"
+                    ],
+                    "risk_factors_decreasing": [
+                        "Starting before 60",
+                        "Controlled blood pressure",
+                        "Transdermal estrogen",
+                        "Healthy lifestyle"
+                    ],
+                    "context": "Risk is age-dependent. Very low for women under 60 with controlled blood pressure."
+                },
+                {
+                    "risk": "Heart Disease",
+                    "absolute_risk": "DECREASED risk if started within 10 years of menopause. Increased risk if started >10 years after.",
+                    "risk_factors_increasing": [
+                        "Starting >10 years after menopause",
+                        "Existing heart disease",
+                        "Multiple cardiovascular risk factors"
+                    ],
+                    "risk_factors_decreasing": [
+                        "Starting within 10 years of menopause",
+                        "No existing heart disease",
+                        "Healthy lifestyle"
+                    ],
+                    "context": "Timing is everything. Early HRT may protect heart; late HRT may increase risk."
+                }
+            ],
+            "benefits_to_weigh": [
+                "Dramatically improved quality of life",
+                "Osteoporosis prevention (major benefit)",
+                "Possible heart disease prevention if started early",
+                "Reduced colorectal cancer risk",
+                "Improved mood and cognitive function",
+                "Better sleep and energy"
+            ],
+            "individual_assessment": "Your doctor should assess YOUR specific risks based on age, timing, medical history, family history, and type of HRT. Risks are not one-size-fits-all.",
+            "tags": [
+                "HRT",
+                "risks",
+                "benefits",
+                "assessment",
+                "decision_making"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "risks_benefits",
+                "contraindications"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "compare_004",
+            "title": "Treatment Effectiveness Comparison",
+            "description": "How effective are different treatments for specific symptoms",
+            "content": "Different treatments have different effectiveness levels for various symptoms. This helps set realistic expectations.",
+            "effectiveness_by_symptom": [
+                {
+                    "symptom": "Hot Flashes & Night Sweats",
+                    "most_effective": "HRT (estrogen) - 80-90% reduction",
+                    "moderately_effective": [
+                        "Fezolinetant (Veozah) - 50-60% reduction",
+                        "SSRIs/SNRIs - 40-60% reduction",
+                        "Gabapentin - 40-50% reduction"
+                    ],
+                    "limited_effectiveness": [
+                        "Black cohosh - inconsistent evidence",
+                        "Soy/phytoestrogens - minimal effect for most",
+                        "Acupuncture - limited evidence"
+                    ],
+                    "lifestyle_helps": "Cooling strategies, avoiding triggers, stress management - helps coping, doesn't eliminate"
+                },
+                {
+                    "symptom": "Vaginal Dryness & GSM",
+                    "most_effective": "Vaginal estrogen - 80-90% improvement",
+                    "moderately_effective": [
+                        "Vaginal DHEA - 60-70% improvement",
+                        "Ospemifene (oral) - 50-60% improvement",
+                        "Regular moisturizers - 40-50% improvement"
+                    ],
+                    "limited_effectiveness": [
+                        "Lubricants alone - temporary relief only",
+                        "Oral HRT - helps but less than local estrogen"
+                    ],
+                    "lifestyle_helps": "Regular sexual activity, moisturizers, adequate hydration"
+                },
+                {
+                    "symptom": "Mood, Anxiety, Irritability",
+                    "most_effective": "HRT (if hormone-driven) - 60-80% improvement",
+                    "moderately_effective": [
+                        "CBT (Cognitive Behavioral Therapy) - 50-70% improvement",
+                        "SSRIs (if clinical depression) - 60-70% improvement",
+                        "Exercise - 40-60% improvement"
+                    ],
+                    "limited_effectiveness": [
+                        "Herbal supplements - inconsistent evidence",
+                        "SSRIs alone (if purely hormonal) - 30-40%"
+                    ],
+                    "lifestyle_helps": "Exercise, stress management, sleep hygiene, mindfulness - significant impact"
+                },
+                {
+                    "symptom": "Sleep Disturbances",
+                    "most_effective": "HRT (if due to night sweats) - 70-80% improvement",
+                    "moderately_effective": [
+                        "CBT-I (Cognitive Behavioral Therapy for Insomnia) - 60-70%",
+                        "Sleep hygiene + melatonin - 40-50%",
+                        "Gabapentin (if night sweats) - 40-50%"
+                    ],
+                    "limited_effectiveness": [
+                        "Herbal supplements - minimal evidence",
+                        "Sleep aids alone without addressing cause - temporary"
+                    ],
+                    "lifestyle_helps": "Sleep hygiene, cool bedroom, stress management - essential foundation"
+                },
+                {
+                    "symptom": "Bone Health (Osteoporosis Prevention)",
+                    "most_effective": "HRT - highly effective for prevention",
+                    "moderately_effective": [
+                        "Bisphosphonates (for treatment) - very effective",
+                        "Calcium + Vitamin D + weight-bearing exercise - 40-50% prevention"
+                    ],
+                    "limited_effectiveness": [
+                        "Calcium/Vitamin D alone - insufficient",
+                        "Exercise alone - helps but not enough"
+                    ],
+                    "lifestyle_helps": "Weight-bearing exercise, resistance training, adequate calcium/vitamin D - essential"
+                }
+            ],
+            "combination_note": "Combining treatments (e.g., HRT + lifestyle + CBT) often works better than single approach.",
+            "tags": [
+                "effectiveness",
+                "comparison",
+                "treatments",
+                "evidence"
+            ],
+            "related_topics": [
+                "treatment_options",
+                "evidence_based",
+                "expectations"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "compare_005",
+            "title": "Bioidentical vs Synthetic Hormones",
+            "description": "Understanding the terminology and actual differences",
+            "content": "There's confusion about 'bioidentical' vs 'synthetic' hormones. The truth is more nuanced than marketing suggests.",
+            "terminology_clarification": {
+                "body_identical": "Chemically identical to hormones your body makes. Includes FDA-approved estradiol and micronized progesterone.",
+                "bioidentical": "Marketing term often used for compounded hormones, but also applies to FDA-approved body-identical hormones.",
+                "synthetic": "Chemically different from body's hormones (like conjugated equine estrogens from horse urine, or progestins like medroxyprogesterone)."
+            },
+            "comparison": [
+                {
+                    "type": "FDA-Approved Body-Identical (e.g., 17-beta estradiol, micronized progesterone)",
+                    "source": "Plant-derived (soy/yam) but synthesized in lab to match human hormones",
+                    "regulation": "FDA-approved, tested for purity, consistent dosing",
+                    "safety_profile": "Well-studied; micronized progesterone may have better safety than synthetic progestins",
+                    "availability": "Prescription from regular pharmacy",
+                    "cost": "Usually covered by insurance",
+                    "recommendation": "RECOMMENDED by medical societies"
+                },
+                {
+                    "type": "Compounded 'Bioidentical' Hormones",
+                    "source": "Same plant-derived hormones, custom-mixed by compounding pharmacy",
+                    "regulation": "NOT FDA-approved, no quality control testing",
+                    "safety_profile": "Same risks as regulated hormones but without quality oversight; batch-to-batch variation",
+                    "availability": "Compounding pharmacy only",
+                    "cost": "Often NOT covered by insurance, expensive",
+                    "recommendation": "NOT RECOMMENDED except for allergies or unique needs"
+                },
+                {
+                    "type": "Synthetic Hormones (e.g., CEE, medroxyprogesterone)",
+                    "source": "Conjugated equine estrogens (horse urine) or synthetic progestins",
+                    "regulation": "FDA-approved, tested",
+                    "safety_profile": "Well-studied; some synthetic progestins may have slightly higher risks than micronized progesterone",
+                    "availability": "Prescription from regular pharmacy",
+                    "cost": "Usually covered by insurance, often generic",
+                    "recommendation": "Acceptable option, though body-identical often preferred"
+                }
+            ],
+            "bottom_line": "FDA-approved body-identical hormones (estradiol, micronized progesterone) are the best choice: they're bioidentical, regulated, safe, and effective. Compounded hormones are not recommended.",
+            "tags": [
+                "bioidentical",
+                "synthetic",
+                "HRT_types",
+                "comparison",
+                "safety"
+            ],
+            "related_topics": [
+                "compounded_bioidentical_hormones",
+                "HRT_overview",
+                "safety"
+            ],
+            "severity": "n/a"
+        }
+    ]
+}

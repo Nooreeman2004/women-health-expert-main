@@ -1,0 +1,12 @@
+{
+  "total_files_processed": 25,
+  "total_entries_processed": 218,
+  "total_chunks_created": 364,
+  "average_chunks_per_entry": 1.6697247706422018,
+  "average_chunk_size_tokens": 141.71703296703296,
+  "files_with_errors": [],
+  "warnings": [
+    "treatments\\comparison_decision_tools.json: Chunk too large: 739 tokens",
+    "treatments\\comparison_decision_tools.json: Chunk too large: 731 tokens"
+  ]
+}

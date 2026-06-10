@@ -1,0 +1,331 @@
+{
+    "category": "treatments",
+    "subcategory": "non_hormonal",
+    "last_updated": "2025-12-25",
+    "description": "Non-hormonal treatment options for menopause symptoms",
+    "entries": [
+        {
+            "id": "nonhorm_001",
+            "title": "Fezolinetant (Veozah)",
+            "description": "FDA-approved non-hormonal medication for hot flashes",
+            "content": "Fezolinetant (brand name Veozah) is a groundbreaking non-hormonal medication FDA-approved in 2023 specifically for treating moderate to severe hot flashes associated with menopause. It works as a neurokinin 3 (NK3) receptor antagonist, blocking specific brain pathways that trigger hot flashes and regulate body temperature. This represents a major advancement for women who cannot or choose not to use hormone therapy.",
+            "mechanism": "Blocks NK3 receptors in the brain's thermoregulatory center",
+            "form": "Oral pill taken once daily",
+            "effectiveness": "Significantly reduces frequency and severity of hot flashes; improves sleep quality and quality of life",
+            "who_can_use": "Women with moderate to severe hot flashes who cannot or prefer not to use hormone therapy",
+            "benefits": [
+                "Hormone-free option",
+                "Specifically targets hot flashes",
+                "Improves sleep disrupted by night sweats",
+                "Improves quality of life",
+                "Works within 1-2 weeks"
+            ],
+            "side_effects": [
+                "Abdominal pain",
+                "Potential liver problems (requires monitoring)",
+                "May worsen sleep problems in some women",
+                "Diarrhea",
+                "Back pain"
+            ],
+            "monitoring": "Liver function tests required before starting and periodically during treatment",
+            "tags": [
+                "non_hormonal",
+                "NK3_antagonist",
+                "hot_flashes",
+                "FDA_approved",
+                "new_treatment"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "night_sweats",
+                "hormone_free_options"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if you have moderate to severe hot flashes and want a non-hormonal option"
+        },
+        {
+            "id": "nonhorm_002",
+            "title": "SSRIs and SNRIs (Antidepressants)",
+            "description": "Certain antidepressants that can reduce hot flashes and help mood symptoms",
+            "content": "Selective Serotonin Reuptake Inhibitors (SSRIs) and Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) are antidepressants that can help manage both hot flashes and mood symptoms during menopause. Low-dose paroxetine (Brisdelle) is FDA-approved specifically for hot flashes. These medications are particularly useful for women who cannot take hormone therapy or who also have depression or anxiety.",
+            "examples": [
+                "Paroxetine (Paxil, Brisdelle) - FDA approved for hot flashes",
+                "Venlafaxine (Effexor)",
+                "Escitalopram (Lexapro)",
+                "Citalopram (Celexa)",
+                "Fluoxetine (Prozac)"
+            ],
+            "effectiveness": "Moderate - reduces hot flashes by 40-60%; also helps mood symptoms",
+            "who_can_use": "Women with hot flashes and/or mood symptoms, especially those who cannot use HRT",
+            "benefits": [
+                "Reduces hot flash frequency and severity",
+                "Helps depression and anxiety",
+                "Improves mood swings and irritability",
+                "Non-hormonal option",
+                "Well-studied and generally safe"
+            ],
+            "side_effects": [
+                "Nausea (usually temporary)",
+                "Headache",
+                "Drowsiness or insomnia",
+                "Sexual side effects (reduced libido, difficulty orgasming)",
+                "Weight changes",
+                "Dry mouth"
+            ],
+            "important_notes": [
+                "Takes 2-4 weeks to see full effect",
+                "Should not be stopped abruptly",
+                "Some SSRIs can interfere with tamoxifen (breast cancer medication)"
+            ],
+            "tags": [
+                "non_hormonal",
+                "antidepressants",
+                "SSRI",
+                "SNRI",
+                "hot_flashes",
+                "mood"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "depression",
+                "anxiety",
+                "mood_swings"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if you have hot flashes and/or mood symptoms"
+        },
+        {
+            "id": "nonhorm_003",
+            "title": "Gabapentin (Neurontin, Gralise)",
+            "description": "Anti-seizure medication effective for hot flashes, especially at night",
+            "content": "Gabapentin is an anti-seizure medication that has been shown to reduce hot flashes, particularly nighttime hot flashes and night sweats. It's especially useful for women who cannot take estrogen therapy or who have severe nighttime symptoms disrupting sleep.",
+            "form": "Oral pills, typically taken at bedtime for nighttime symptoms or 2-3 times daily",
+            "effectiveness": "Moderate - reduces hot flashes by 40-50%, particularly effective for nighttime symptoms",
+            "who_can_use": "Women with hot flashes who cannot use HRT; particularly helpful for nighttime symptoms",
+            "benefits": [
+                "Reduces hot flashes, especially at night",
+                "Improves sleep quality",
+                "Non-hormonal option",
+                "May help with pain and restless legs"
+            ],
+            "side_effects": [
+                "Drowsiness (can be beneficial at bedtime)",
+                "Dizziness",
+                "Fatigue",
+                "Headache",
+                "Swelling in legs/feet"
+            ],
+            "dosing_notes": "Often started at low dose and gradually increased; bedtime dosing can minimize daytime drowsiness",
+            "tags": [
+                "non_hormonal",
+                "gabapentin",
+                "hot_flashes",
+                "night_sweats",
+                "sleep"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "night_sweats",
+                "sleep_disturbances"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if hot flashes are severe, especially at night"
+        },
+        {
+            "id": "nonhorm_004",
+            "title": "Clonidine (Catapres)",
+            "description": "Blood pressure medication that can reduce hot flashes",
+            "content": "Clonidine is a medication primarily used to treat high blood pressure, but it can also provide some relief from hot flashes. It's available as pills or patches. While it can help, it's not as commonly prescribed as other options due to potential side effects.",
+            "forms": [
+                "Pills taken 2-3 times daily",
+                "Skin patches changed weekly"
+            ],
+            "effectiveness": "Modest - reduces hot flashes by 20-40%",
+            "who_can_use": "Women with hot flashes who cannot use HRT, especially those with high blood pressure",
+            "benefits": [
+                "Reduces hot flashes",
+                "Also treats high blood pressure if present",
+                "Non-hormonal option"
+            ],
+            "side_effects": [
+                "Low blood pressure",
+                "Dizziness",
+                "Drowsiness",
+                "Dry mouth",
+                "Constipation",
+                "Headache"
+            ],
+            "limitations": "Less effective than HRT or newer non-hormonal options; side effects can be limiting",
+            "tags": [
+                "non_hormonal",
+                "clonidine",
+                "hot_flashes",
+                "blood_pressure"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "cardiovascular_health"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if other options haven't worked or you have high blood pressure"
+        },
+        {
+            "id": "nonhorm_005",
+            "title": "Oxybutynin (Oxytrol)",
+            "description": "Overactive bladder medication that can help with hot flashes",
+            "content": "Oxybutynin is primarily used to treat overactive bladder and urinary incontinence, but it has also been shown to relieve hot flashes and night sweats. However, in older adults it may be linked to cognitive decline, so it should be used with caution.",
+            "forms": [
+                "Pills",
+                "Skin patch"
+            ],
+            "effectiveness": "Moderate for hot flashes; effective for urinary symptoms",
+            "who_can_use": "Women with both hot flashes and urinary symptoms; use with caution in older adults",
+            "benefits": [
+                "Reduces hot flashes",
+                "Treats urinary urgency and incontinence",
+                "Non-hormonal option"
+            ],
+            "side_effects": [
+                "Dry mouth",
+                "Constipation",
+                "Blurred vision",
+                "Drowsiness",
+                "Cognitive effects (memory, confusion) - especially in older adults"
+            ],
+            "cautions": "May be linked to cognitive decline in older adults; use with caution",
+            "tags": [
+                "non_hormonal",
+                "oxybutynin",
+                "hot_flashes",
+                "urinary_incontinence",
+                "caution"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "urinary_urgency",
+                "cognitive_health"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if you have both hot flashes and urinary symptoms"
+        },
+        {
+            "id": "nonhorm_006",
+            "title": "Vaginal Moisturizers and Lubricants",
+            "description": "Over-the-counter products for vaginal dryness",
+            "content": "Vaginal moisturizers and lubricants are non-hormonal, over-the-counter products that can help relieve vaginal dryness and discomfort during sex. Moisturizers are used regularly (2-3 times per week) to maintain vaginal moisture, while lubricants are used during sexual activity.",
+            "types": [
+                "Vaginal moisturizers (Replens, K-Y Liquibeads) - used regularly",
+                "Water-based lubricants (Astroglide, K-Y Jelly) - used during sex",
+                "Silicone-based lubricants (Sliquid) - longer-lasting, used during sex"
+            ],
+            "effectiveness": "Helpful for mild to moderate vaginal dryness; may not be sufficient for severe symptoms",
+            "who_can_use": "All women with vaginal dryness",
+            "benefits": [
+                "Non-hormonal",
+                "Available without prescription",
+                "Safe for long-term use",
+                "Immediate relief during sex (lubricants)"
+            ],
+            "usage_tips": [
+                "Use water-based lubricants with condoms (oil-based can damage condoms)",
+                "Apply moisturizers regularly, not just before sex",
+                "May need to try different products to find what works best"
+            ],
+            "limitations": "May not be sufficient for severe vaginal atrophy; vaginal estrogen is more effective",
+            "tags": [
+                "non_hormonal",
+                "vaginal_dryness",
+                "lubricants",
+                "moisturizers",
+                "OTC"
+            ],
+            "related_topics": [
+                "vaginal_dryness",
+                "painful_intercourse",
+                "vaginal_estrogen"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "If symptoms persist despite OTC products, discuss vaginal estrogen"
+        },
+        {
+            "id": "nonhorm_007",
+            "title": "Cognitive Behavioral Therapy (CBT)",
+            "description": "Talking therapy that helps manage menopause symptoms",
+            "content": "Cognitive Behavioral Therapy (CBT) is a type of talking therapy that can help manage various menopause symptoms, including hot flashes, mood problems, anxiety, and sleep issues. CBT teaches coping strategies, helps change unhelpful thought patterns, and provides tools to manage symptoms. It's particularly effective for mood symptoms and can reduce the impact of hot flashes even if it doesn't eliminate them.",
+            "what_it_helps": [
+                "Low mood and depression",
+                "Anxiety",
+                "Hot flashes (reduces impact and distress)",
+                "Sleep problems",
+                "Coping with menopause transition"
+            ],
+            "effectiveness": "Evidence-based for mood, anxiety, and sleep; helps reduce distress from hot flashes",
+            "who_can_use": "All women, particularly those with mood or anxiety symptoms",
+            "benefits": [
+                "Non-medication approach",
+                "Teaches lifelong coping skills",
+                "Addresses multiple symptoms",
+                "No side effects",
+                "Can be used alongside other treatments"
+            ],
+            "access": "Available through NHS talking therapies, private therapists, or online programs",
+            "format": "Individual or group sessions, in-person or online",
+            "tags": [
+                "non_hormonal",
+                "CBT",
+                "therapy",
+                "mood",
+                "anxiety",
+                "hot_flashes",
+                "sleep"
+            ],
+            "related_topics": [
+                "depression",
+                "anxiety",
+                "hot_flashes",
+                "sleep_disturbances",
+                "coping_strategies"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Can self-refer to NHS talking therapies or discuss with doctor"
+        },
+        {
+            "id": "nonhorm_008",
+            "title": "Ospemifene (Osphena)",
+            "description": "Selective estrogen receptor modulator for painful intercourse",
+            "content": "Ospemifene is a selective estrogen receptor modulator (SERM) taken as a daily pill to treat painful intercourse (dyspareunia) caused by vaginal atrophy. It acts like estrogen on vaginal tissues but has different effects on other tissues. It's not suitable for women with a history of breast cancer or high breast cancer risk.",
+            "form": "Oral pill taken daily",
+            "effectiveness": "Effective for vaginal dryness and painful intercourse",
+            "who_can_use": "Postmenopausal women with painful intercourse due to vaginal atrophy",
+            "who_should_avoid": [
+                "Women with history of breast cancer",
+                "Women at high risk for breast cancer",
+                "History of blood clots or stroke"
+            ],
+            "benefits": [
+                "Oral medication (not vaginal application)",
+                "Treats vaginal atrophy",
+                "Reduces painful intercourse"
+            ],
+            "side_effects": [
+                "Hot flashes (may worsen)",
+                "Vaginal discharge",
+                "Muscle spasms"
+            ],
+            "tags": [
+                "non_hormonal",
+                "SERM",
+                "ospemifene",
+                "vaginal_atrophy",
+                "painful_intercourse"
+            ],
+            "related_topics": [
+                "vaginal_dryness",
+                "painful_intercourse",
+                "vaginal_estrogen"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if painful intercourse persists and you cannot use vaginal estrogen"
+        }
+    ]
+}

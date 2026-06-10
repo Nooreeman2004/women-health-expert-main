@@ -1,0 +1,339 @@
+{
+    "category": "chatbot",
+    "subcategory": "decision_trees_medication",
+    "last_updated": "2025-12-25",
+    "description": "Decision trees for RAG chatbot logic and medication interaction safety protocols",
+    "decision_trees": [
+        {
+            "id": "tree_001",
+            "title": "Can I Take HRT? Decision Tree",
+            "description": "Step-by-step logic for determining HRT eligibility",
+            "purpose": "Guide users through HRT eligibility assessment while emphasizing doctor consultation",
+            "steps": [
+                {
+                    "step": 1,
+                    "question": "Symptom Severity Check",
+                    "ask_user": "How would you describe your symptom severity: mild, moderate, or severe?",
+                    "logic": {
+                        "mild": "Suggest lifestyle changes first, mention HRT available if symptoms worsen",
+                        "moderate_to_severe": "Continue to next step"
+                    }
+                },
+                {
+                    "step": 2,
+                    "question": "Uterus Check (CRITICAL)",
+                    "ask_user": "Do you still have a uterus? (Have you had a hysterectomy?)",
+                    "logic": {
+                        "yes_have_uterus": "Estrogen MUST be paired with progesterone to protect uterine lining",
+                        "no_uterus": "Estrogen-only may be possible (safer for breast cancer risk)"
+                    },
+                    "critical_note": "This determines whether progesterone is needed"
+                },
+                {
+                    "step": 3,
+                    "question": "Contraindication Screen",
+                    "ask_user": "Do you have any of these conditions? (Answer yes/no to each)",
+                    "conditions_to_screen": [
+                        "History of blood clots (DVT/PE)?",
+                        "History of stroke or heart attack?",
+                        "Current or past estrogen-sensitive cancer (breast, endometrial)?",
+                        "Active liver disease?",
+                        "Unexplained vaginal bleeding?"
+                    ],
+                    "logic": {
+                        "any_yes": "❌ Systemic HRT not recommended. Jump to Non-Hormonal Path. Note: Local vaginal estrogen may still be possible - discuss with doctor.",
+                        "all_no": "Continue to next step"
+                    }
+                },
+                {
+                    "step": 4,
+                    "question": "Risk Context Assessment",
+                    "ask_user": "To help assess your individual risk:",
+                    "questions": [
+                        "What is your age?",
+                        "How many years since your last period (if applicable)?",
+                        "Do you smoke?",
+                        "Do you have migraines with aura?"
+                    ],
+                    "logic": {
+                        "low_risk": "Age <60 AND <10 years since menopause AND non-smoker",
+                        "moderate_risk": "Age 60+ OR >10 years since menopause OR smoker OR migraines with aura",
+                        "formulation_guidance": "Transdermal estrogen (patch/gel) safer than oral, especially for blood clot risk and migraines"
+                    }
+                },
+                {
+                    "step": 5,
+                    "question": "Recommendation Output",
+                    "bot_response_template": "Based on what you've shared, [ELIGIBILITY STATUS]. [FORMULATION RECOMMENDATION]. However, this is general information - a healthcare provider should assess your individual situation, medical history, and preferences to determine the best approach for you.",
+                    "eligibility_statuses": {
+                        "likely_candidate": "HRT may be a good option for you",
+                        "possible_with_caution": "HRT may be possible but requires careful risk assessment",
+                        "not_recommended": "Systemic HRT is not recommended due to contraindications, but non-hormonal options are available"
+                    },
+                    "formulation_recommendations": {
+                        "standard": "Transdermal estrogen (patch or gel) with progesterone (if you have uterus) is often the preferred approach",
+                        "oral_ok": "Oral or transdermal estrogen are both options",
+                        "transdermal_preferred": "Transdermal estrogen is preferred over oral in your situation",
+                        "vaginal_only": "Local vaginal estrogen may be appropriate for vaginal symptoms"
+                    }
+                }
+            ],
+            "critical_disclaimers": [
+                "Always end with: 'Please discuss with a healthcare provider for personalized assessment'",
+                "Never give definitive yes/no - use 'may be an option' language",
+                "Emphasize individual variation",
+                "Provide information, not medical advice"
+            ]
+        },
+        {
+            "id": "tree_002",
+            "title": "Non-Hormonal Management Path",
+            "description": "Decision tree for non-hormonal treatment options",
+            "triggered_when": [
+                "HRT contraindicated",
+                "Cancer survivor",
+                "User preference against hormones",
+                "Failed HRT eligibility screening"
+            ],
+            "primary_symptom_assessment": {
+                "question": "What is your primary symptom concern?",
+                "pathways": {
+                    "hot_flashes": {
+                        "fda_approved": "Fezolinetant (Veozah) - targets brain temperature regulation, 50-60% reduction",
+                        "prescription_options": [
+                            "SSRIs/SNRIs (paroxetine, venlafaxine) - 40-60% reduction",
+                            "Gabapentin - 40-50% reduction, take at night"
+                        ],
+                        "lifestyle": "Cooling strategies, trigger avoidance, stress management"
+                    },
+                    "sleep_insomnia": {
+                        "behavioral": "CBT-I (Cognitive Behavioral Therapy for Insomnia) - highly effective",
+                        "supplements": "Melatonin 1-3mg, Magnesium glycinate 200-400mg",
+                        "lifestyle": "Sleep hygiene, cool bedroom, avoid caffeine/alcohol"
+                    },
+                    "mood_anxiety": {
+                        "therapy": "CBT (Cognitive Behavioral Therapy) - very effective",
+                        "medication": "SSRIs if clinical depression (discuss with doctor)",
+                        "lifestyle": "Exercise, stress management, mindfulness"
+                    },
+                    "vaginal_dryness": {
+                        "non_hormonal": "Hyaluronic acid moisturizers, polycarbophil-based products",
+                        "note": "Vaginal estrogen may be possible even with cancer history - discuss with oncologist",
+                        "lifestyle": "Regular use of moisturizers, lubricants for sex, adequate hydration"
+                    }
+                }
+            },
+            "bot_safety_rule": "Never stack multiple medications in one suggestion. Present options and emphasize doctor consultation for prescriptions."
+        },
+        {
+            "id": "tree_003",
+            "title": "Brain Fog & Cognitive Symptoms Decision Tree",
+            "description": "Systematic approach to brain fog management",
+            "steps": [
+                {
+                    "step": 1,
+                    "question": "Rule Out Sleep Issues",
+                    "ask_user": "Are you sleeping less than 6 hours per night? Are you waking due to night sweats?",
+                    "logic": {
+                        "yes_sleep_issues": "Treat sleep first - poor sleep is major cause of brain fog. See sleep management strategies.",
+                        "no_sleep_ok": "Continue to next step"
+                    }
+                },
+                {
+                    "step": 2,
+                    "question": "Medication Review",
+                    "ask_user": "Are you taking any of these medications?",
+                    "flag_medications": [
+                        "Antihistamines (Benadryl, etc.) - cause cognitive dulling",
+                        "Benzodiazepines (Xanax, Ativan, etc.) - affect memory",
+                        "Sleep aids (Ambien, etc.) - can cause next-day fog",
+                        "Regular alcohol use - disrupts sleep and cognition"
+                    ],
+                    "logic": "If yes to any, suggest discussing alternatives with doctor"
+                },
+                {
+                    "step": 3,
+                    "question": "Cognitive Change Type",
+                    "ask_user": "Which best describes your experience?",
+                    "options": {
+                        "forgetting_what": "Forgetting names, words, where you put things (typical brain fog)",
+                        "forgetting_how": "Forgetting HOW to do familiar tasks (driving to familiar place, using appliances)"
+                    },
+                    "logic": {
+                        "forgetting_what": "This is typical menopause brain fog. Provide coping strategies.",
+                        "forgetting_how": "⚠️ This requires medical evaluation - may be more than brain fog. Please see doctor within a week."
+                    }
+                },
+                {
+                    "step": 4,
+                    "question": "Safe Coping Strategies",
+                    "recommendations": [
+                        "External brain: Write everything down, use calendar reminders, task apps",
+                        "Pace method: Schedule demanding tasks in morning",
+                        "Meeting support: Request agendas, take notes, record when allowed",
+                        "Reduce multitasking: Focus on one thing at a time",
+                        "Regular breaks: Every 45-60 minutes"
+                    ],
+                    "treatment_options": "HRT often improves brain fog for many women. Discuss with doctor.",
+                    "bot_rule": "Do NOT suggest stimulants, nootropics, or unproven supplements"
+                }
+            ]
+        },
+        {
+            "id": "tree_004",
+            "title": "Vaginal/Sexual Symptoms Decision Tree",
+            "description": "Pathway for vaginal dryness, pain, and sexual health",
+            "steps": [
+                {
+                    "step": 1,
+                    "question": "Symptom Type Identification",
+                    "ask_user": "Which symptoms are you experiencing?",
+                    "options": [
+                        "Vaginal dryness",
+                        "Pain during sex",
+                        "Recurrent UTIs",
+                        "Low libido"
+                    ]
+                },
+                {
+                    "step": 2,
+                    "question": "Cancer History Check (CRITICAL)",
+                    "ask_user": "Do you have a history of estrogen-sensitive cancer (breast, endometrial)?",
+                    "logic": {
+                        "yes_cancer_history": "❌ Do not automatically recommend vaginal estrogen. Suggest: non-hormonal moisturizers, lubricants, pelvic PT. Note: Vaginal estrogen may be possible after oncologist approval.",
+                        "no_cancer_history": "Vaginal estrogen is safe and highly effective. Also recommend moisturizers and lubricants."
+                    }
+                },
+                {
+                    "step": 3,
+                    "question": "Treatment Recommendations by Symptom",
+                    "pathways": {
+                        "dryness_pain": {
+                            "most_effective": "Vaginal estrogen (cream, tablet, or ring) - 80-90% improvement",
+                            "non_hormonal": "Hyaluronic acid moisturizers, regular use (not just before sex)",
+                            "for_sex": "Water-based or silicone lubricants",
+                            "lifestyle": "Regular sexual activity (helps maintain tissue health), adequate hydration"
+                        },
+                        "recurrent_utis": {
+                            "explanation": "Low estrogen thins bladder lining - this is Genitourinary Syndrome of Menopause (GSM), not just hygiene",
+                            "treatment": "Vaginal estrogen can prevent recurrent UTIs",
+                            "note": "See doctor to rule out other causes"
+                        },
+                        "low_libido": {
+                            "hormonal": "May be due to low testosterone or estrogen - discuss HRT with doctor",
+                            "psychological": "Stress, relationship issues, body image - therapy may help",
+                            "physical": "Pain during sex reduces desire - treat dryness first",
+                            "multifactorial": "Often combination of factors - comprehensive approach needed"
+                        }
+                    }
+                }
+            ],
+            "critical_note": "Vaginal estrogen has very low systemic absorption and is safe for long-term use in most women"
+        }
+    ],
+    "medication_interactions": {
+        "hrt_contraindications": {
+            "absolute_contraindications": [
+                "History of blood clots (DVT/PE)",
+                "History of stroke or heart attack",
+                "Active liver disease",
+                "Current or recent estrogen-sensitive cancer (breast, endometrial)",
+                "Unexplained vaginal bleeding",
+                "Pregnancy"
+            ],
+            "relative_contraindications": [
+                "Migraines with aura (transdermal safer than oral)",
+                "Gallbladder disease",
+                "High triglycerides",
+                "Strong family history of breast cancer (needs assessment)"
+            ],
+            "note": "Local vaginal estrogen may be safe even with some contraindications - doctor decision"
+        },
+        "drug_supplement_interactions": {
+            "st_johns_wort": {
+                "interaction": "Reduces estrogen effectiveness by increasing metabolism",
+                "result": "Can cause breakthrough symptoms, bleeding",
+                "recommendation": "Avoid while on HRT or use alternative for mood (discuss with doctor)",
+                "bot_warning": "⚠️ St. John's Wort can reduce hormone effectiveness and worsen symptoms. Please discuss with your doctor before combining."
+            },
+            "vitamin_c_b6": {
+                "interaction": "High doses can interfere with estrogen metabolism",
+                "context": "Usually mild effect, but relevant",
+                "recommendation": "Avoid very high supplemental doses (normal dietary intake is fine)",
+                "bot_warning": "High doses of vitamin C and B6 may interfere with estrogen metabolism. Avoid mega-doses while on HRT."
+            },
+            "black_cohosh": {
+                "interaction": "No known interaction with HRT",
+                "concern": "Rare liver toxicity with long-term use",
+                "recommendation": "Monitor liver function if using long-term",
+                "bot_warning": "Black cohosh has rare liver risks. Please use caution and inform your doctor."
+            },
+            "multiple_supplements": {
+                "concern": "Increased risk of interactions and side effects",
+                "recommendation": "Less is more - focus on evidence-based supplements only",
+                "bot_warning": "⚠️ Combining multiple supplements can increase side effects. Stick to evidence-based options and inform your doctor of everything you take."
+            }
+        },
+        "timing_strategies": {
+            "progesterone": {
+                "timing": "Take at night",
+                "reason": "Often causes drowsiness - use this to help sleep",
+                "benefit": "Improves sleep quality, reduces daytime grogginess"
+            },
+            "estrogen_gel_patch": {
+                "timing": "Apply at consistent time daily",
+                "reason": "Maintains steady hormone levels",
+                "note": "Gel must dry before contact with others (especially children/pets)"
+            },
+            "general_rule": {
+                "principle": "Start one new treatment at a time",
+                "reason": "Allows you to identify what helps and what causes side effects",
+                "bot_rule": "Never suggest starting multiple new medications/supplements simultaneously"
+            }
+        }
+    },
+    "safety_protocols": {
+        "auto_warnings": {
+            "triggers": [
+                {
+                    "user_mentions": "St. John's Wort",
+                    "bot_response": "⚠️ St. John's Wort can reduce hormone effectiveness and worsen symptoms. Please discuss with your doctor."
+                },
+                {
+                    "user_mentions": "Black Cohosh",
+                    "bot_response": "⚠️ Black cohosh has rare liver risks. Please use caution and monitor liver function."
+                },
+                {
+                    "user_mentions": "multiple supplements",
+                    "bot_response": "⚠️ Combining supplements can increase side effects. Less is more - focus on evidence-based options."
+                },
+                {
+                    "user_mentions": "cancer history",
+                    "bot_response": "⚠️ Cancer history affects treatment options. I'll focus on non-hormonal approaches unless your oncologist has cleared hormone use."
+                }
+            ]
+        },
+        "special_population_flags": {
+            "surgical_menopause": {
+                "skip_advice": "Wait and see",
+                "emphasize": "Early, aggressive treatment often needed",
+                "flag_risks": "Higher bone and cardiovascular risks"
+            },
+            "transgender_men": {
+                "avoid_assumptions": "Fertility, anatomy, hormone status",
+                "validate": "Dysphoria-related concerns",
+                "note": "Testosterone ≠ menopause prevention"
+            },
+            "black_hispanic_women": {
+                "validate": "Symptom severity (often more intense)",
+                "encourage": "Advocacy if symptoms dismissed",
+                "acknowledge": "Healthcare disparities"
+            },
+            "cancer_survivors": {
+                "critical_rule": "NEVER auto-recommend estrogen",
+                "default_to": "Non-hormonal options first",
+                "note": "Vaginal estrogen may be possible after oncologist approval"
+            }
+        }
+    }
+}

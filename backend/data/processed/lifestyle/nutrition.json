@@ -1,0 +1,305 @@
+{
+    "category": "lifestyle",
+    "subcategory": "nutrition",
+    "last_updated": "2025-12-25",
+    "description": "Nutrition and dietary recommendations for menopause",
+    "entries": [
+        {
+            "id": "nutr_001",
+            "title": "Calcium for Bone Health",
+            "description": "Essential mineral to prevent osteoporosis",
+            "content": "Calcium is crucial for maintaining bone density and preventing osteoporosis after menopause. Women need 1200mg of calcium daily after menopause. Getting calcium from food sources is ideal, but supplements can help if dietary intake is insufficient.",
+            "recommended_intake": "1200mg per day for postmenopausal women",
+            "food_sources": [
+                "Dairy: Milk, yogurt, cheese",
+                "Leafy greens: Kale, collard greens, bok choy",
+                "Fortified foods: Orange juice, cereals, plant milks",
+                "Fish with bones: Sardines, canned salmon",
+                "Tofu (calcium-set)",
+                "Almonds"
+            ],
+            "supplements": "Consider if dietary intake insufficient; take with vitamin D for absorption",
+            "tips": [
+                "Spread calcium intake throughout day for better absorption",
+                "Don't take more than 500mg at once",
+                "Take with food"
+            ],
+            "tags": [
+                "nutrition",
+                "calcium",
+                "bone_health",
+                "osteoporosis_prevention"
+            ],
+            "related_topics": [
+                "osteoporosis",
+                "vitamin_D",
+                "bone_health"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_002",
+            "title": "Vitamin D for Bone and Overall Health",
+            "description": "Essential vitamin for calcium absorption and bone health",
+            "content": "Vitamin D is essential for calcium absorption and bone health. It also supports immune function and mood. Many people are deficient, especially those with limited sun exposure. Vitamin D is crucial for preventing osteoporosis after menopause.",
+            "recommended_intake": "800-1000 IU per day; some may need more",
+            "food_sources": [
+                "Fatty fish: Salmon, mackerel, sardines",
+                "Fortified foods: Milk, orange juice, cereals",
+                "Egg yolks",
+                "Mushrooms exposed to UV light"
+            ],
+            "sunlight": "10-30 minutes of midday sun several times per week (varies by skin tone and location)",
+            "supplements": "Often necessary, especially in winter or with limited sun exposure",
+            "testing": "Blood test can check vitamin D levels if deficiency suspected",
+            "tags": [
+                "nutrition",
+                "vitamin_D",
+                "bone_health",
+                "supplements"
+            ],
+            "related_topics": [
+                "calcium",
+                "osteoporosis",
+                "bone_health"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_003",
+            "title": "B Vitamins for Energy and Mood",
+            "description": "B vitamins support energy, mood, and cognitive function",
+            "content": "B vitamins, especially B6 and B12, are important during menopause. B6 helps with mood regulation, energy, and reducing irritability by supporting serotonin and dopamine production. B12 aids nerve function, energy, and cognitive health, helping combat brain fog.",
+            "key_b_vitamins": [
+                "B6: Mood, energy, reduces irritability",
+                "B12: Nerve function, energy, cognitive health, combats brain fog",
+                "Folate: Cell function, mood"
+            ],
+            "food_sources": [
+                "B6: Poultry, fish, potatoes, chickpeas, bananas",
+                "B12: Meat, fish, eggs, dairy, fortified cereals (B12 is only in animal products)",
+                "Folate: Leafy greens, legumes, fortified grains"
+            ],
+            "supplements": "B-complex supplement may help; B12 especially important for vegetarians/vegans",
+            "tags": [
+                "nutrition",
+                "B_vitamins",
+                "mood",
+                "energy",
+                "brain_fog"
+            ],
+            "related_topics": [
+                "mood_swings",
+                "brain_fog",
+                "fatigue"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_004",
+            "title": "Omega-3 Fatty Acids",
+            "description": "Healthy fats for heart and brain health",
+            "content": "Omega-3 fatty acids support heart health, reduce inflammation, and may help stabilize mood during menopause. They're important for cardiovascular health, which becomes a greater concern after menopause.",
+            "benefits": [
+                "Heart health",
+                "Reduced inflammation",
+                "Mood stabilization",
+                "Brain health"
+            ],
+            "food_sources": [
+                "Fatty fish: Salmon, mackerel, sardines, herring (2-3 servings per week)",
+                "Flaxseed and flaxseed oil",
+                "Chia seeds",
+                "Walnuts",
+                "Algae-based supplements (for vegetarians)"
+            ],
+            "supplements": "Fish oil or algae-based omega-3 supplements if not eating fish regularly",
+            "tags": [
+                "nutrition",
+                "omega_3",
+                "heart_health",
+                "mood",
+                "anti_inflammatory"
+            ],
+            "related_topics": [
+                "cardiovascular_health",
+                "mood",
+                "inflammation"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_005",
+            "title": "Balanced Diet for Overall Health",
+            "description": "General dietary principles for menopause",
+            "content": "A balanced, nutrient-rich diet is foundational for managing menopause symptoms and maintaining health. Focus on whole foods, fruits, vegetables, whole grains, lean proteins, and healthy fats while limiting processed foods, sugar, and saturated fats.",
+            "principles": [
+                "Eat variety of fruits and vegetables (aim for colorful plate)",
+                "Choose whole grains over refined grains",
+                "Include lean proteins (fish, poultry, legumes, tofu)",
+                "Healthy fats (olive oil, nuts, avocado, fatty fish)",
+                "Limit processed foods, added sugars, and saturated fats",
+                "Stay hydrated (water is best)",
+                "Control portion sizes"
+            ],
+            "benefits": [
+                "Supports healthy weight",
+                "Provides essential nutrients",
+                "Reduces disease risk",
+                "May help with symptoms",
+                "Supports energy levels"
+            ],
+            "tags": [
+                "nutrition",
+                "balanced_diet",
+                "whole_foods",
+                "healthy_eating"
+            ],
+            "related_topics": [
+                "weight_management",
+                "overall_health"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_006",
+            "title": "Foods to Limit or Avoid",
+            "description": "Foods that may worsen menopause symptoms",
+            "content": "Certain foods and beverages can trigger or worsen menopause symptoms, particularly hot flashes. Identifying and limiting your personal triggers can help manage symptoms.",
+            "common_triggers": [
+                "Caffeine (coffee, tea, energy drinks) - can trigger hot flashes and worsen sleep",
+                "Alcohol - triggers hot flashes, disrupts sleep, affects mood",
+                "Spicy foods - can trigger hot flashes",
+                "Hot beverages - can trigger hot flashes",
+                "Sugary foods and drinks - blood sugar spikes, weight gain",
+                "Processed foods - inflammation, weight gain",
+                "High sodium foods - bloating, blood pressure"
+            ],
+            "approach": "Keep a food diary to identify your personal triggers; everyone is different",
+            "tags": [
+                "nutrition",
+                "triggers",
+                "hot_flashes",
+                "foods_to_avoid"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "sleep",
+                "weight_management"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_007",
+            "title": "Phytoestrogen Foods",
+            "description": "Plant foods containing weak estrogen-like compounds",
+            "content": "Phytoestrogens are plant compounds with weak estrogen-like effects. Including phytoestrogen-rich foods in your diet may provide mild symptom relief for some women, though evidence is limited. They're part of a healthy diet regardless.",
+            "types": [
+                "Isoflavones: Soy products, legumes",
+                "Lignans: Flaxseed, whole grains"
+            ],
+            "food_sources": [
+                "Soybeans, tofu, tempeh, edamame, soy milk",
+                "Lentils, chickpeas, beans",
+                "Flaxseed",
+                "Whole grains",
+                "Fruits and vegetables"
+            ],
+            "effectiveness": "Limited and inconsistent evidence; effects much weaker than HRT",
+            "safety": "Food sources are safe; discuss supplements with doctor if history of breast cancer",
+            "tags": [
+                "nutrition",
+                "phytoestrogens",
+                "soy",
+                "isoflavones",
+                "plant_based"
+            ],
+            "related_topics": [
+                "phytoestrogens",
+                "alternative_therapies"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_008",
+            "title": "Beneficial Drinks and Beverages",
+            "description": "Hydrating and supportive beverages for menopause",
+            "content": "Certain beverages can help support hydration and provide beneficial nutrients during menopause. Staying well-hydrated is essential, especially with hot flashes and night sweats causing fluid loss.",
+            "recommended_drinks": [
+                "Water: Best choice for hydration, especially important with hot flashes",
+                "Herbal teas: Spearmint, red clover, chasteberry may help balance hormones (limited evidence)",
+                "Green tea: Provides antioxidants and mild caffeine for energy",
+                "Coconut water: Replenishes electrolytes lost during hot flashes",
+                "Fortified plant milks: Provide calcium and vitamin D"
+            ],
+            "hydration_importance": "Hot flashes and night sweats increase fluid loss; aim for 8+ glasses of water daily",
+            "beverages_to_limit": [
+                "Caffeine: Can trigger hot flashes and disrupt sleep",
+                "Alcohol: Triggers hot flashes, disrupts sleep, affects mood",
+                "Sugary drinks: Blood sugar spikes, weight gain, inflammation"
+            ],
+            "tips": [
+                "Keep water bottle handy throughout day",
+                "Drink cool or room temperature beverages to avoid triggering hot flashes",
+                "Limit caffeine to morning hours only",
+                "Avoid alcohol 3-4 hours before bed"
+            ],
+            "tags": [
+                "nutrition",
+                "beverages",
+                "hydration",
+                "herbal_tea",
+                "electrolytes"
+            ],
+            "related_topics": [
+                "hot_flashes",
+                "night_sweats",
+                "sleep",
+                "triggers"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "nutr_009",
+            "title": "Magnesium for Sleep and Symptoms",
+            "description": "Essential mineral for sleep, mood, and hot flash relief",
+            "content": "Magnesium is an important mineral during menopause that supports sleep quality, reduces hot flashes, improves mood, and supports bone health. Many women are deficient in magnesium. It works synergistically with calcium and vitamin D for bone health and can help ease multiple menopausal symptoms.",
+            "benefits": [
+                "Improves sleep quality and reduces insomnia",
+                "May reduce hot flash frequency and severity",
+                "Supports mood and reduces anxiety",
+                "Helps with muscle relaxation and reduces cramps",
+                "Supports bone health (works with calcium and vitamin D)",
+                "May reduce headaches and migraines"
+            ],
+            "recommended_intake": "320mg per day for women over 30; some may benefit from higher doses for sleep",
+            "food_sources": [
+                "Leafy greens: Spinach, Swiss chard, kale",
+                "Nuts and seeds: Almonds, cashews, pumpkin seeds",
+                "Legumes: Black beans, chickpeas, lentils",
+                "Whole grains: Brown rice, quinoa, oats",
+                "Dark chocolate (in moderation)",
+                "Avocados",
+                "Fatty fish: Salmon, mackerel"
+            ],
+            "supplements": "Magnesium glycinate is well-absorbed and gentle on stomach; often taken before bed for sleep support",
+            "dosage_notes": "Start with lower dose and increase gradually; too much can cause digestive upset",
+            "tags": [
+                "nutrition",
+                "magnesium",
+                "sleep",
+                "hot_flashes",
+                "bone_health",
+                "supplements"
+            ],
+            "related_topics": [
+                "sleep_management",
+                "hot_flashes",
+                "bone_health",
+                "anxiety",
+                "supplements"
+            ],
+            "severity": "n/a"
+        }
+    ]
+}

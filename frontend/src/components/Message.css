@@ -1,0 +1,214 @@
+.message {
+    display: flex;
+    margin-bottom: var(--spacing-sm);
+    animation: slideInUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+}
+
+.message-user {
+    justify-content: flex-end;
+}
+
+.message-ai {
+    justify-content: flex-start;
+}
+
+.message-content {
+    max-width: 75%;
+    padding: var(--spacing-md) var(--spacing-lg);
+    border-radius: 24px;
+    position: relative;
+    backdrop-filter: blur(10px);
+    transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.message-content:hover {
+    transform: translateY(-2px);
+}
+
+.message-user .message-content {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 50%, #991b1b 100%);
+    color: var(--color-white);
+    border-bottom-right-radius: 6px;
+    box-shadow:
+        0 8px 24px rgba(220, 38, 38, 0.35),
+        0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Shine effect on user messages */
+.message-user .message-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg,
+            transparent,
+            rgba(255, 255, 255, 0.2),
+            transparent);
+    transition: left 0.5s;
+}
+
+.message-user .message-content:hover::before {
+    left: 100%;
+}
+
+.message-ai .message-content {
+    background: rgba(42, 42, 42, 0.85);
+    color: var(--color-white-dim);
+    border-bottom-left-radius: 6px;
+    border: 1px solid rgba(220, 38, 38, 0.15);
+    box-shadow:
+        0 4px 16px rgba(0, 0, 0, 0.3),
+        0 0 0 1px rgba(220, 38, 38, 0.05) inset;
+}
+
+.message-ai .message-content:hover {
+    border-color: rgba(220, 38, 38, 0.25);
+    box-shadow:
+        0 8px 24px rgba(0, 0, 0, 0.4),
+        0 0 20px rgba(220, 38, 38, 0.1);
+}
+
+.message-text {
+    margin: 0;
+    line-height: 1.6;
+    word-wrap: break-word;
+    font-size: var(--font-size-base);
+    font-weight: 400;
+    margin-bottom: var(--spacing-xs);
+}
+
+/* Markdown content styling */
+.markdown-content {
+    margin: 0;
+}
+
+.markdown-content p {
+    margin: 0 0 0.5em 0;
+}
+
+.markdown-content p:last-child {
+    margin-bottom: 0;
+}
+
+.markdown-content strong {
+    font-weight: 600;
+    color: var(--color-red-bright);
+}
+
+.markdown-content ul {
+    margin: 0.5em 0;
+    padding-left: 1.8em;
+    list-style-type: disc;
+}
+
+.markdown-content ol {
+    margin: 0.5em 0;
+    padding-left: 1.8em;
+    list-style-type: decimal;
+}
+
+.markdown-content li {
+    margin: 0.35em 0;
+    line-height: 1.6;
+}
+
+.markdown-content li::marker {
+    color: var(--color-red-bright);
+    font-weight: 600;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+    margin: 0.75em 0 0.5em 0;
+    font-weight: 600;
+    color: var(--color-red-bright);
+}
+
+.markdown-content h1 {
+    font-size: 1.25em;
+}
+
+.markdown-content h2 {
+    font-size: 1.15em;
+}
+
+.markdown-content h3 {
+    font-size: 1.05em;
+}
+
+.markdown-content code {
+    background: rgba(220, 38, 38, 0.1);
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
+.message-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--spacing-sm);
+}
+
+.message-time {
+    font-size: 0.75rem;
+    opacity: 0.7;
+    font-weight: 500;
+}
+
+.message-user .message-time {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.message-ai .message-time {
+    color: var(--color-white-dimmest);
+}
+
+.message-speaker {
+    background: none;
+    border: none;
+    color: var(--color-white-dimmer);
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: all var(--transition-base);
+    opacity: 0.7;
+}
+
+.message-speaker:hover {
+    opacity: 1;
+    background: rgba(220, 38, 38, 0.1);
+    color: var(--color-red-bright);
+}
+
+.message-speaker.speaking {
+    color: var(--color-red-bright);
+    opacity: 1;
+    animation: pulse 1s ease-in-out infinite;
+}
+
+.message-speaker svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .message-content {
+        max-width: 85%;
+        padding: var(--spacing-sm) var(--spacing-md);
+    }
+
+    .message-text {
+        font-size: var(--font-size-sm);
+    }
+}

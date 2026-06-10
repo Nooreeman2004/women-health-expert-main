@@ -1,0 +1,274 @@
+{
+    "category": "diagnosis",
+    "subcategory": "stages",
+    "last_updated": "2025-12-25",
+    "description": "Stages of menopause transition and their characteristics",
+    "entries": [
+        {
+            "id": "stage_001",
+            "title": "Perimenopause Overview",
+            "description": "The transition period before menopause when symptoms begin",
+            "content": "Perimenopause, also called the menopause transition, is the period when your body begins transitioning toward menopause. It typically starts in your 40s (but can begin in your 30s) and lasts an average of 4-8 years, though it can be shorter or longer. During perimenopause, your ovaries gradually produce less estrogen, leading to fluctuating hormone levels, irregular periods, and the onset of menopausal symptoms. Perimenopause ends when you've gone 12 consecutive months without a period, at which point you've reached menopause.",
+            "typical_age": "Usually begins in 40s, can start in late 30s",
+            "duration": "Average 4-8 years, but varies widely (can be 2-10+ years)",
+            "key_characteristics": [
+                "Irregular periods (shorter, longer, heavier, lighter, or skipped)",
+                "Fluctuating hormone levels",
+                "Onset of menopausal symptoms (hot flashes, mood changes, sleep problems)",
+                "Still possible to get pregnant (though fertility is reduced)"
+            ],
+            "hormone_changes": "Estrogen and progesterone levels fluctuate unpredictably before declining",
+            "tags": [
+                "perimenopause",
+                "transition",
+                "stages",
+                "hormonal_changes"
+            ],
+            "related_topics": [
+                "perimenopause_stages",
+                "irregular_periods",
+                "symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "If symptoms are bothersome or affecting quality of life"
+        },
+        {
+            "id": "stage_002",
+            "title": "Very Early Perimenopause",
+            "description": "First stage with regular periods but subtle changes",
+            "content": "Very early perimenopause is the first stage of the menopause transition. Periods are still regular, but you may notice subtle changes such as slightly shorter or longer cycles, changes in flow, or worsening PMS symptoms. Hormone levels are beginning to fluctuate, and some women may start experiencing early symptoms like mood changes or breast tenderness.",
+            "stage": "Stage 1 of 4 perimenopause stages",
+            "menstrual_pattern": "Periods still regular, but may notice subtle changes in cycle length or flow",
+            "symptoms": [
+                "Often minimal or subtle",
+                "May have worsening PMS",
+                "Possible mood changes",
+                "Breast tenderness may increase"
+            ],
+            "duration": "Variable, can last several years",
+            "tags": [
+                "perimenopause",
+                "early_stage",
+                "regular_periods",
+                "subtle_changes"
+            ],
+            "related_topics": [
+                "perimenopause_overview",
+                "menstrual_changes"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "If symptoms are concerning or you have questions"
+        },
+        {
+            "id": "stage_003",
+            "title": "Early Menopause Transition",
+            "description": "Onset of irregular periods and more noticeable symptoms",
+            "content": "Early menopause transition begins when periods become noticeably irregular. Cycles may vary by 7+ days from your normal pattern. This is when many women start experiencing more obvious menopausal symptoms like hot flashes, night sweats, sleep problems, and mood changes. Hormone fluctuations become more pronounced.",
+            "stage": "Stage 2 of 4 perimenopause stages",
+            "menstrual_pattern": "Irregular periods - cycles vary by 7+ days, may skip occasional periods",
+            "symptoms": [
+                "Hot flashes and night sweats often begin",
+                "Sleep disturbances",
+                "Mood swings, irritability",
+                "Brain fog",
+                "Vaginal dryness may start"
+            ],
+            "duration": "Variable, typically 1-3 years",
+            "tags": [
+                "perimenopause",
+                "irregular_periods",
+                "symptoms_begin",
+                "transition"
+            ],
+            "related_topics": [
+                "irregular_periods",
+                "hot_flashes",
+                "symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "To discuss symptom management and treatment options"
+        },
+        {
+            "id": "stage_004",
+            "title": "Late Menopause Transition",
+            "description": "Long gaps between periods with intensifying symptoms",
+            "content": "Late menopause transition is characterized by cycles of 60+ days (skipping 2+ periods). This stage indicates you're approaching menopause. Symptoms often intensify during this phase as hormone levels decline more dramatically. Hot flashes, night sweats, and other symptoms may be at their worst.",
+            "stage": "Stage 3 of 4 perimenopause stages",
+            "menstrual_pattern": "Cycles of 60+ days - skipping 2 or more periods",
+            "symptoms": [
+                "Symptoms often at their worst",
+                "Frequent hot flashes and night sweats",
+                "Significant sleep disruption",
+                "Mood changes may be pronounced",
+                "Vaginal dryness worsens"
+            ],
+            "duration": "Typically 1-2 years before final period",
+            "tags": [
+                "perimenopause",
+                "late_stage",
+                "severe_symptoms",
+                "approaching_menopause"
+            ],
+            "related_topics": [
+                "symptoms",
+                "hot_flashes",
+                "menopause"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "For symptom management, especially if symptoms are severe"
+        },
+        {
+            "id": "stage_005",
+            "title": "Late Perimenopause",
+            "description": "The 12 months after your final period",
+            "content": "Late perimenopause is the 12-month period after your final menstrual period. You can only identify this stage in retrospect - once you've gone 12 consecutive months without a period, you've reached menopause and this 12-month period was late perimenopause. During this time, symptoms may continue or even intensify.",
+            "stage": "Stage 4 of 4 perimenopause stages (identified retrospectively)",
+            "menstrual_pattern": "No periods for 12 consecutive months",
+            "symptoms": "Symptoms continue and may still be intense",
+            "duration": "12 months",
+            "important_note": "This stage can only be identified after the fact, once menopause is confirmed",
+            "tags": [
+                "perimenopause",
+                "final_stage",
+                "no_periods",
+                "retrospective"
+            ],
+            "related_topics": [
+                "menopause",
+                "symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Continue symptom management as needed"
+        },
+        {
+            "id": "stage_006",
+            "title": "Menopause",
+            "description": "The point when you've gone 12 months without a period",
+            "content": "Menopause is a specific point in time - the moment when you've gone 12 consecutive months without a menstrual period. It marks the end of your reproductive years and the end of perimenopause. The average age of menopause is 52, but it's normal to reach menopause anywhere between ages 45-55. Unlike perimenopause and postmenopause, which are stages, menopause itself is a single defined moment.",
+            "definition": "12 consecutive months without a menstrual period",
+            "average_age": "52 years old",
+            "normal_range": "45-55 years old",
+            "diagnosis": "Diagnosed retrospectively after 12 months without periods",
+            "important_note": "Menopause is a point in time, not a stage you stay in",
+            "tags": [
+                "menopause",
+                "definition",
+                "12_months",
+                "milestone"
+            ],
+            "related_topics": [
+                "perimenopause",
+                "postmenopause",
+                "age"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Any bleeding after menopause requires immediate medical evaluation"
+        },
+        {
+            "id": "stage_007",
+            "title": "Postmenopause",
+            "description": "The years after menopause for the rest of your life",
+            "content": "Postmenopause is the stage after you've reached menopause, lasting for the rest of your life. It begins immediately after you've gone 12 months without a period. Many menopausal symptoms ease up in the years following menopause, though some (like vaginal dryness) can persist. Postmenopausal women are at increased risk for osteoporosis and cardiovascular disease due to low estrogen levels, making preventive health care important.",
+            "when_it_begins": "Immediately after reaching menopause (12 months without periods)",
+            "duration": "Rest of your life",
+            "symptoms": [
+                "Many symptoms ease up over time",
+                "Hot flashes often decrease in frequency and severity",
+                "Some symptoms (vaginal dryness, urinary issues) may persist",
+                "Symptoms can continue for several years"
+            ],
+            "health_risks": [
+                "Increased osteoporosis risk",
+                "Increased cardiovascular disease risk",
+                "Continued vaginal atrophy without treatment"
+            ],
+            "health_focus": [
+                "Bone health monitoring and prevention",
+                "Cardiovascular health",
+                "Continued symptom management if needed",
+                "Regular health screenings"
+            ],
+            "tags": [
+                "postmenopause",
+                "long_term",
+                "health_risks",
+                "prevention"
+            ],
+            "related_topics": [
+                "menopause",
+                "osteoporosis",
+                "cardiovascular_health",
+                "symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Regular health screenings; any post-menopausal bleeding requires immediate evaluation"
+        },
+        {
+            "id": "stage_008",
+            "title": "Premature Menopause",
+            "description": "Menopause occurring before age 40",
+            "content": "Premature menopause, also called premature ovarian insufficiency (POI), occurs when menopause happens before age 40. This can occur naturally or be induced by medical treatments (surgery, chemotherapy, radiation). Women with premature menopause face longer exposure to low estrogen levels, increasing health risks. Hormone replacement therapy is strongly recommended (unless contraindicated) to protect bone and cardiovascular health until at least the natural age of menopause.",
+            "definition": "Menopause before age 40",
+            "causes": [
+                "Genetic factors",
+                "Autoimmune conditions",
+                "Medical treatments (chemotherapy, radiation)",
+                "Surgical removal of ovaries",
+                "Unknown (idiopathic) in many cases"
+            ],
+            "health_implications": [
+                "Longer exposure to low estrogen",
+                "Increased osteoporosis risk",
+                "Increased cardiovascular disease risk",
+                "Emotional impact (fertility loss, early aging)"
+            ],
+            "treatment": "Hormone replacement therapy strongly recommended until at least age 50-52 (natural menopause age) unless contraindicated",
+            "tags": [
+                "premature_menopause",
+                "POI",
+                "early",
+                "HRT_essential"
+            ],
+            "related_topics": [
+                "early_menopause",
+                "HRT",
+                "fertility",
+                "health_risks"
+            ],
+            "severity": "high",
+            "when_to_see_doctor": "Immediately if experiencing menopausal symptoms before age 40"
+        },
+        {
+            "id": "stage_009",
+            "title": "Early Menopause",
+            "description": "Menopause occurring between ages 40-45",
+            "content": "Early menopause occurs when menopause happens between ages 40-45, before the typical age range but after premature menopause. Like premature menopause, early menopause results in longer exposure to low estrogen levels and increased health risks. Hormone replacement therapy is generally recommended unless contraindicated.",
+            "definition": "Menopause between ages 40-45",
+            "causes": [
+                "Genetic factors",
+                "Smoking",
+                "Medical treatments",
+                "Autoimmune conditions",
+                "Often unknown"
+            ],
+            "health_implications": [
+                "Increased health risks due to longer low estrogen exposure",
+                "Increased osteoporosis risk",
+                "Increased cardiovascular disease risk"
+            ],
+            "treatment": "Hormone replacement therapy generally recommended",
+            "tags": [
+                "early_menopause",
+                "40-45",
+                "HRT_recommended"
+            ],
+            "related_topics": [
+                "premature_menopause",
+                "HRT",
+                "health_risks"
+            ],
+            "severity": "medium",
+            "when_to_see_doctor": "If experiencing menopausal symptoms before age 45"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "category": "diagnosis",
+    "subcategory": "medical_tests",
+    "last_updated": "2025-12-25",
+    "description": "Medical tests and diagnostic procedures for menopause",
+    "entries": [
+        {
+            "id": "diag_001",
+            "title": "Clinical Diagnosis",
+            "description": "Diagnosing menopause based on symptoms and menstrual history",
+            "content": "Menopause is typically diagnosed clinically based on symptoms and menstrual history, without the need for blood tests. If you're over 45 and experiencing typical menopausal symptoms with irregular or absent periods, a healthcare provider can usually diagnose perimenopause or menopause without testing. Menopause is confirmed when you've gone 12 consecutive months without a period.",
+            "when_used": "Primary method of diagnosis for most women over 45",
+            "what_provider_considers": [
+                "Age (typically 45-55)",
+                "Menstrual pattern changes",
+                "Typical symptoms (hot flashes, night sweats, mood changes, etc.)",
+                "Duration of symptoms"
+            ],
+            "advantages": [
+                "No testing needed in most cases",
+                "Symptoms and menstrual history are usually sufficient",
+                "Cost-effective"
+            ],
+            "tags": [
+                "diagnosis",
+                "clinical",
+                "menstrual_history",
+                "symptoms"
+            ],
+            "related_topics": [
+                "perimenopause_stages",
+                "menopause_symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "If you're experiencing symptoms and want to discuss diagnosis and treatment options"
+        },
+        {
+            "id": "diag_002",
+            "title": "FSH (Follicle-Stimulating Hormone) Test",
+            "description": "Blood test measuring FSH levels to assess menopausal status",
+            "content": "FSH is a hormone that rises as the ovaries produce less estrogen. A blood test measuring FSH levels can suggest whether you're in perimenopause or menopause. However, because hormone levels fluctuate significantly during perimenopause, FSH tests are not always reliable for diagnosis and are not routinely recommended. They may be used in specific situations, such as premature menopause or when diagnosis is unclear.",
+            "what_it_measures": "Follicle-stimulating hormone levels in blood",
+            "interpretation": "High FSH levels suggest menopause, but levels fluctuate during perimenopause",
+            "when_used": [
+                "Suspected premature menopause (under age 40)",
+                "Unclear diagnosis",
+                "Women under 45 with menopausal symptoms",
+                "When using hormonal contraception that masks symptoms"
+            ],
+            "limitations": [
+                "Hormone levels fluctuate during perimenopause, so results can be inconsistent",
+                "A single test may not be accurate",
+                "Not needed for most women over 45 with typical symptoms"
+            ],
+            "home_tests": "Home FSH urine tests are available but have same limitations; not recommended for diagnosis",
+            "tags": [
+                "diagnosis",
+                "FSH",
+                "blood_test",
+                "hormones",
+                "limited_use"
+            ],
+            "related_topics": [
+                "estrogen_levels",
+                "perimenopause",
+                "premature_menopause"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if you're under 45 with symptoms or diagnosis is unclear"
+        },
+        {
+            "id": "diag_003",
+            "title": "Estradiol Test",
+            "description": "Blood test measuring estrogen levels",
+            "content": "Estradiol is the main form of estrogen produced by the ovaries. Levels decline during menopause. A blood test can measure estradiol levels, but like FSH, levels fluctuate during perimenopause, making single tests unreliable. This test is not routinely needed for diagnosis but may be used in specific situations.",
+            "what_it_measures": "Estradiol (main estrogen) levels in blood",
+            "interpretation": "Low estradiol suggests menopause, but levels fluctuate during perimenopause",
+            "when_used": [
+                "Suspected premature menopause",
+                "Monitoring hormone therapy effectiveness",
+                "Unclear diagnosis"
+            ],
+            "limitations": "Levels fluctuate during perimenopause; not routinely needed",
+            "tags": [
+                "diagnosis",
+                "estradiol",
+                "estrogen",
+                "blood_test",
+                "limited_use"
+            ],
+            "related_topics": [
+                "FSH_test",
+                "hormone_levels",
+                "perimenopause"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if recommended by your healthcare provider"
+        },
+        {
+            "id": "diag_004",
+            "title": "TSH (Thyroid-Stimulating Hormone) Test",
+            "description": "Blood test to rule out thyroid problems that can mimic menopause",
+            "content": "Thyroid problems, particularly hypothyroidism (underactive thyroid), can cause symptoms very similar to menopause, including fatigue, weight gain, mood changes, irregular periods, brain fog, and temperature regulation issues. A TSH blood test checks thyroid function and is often recommended to rule out thyroid disease when evaluating menopausal symptoms, especially if symptoms are atypical or severe.",
+            "what_it_measures": "Thyroid-stimulating hormone to assess thyroid function",
+            "why_important": "Thyroid problems can mimic menopause symptoms and need different treatment",
+            "when_used": [
+                "Evaluating menopausal symptoms",
+                "Symptoms suggestive of thyroid disease",
+                "Family history of thyroid problems",
+                "Autoimmune diseases (Type 1 diabetes, celiac disease)"
+            ],
+            "symptoms_overlap": [
+                "Fatigue",
+                "Weight gain",
+                "Brain fog",
+                "Mood changes",
+                "Irregular periods",
+                "Temperature regulation issues"
+            ],
+            "tags": [
+                "diagnosis",
+                "TSH",
+                "thyroid",
+                "blood_test",
+                "differential_diagnosis"
+            ],
+            "related_topics": [
+                "hypothyroidism",
+                "menopause_symptoms",
+                "fatigue"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Often checked as part of menopause evaluation, especially with family history of thyroid disease"
+        },
+        {
+            "id": "diag_005",
+            "title": "Bone Density Test (DEXA Scan)",
+            "description": "Scan to measure bone strength and assess osteoporosis risk",
+            "content": "A bone density test, also called DEXA (dual-energy X-ray absorptiometry) scan or bone densitometry, measures bone mineral density to assess bone strength and osteoporosis risk. It's recommended for postmenopausal women to screen for osteoporosis, as estrogen decline after menopause significantly increases bone loss and fracture risk.",
+            "what_it_measures": "Bone mineral density, typically in spine and hips",
+            "when_recommended": [
+                "All women age 65 and older",
+                "Postmenopausal women under 65 with risk factors",
+                "Fractures before menopause",
+                "Family history of osteoporosis",
+                "Long-term steroid use",
+                "Low body weight"
+            ],
+            "procedure": "Quick, painless scan using low-dose X-rays",
+            "interpretation": "Results show bone density compared to healthy young adults (T-score)",
+            "why_important": "Identifies osteoporosis early so treatment can prevent fractures",
+            "tags": [
+                "diagnosis",
+                "DEXA",
+                "bone_density",
+                "osteoporosis",
+                "screening"
+            ],
+            "related_topics": [
+                "osteoporosis",
+                "bone_health",
+                "fracture_risk",
+                "HRT_benefits"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss screening recommendations based on your age and risk factors"
+        },
+        {
+            "id": "diag_006",
+            "title": "Pelvic Ultrasound and Biopsy",
+            "description": "Imaging and tissue sampling to investigate abnormal bleeding",
+            "content": "If you have abnormal bleeding patterns, especially bleeding after menopause, your doctor may order a pelvic ultrasound to examine the uterus and ovaries, and possibly an endometrial biopsy to sample the uterine lining. This is crucial to rule out serious conditions like uterine cancer, which can cause post-menopausal bleeding.",
+            "when_used": [
+                "Post-menopausal bleeding (any bleeding after menopause)",
+                "Very heavy or prolonged periods",
+                "Unusual discharge",
+                "Abnormal bleeding patterns"
+            ],
+            "procedures": [
+                "Transvaginal ultrasound: Imaging to view uterus and ovaries",
+                "Endometrial biopsy: Small tissue sample from uterine lining"
+            ],
+            "why_important": "Post-menopausal bleeding can be a sign of uterine cancer and must be investigated",
+            "tags": [
+                "diagnosis",
+                "ultrasound",
+                "biopsy",
+                "abnormal_bleeding",
+                "cancer_screening"
+            ],
+            "related_topics": [
+                "post_menopausal_bleeding",
+                "red_flags",
+                "uterine_cancer"
+            ],
+            "severity": "high",
+            "when_to_see_doctor": "Immediately for any bleeding after menopause or very heavy/prolonged bleeding"
+        }
+    ]
+}

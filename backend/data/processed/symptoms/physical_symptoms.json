@@ -1,0 +1,436 @@
+{
+  "category": "symptoms",
+  "subcategory": "physical",
+  "last_updated": "2025-12-25",
+  "description": "Physical symptoms experienced during perimenopause and menopause",
+  "entries": [
+    {
+      "id": "phys_001",
+      "title": "Hot Flashes",
+      "description": "Sudden waves of heat, redness, and sweating, often felt in the face, neck, and chest",
+      "content": "Hot flashes are one of the most common symptoms of menopause, affecting up to 75% of women. They are sudden feelings of intense warmth that spread over the body, particularly the face, neck, and chest. Episodes can last from 30 seconds to several minutes and may be accompanied by flushing, sweating, and rapid heartbeat. Hot flashes are caused by changes in the hypothalamus (the body's thermostat) due to declining estrogen levels.",
+      "severity": "medium",
+      "duration": "Can last for several years, often intensifying during late perimenopause",
+      "management": [
+        "Dress in layers and wear breathable fabrics like cotton",
+        "Keep room temperatures cool",
+        "Avoid triggers like caffeine, alcohol, spicy foods",
+        "Use fans or cold packs",
+        "Hormone therapy (HRT) is highly effective",
+        "Non-hormonal options: SSRIs, gabapentin, fezolinetant (Veozah)"
+      ],
+      "tags": ["vasomotor", "common", "heat", "sweating", "thermoregulation"],
+      "related_topics": ["night_sweats", "hormone_therapy", "lifestyle_modifications"],
+      "when_to_see_doctor": "If hot flashes are severe, disruptive to daily life, or accompanied by unexplained weight loss"
+    },
+    {
+      "id": "phys_002",
+      "title": "Night Sweats",
+      "description": "Episodes of excessive sweating during sleep that can soak bedding",
+      "content": "Night sweats are hot flashes that occur during sleep, causing intense sweating that can drench sleepwear and bedding. They disrupt sleep quality and can lead to insomnia, daytime fatigue, and irritability. Night sweats are caused by the same hormonal fluctuations that trigger hot flashes.",
+      "severity": "medium",
+      "duration": "Can persist for several years",
+      "management": [
+        "Keep bedroom cool (60-67°F)",
+        "Use breathable, moisture-wicking bedding",
+        "Place cold packs under pillow",
+        "Avoid alcohol and heavy meals before bed",
+        "Wear light, breathable sleepwear",
+        "Hormone therapy or non-hormonal medications"
+      ],
+      "tags": ["vasomotor", "sleep", "sweating", "common"],
+      "related_topics": ["hot_flashes", "insomnia", "sleep_management"],
+      "when_to_see_doctor": "If soaking through sheets nightly, especially with unexplained weight loss or lumps (could indicate lymphoma)"
+    },
+    {
+      "id": "phys_003",
+      "title": "Irregular Periods",
+      "description": "Changes in menstrual cycle pattern, flow, or duration",
+      "content": "Irregular periods are often the first sign of perimenopause. Changes can include shorter or longer cycles, heavier or lighter bleeding, skipped periods, or unpredictable timing. This occurs as the ovaries produce fluctuating levels of estrogen and progesterone and ovulation becomes irregular. Eventually, periods stop altogether, marking menopause after 12 consecutive months without menstruation.",
+      "severity": "low",
+      "duration": "Throughout perimenopause, typically 4-8 years",
+      "management": [
+        "Track periods to identify patterns",
+        "Use appropriate menstrual products for flow changes",
+        "Hormonal contraception can regulate cycles",
+        "Consult doctor if bleeding is very heavy or prolonged"
+      ],
+      "tags": ["menstrual", "perimenopause", "hormonal", "common"],
+      "related_topics": ["perimenopause_stages", "hormonal_changes"],
+      "when_to_see_doctor": "Bleeding after menopause, periods lasting >7 days, cycles <21 days, very heavy bleeding, bleeding between periods"
+    },
+    {
+      "id": "phys_004",
+      "title": "Vaginal Dryness",
+      "description": "Reduced natural lubrication in the vagina causing discomfort",
+      "content": "Vaginal dryness occurs when declining estrogen levels cause the vaginal tissues to become thinner, less elastic, and produce less natural lubrication (vaginal atrophy). This can lead to itching, burning, discomfort, and pain during sexual intercourse (dyspareunia). It can also increase susceptibility to urinary tract infections.",
+      "severity": "medium",
+      "duration": "Can persist throughout postmenopause if untreated",
+      "management": [
+        "Use water-based or silicone-based lubricants during sex",
+        "Apply vaginal moisturizers regularly",
+        "Stay sexually active to increase blood flow",
+        "Low-dose vaginal estrogen (creams, tablets, rings)",
+        "Prasterone (DHEA) vaginal inserts",
+        "Avoid oil-based products with condoms"
+      ],
+      "tags": ["vaginal", "sexual_health", "urogenital", "common"],
+      "related_topics": ["painful_intercourse", "low_libido", "vaginal_estrogen"],
+      "when_to_see_doctor": "If causing significant discomfort, pain during sex, or recurrent UTIs"
+    },
+    {
+      "id": "phys_005",
+      "title": "Sleep Disturbances",
+      "description": "Difficulty falling asleep, staying asleep, or poor sleep quality",
+      "content": "Sleep problems are very common during menopause, affecting up to 60% of women. Insomnia can be caused directly by hormonal changes affecting sleep regulation, or indirectly by night sweats, anxiety, or the need to urinate frequently. Poor sleep leads to daytime fatigue, irritability, difficulty concentrating, and reduced quality of life.",
+      "severity": "medium",
+      "duration": "Can last throughout perimenopause and into postmenopause",
+      "management": [
+        "Maintain regular sleep schedule",
+        "Create cool, dark, quiet bedroom environment",
+        "Avoid caffeine and alcohol before bed",
+        "Exercise regularly but not close to bedtime",
+        "Practice relaxation techniques (meditation, deep breathing)",
+        "Cognitive Behavioral Therapy for Insomnia (CBT-I)",
+        "Treat underlying night sweats or anxiety"
+      ],
+      "tags": ["sleep", "insomnia", "common", "quality_of_life"],
+      "related_topics": ["night_sweats", "anxiety", "fatigue", "CBT"],
+      "when_to_see_doctor": "If sleep problems persist despite lifestyle changes or severely impact daily functioning"
+    },
+    {
+      "id": "phys_006",
+      "title": "Joint Pain and Muscle Aches",
+      "description": "Stiffness, pain, or inflammation in joints and muscles",
+      "content": "Joint pain (arthralgia) and muscle aches are common during menopause, affecting hips, knees, hands, and shoulders. Declining estrogen levels contribute to inflammation and reduced joint lubrication. This can lead to stiffness, especially in the morning, and reduced mobility.",
+      "severity": "medium",
+      "duration": "Can persist throughout menopause",
+      "management": [
+        "Regular exercise, especially low-impact activities (swimming, walking)",
+        "Strength training and stretching",
+        "Maintain healthy weight to reduce joint stress",
+        "Anti-inflammatory diet",
+        "Over-the-counter pain relievers (NSAIDs)",
+        "Hormone therapy may help",
+        "Physical therapy"
+      ],
+      "tags": ["musculoskeletal", "pain", "inflammation", "common"],
+      "related_topics": ["exercise", "osteoporosis", "hormone_therapy"],
+      "when_to_see_doctor": "If pain is severe, persistent, worsens at night, or occurs without activity (could indicate other conditions)"
+    },
+    {
+      "id": "phys_007",
+      "title": "Weight Gain",
+      "description": "Increased body weight, especially around the abdomen",
+      "content": "Weight gain during menopause averages 1.5 pounds per year through the 50s. Hormonal changes affect metabolism, appetite, and fat distribution, leading to increased abdominal fat even without changes in diet or exercise. Loss of muscle mass with aging also slows metabolism.",
+      "severity": "low",
+      "duration": "Ongoing without intervention",
+      "management": [
+        "Balanced, nutrient-rich diet with portion control",
+        "Regular physical activity (150+ minutes/week)",
+        "Strength training to maintain muscle mass",
+        "Limit processed foods, sugar, and saturated fats",
+        "Manage stress and sleep",
+        "Track food intake if needed"
+      ],
+      "tags": ["metabolic", "body_composition", "common"],
+      "related_topics": ["nutrition", "exercise", "metabolism"],
+      "when_to_see_doctor": "If rapid or unexplained weight gain, especially with other symptoms"
+    },
+    {
+      "id": "phys_008",
+      "title": "Headaches and Migraines",
+      "description": "Increased frequency or severity of headaches",
+      "content": "Hormonal fluctuations during perimenopause can trigger or worsen headaches and migraines, especially in women with a history of migraines. Headaches often improve after menopause when hormone levels stabilize. However, new or worsening headaches after menopause warrant medical evaluation.",
+      "severity": "medium",
+      "duration": "Often improve after menopause",
+      "management": [
+        "Identify and avoid triggers",
+        "Maintain regular sleep and meal schedules",
+        "Stay hydrated",
+        "Manage stress",
+        "Over-the-counter or prescription pain relievers",
+        "Hormone therapy may help or worsen (varies by individual)",
+        "Preventive medications if frequent"
+      ],
+      "tags": ["neurological", "pain", "hormonal"],
+      "related_topics": ["hormone_fluctuations", "stress_management"],
+      "when_to_see_doctor": "New headaches after menopause, severe headaches, headaches with fever/nausea/vision changes, or progressively worsening headaches"
+    },
+    {
+      "id": "phys_009",
+      "title": "Heart Palpitations",
+      "description": "Noticeable pounding, fluttering, or racing heartbeat",
+      "content": "Heart palpitations can occur during menopause due to hormonal changes affecting the cardiovascular system. While often benign, they can be alarming and should be evaluated to rule out cardiac conditions.",
+      "severity": "medium",
+      "duration": "Can be intermittent throughout menopause",
+      "management": [
+        "Reduce caffeine and alcohol",
+        "Manage stress and anxiety",
+        "Stay hydrated",
+        "Regular exercise",
+        "Avoid triggers (certain foods, medications)"
+      ],
+      "tags": ["cardiovascular", "hormonal", "anxiety"],
+      "related_topics": ["anxiety", "cardiovascular_health"],
+      "when_to_see_doctor": "Always see a doctor for palpitations to rule out heart conditions, especially if accompanied by chest pain, shortness of breath, or dizziness"
+    },
+    {
+      "id": "phys_010",
+      "title": "Urinary Urgency and Incontinence",
+      "description": "Increased need to urinate, difficulty controlling bladder",
+      "content": "Declining estrogen weakens pelvic floor muscles and urethral tissues, leading to urinary urgency (sudden strong need to urinate), frequency, and stress incontinence (leaking with coughing, sneezing, laughing). Also increases risk of urinary tract infections (UTIs).",
+      "severity": "medium",
+      "duration": "Can persist without treatment",
+      "management": [
+        "Pelvic floor exercises (Kegels)",
+        "Bladder training",
+        "Limit caffeine and alcohol",
+        "Maintain healthy weight",
+        "Vaginal estrogen therapy",
+        "Physical therapy for pelvic floor",
+        "Medications for overactive bladder if needed"
+      ],
+      "tags": ["urogenital", "pelvic_floor", "common"],
+      "related_topics": ["vaginal_estrogen", "pelvic_floor_exercises"],
+      "when_to_see_doctor": "If accompanied by bloating, pelvic pain, feeling full quickly, or weight loss (could indicate ovarian cancer)"
+    },
+    {
+      "id": "phys_011",
+      "title": "Breast Tenderness",
+      "description": "Soreness, sensitivity, or pain in breasts",
+      "content": "Breast tenderness and swelling can occur during perimenopause due to hormonal fluctuations. This is similar to premenstrual breast tenderness but may be more pronounced. Symptoms typically improve after menopause.",
+      "severity": "low",
+      "duration": "Usually resolves after menopause",
+      "management": [
+        "Wear supportive bra",
+        "Reduce caffeine intake",
+        "Apply warm or cold compresses",
+        "Over-the-counter pain relievers if needed"
+      ],
+      "tags": ["hormonal", "breast", "perimenopause"],
+      "related_topics": ["hormonal_fluctuations"],
+      "when_to_see_doctor": "If severe, persistent, or accompanied by lumps, discharge, or skin changes"
+    },
+    {
+      "id": "phys_012",
+      "title": "Skin Changes",
+      "description": "Dry, thin, itchy, or less elastic skin",
+      "content": "Estrogen helps maintain skin hydration, collagen production, and elasticity. Declining estrogen leads to drier, thinner, more fragile skin that's prone to itching and wrinkles. Skin may also bruise more easily.",
+      "severity": "low",
+      "duration": "Progressive without intervention",
+      "management": [
+        "Use gentle, moisturizing skincare products",
+        "Stay hydrated",
+        "Protect from sun exposure (SPF)",
+        "Humidifier in dry environments",
+        "Omega-3 fatty acids",
+        "Hormone therapy may help"
+      ],
+      "tags": ["dermatological", "aging", "estrogen"],
+      "related_topics": ["hormone_therapy", "nutrition"],
+      "when_to_see_doctor": "If severe itching, rashes, or skin changes that don't improve"
+    },
+    {
+      "id": "phys_013",
+      "title": "Hair Thinning and Loss",
+      "description": "Reduced hair density, thinning, or hair loss",
+      "content": "Hormonal changes during menopause can cause hair thinning on the scalp and sometimes increased facial hair growth. This is due to the relative increase in androgens (male hormones) as estrogen declines.",
+      "severity": "low",
+      "duration": "Progressive without treatment",
+      "management": [
+        "Gentle hair care practices",
+        "Avoid harsh chemicals and heat styling",
+        "Balanced diet with adequate protein and iron",
+        "Biotin and other hair supplements (consult doctor)",
+        "Minoxidil (Rogaine) for hair regrowth",
+        "Hormone therapy may help"
+      ],
+      "tags": ["dermatological", "hormonal", "cosmetic"],
+      "related_topics": ["hormone_therapy", "nutrition"],
+      "when_to_see_doctor": "If sudden or severe hair loss"
+    },
+    {
+      "id": "phys_014",
+      "title": "Digestive Issues",
+      "description": "Bloating, gas, changes in bowel habits",
+      "content": "Hormonal changes can affect the gastrointestinal system, leading to bloating, gas, constipation, or changes in gut bacteria. Water retention and slower digestion are common during menopause.",
+      "severity": "low",
+      "duration": "Can be intermittent or persistent",
+      "management": [
+        "Eat smaller, more frequent meals",
+        "High-fiber diet",
+        "Stay hydrated",
+        "Regular exercise",
+        "Limit gas-producing foods",
+        "Probiotics may help",
+        "Reduce salt intake to minimize bloating"
+      ],
+      "tags": ["gastrointestinal", "hormonal", "common"],
+      "related_topics": ["nutrition", "exercise"],
+      "when_to_see_doctor": "If persistent bloating with pelvic pain, feeling full quickly, or changes in elimination (could indicate ovarian cancer)"
+    },
+    {
+      "id": "phys_015",
+      "title": "Fatigue",
+      "description": "Persistent tiredness not relieved by rest",
+      "content": "Extreme fatigue is common during menopause, often resulting from poor sleep, hormonal changes, or other menopausal symptoms. It can significantly impact daily activities and quality of life.",
+      "severity": "medium",
+      "duration": "Can persist throughout menopause",
+      "management": [
+        "Prioritize sleep hygiene",
+        "Regular exercise (boosts energy)",
+        "Balanced diet with adequate nutrients",
+        "Manage stress",
+        "Treat underlying sleep problems or depression",
+        "Rule out other causes (thyroid, anemia)"
+      ],
+      "tags": ["energy", "sleep", "common", "quality_of_life"],
+      "related_topics": ["sleep_disturbances", "thyroid_issues", "depression"],
+      "when_to_see_doctor": "If extreme fatigue not relieved by rest, especially with unexplained weight loss or other concerning symptoms"
+    },
+    {
+      "id": "phys_016",
+      "title": "Decreased Bone Density",
+      "description": "Weakening of bones increasing fracture risk (osteoporosis)",
+      "content": "Estrogen plays a crucial role in maintaining bone density. After menopause, women can lose up to 25% of bone mass by age 60, significantly increasing the risk of osteoporosis and fractures, especially in the spine, hips, and wrists.",
+      "severity": "high",
+      "duration": "Progressive without intervention",
+      "management": [
+        "Calcium-rich diet (1200mg/day)",
+        "Vitamin D supplementation (800-1000 IU/day)",
+        "Weight-bearing and resistance exercises",
+        "Avoid smoking and excessive alcohol",
+        "Bone density testing (DEXA scan)",
+        "Hormone therapy for prevention",
+        "Osteoporosis medications if needed (bisphosphonates, etc.)"
+      ],
+      "tags": ["skeletal", "osteoporosis", "serious", "preventable"],
+      "related_topics": ["hormone_therapy", "nutrition", "exercise", "calcium_vitamin_d"],
+      "when_to_see_doctor": "Fractures before menopause, family history of osteoporosis, or risk factors present"
+    },
+    {
+      "id": "phys_017",
+      "title": "Dry Mouth and Dental Issues",
+      "description": "Reduced saliva production, sensitive teeth, painful gums",
+      "content": "Hormonal changes can affect oral health, leading to dry mouth, burning mouth syndrome, sensitive teeth, and gum problems. This increases risk of cavities and gum disease.",
+      "severity": "low",
+      "duration": "Can persist without management",
+      "management": [
+        "Stay hydrated",
+        "Sugar-free gum or lozenges to stimulate saliva",
+        "Avoid alcohol-based mouthwashes",
+        "Regular dental checkups",
+        "Fluoride toothpaste",
+        "Saliva substitutes if needed"
+      ],
+      "tags": ["oral_health", "hormonal"],
+      "related_topics": ["hormone_therapy"],
+      "when_to_see_doctor": "If severe or persistent oral symptoms"
+    },
+    {
+      "id": "phys_018",
+      "title": "Brittle Nails",
+      "description": "Weak, cracked, or easily broken nails",
+      "content": "Changes in keratin production during menopause can lead to brittle, weak nails that crack or break easily.",
+      "severity": "low",
+      "duration": "Can persist",
+      "management": [
+        "Keep nails moisturized",
+        "Avoid harsh chemicals and nail products",
+        "Biotin supplements (consult doctor)",
+        "Balanced diet with adequate protein",
+        "Protect hands when doing housework"
+      ],
+      "tags": ["dermatological", "cosmetic", "minor"],
+      "related_topics": ["nutrition"],
+      "when_to_see_doctor": "If accompanied by other symptoms or severe changes"
+    },
+    {
+      "id": "phys_019",
+      "title": "Body Odor Changes",
+      "description": "Changes in sweat composition or body odor",
+      "content": "Hormonal fluctuations and increased sweating from hot flashes can change body odor during menopause.",
+      "severity": "low",
+      "duration": "Can be intermittent",
+      "management": [
+        "Good hygiene practices",
+        "Breathable, natural fabrics",
+        "Antiperspirant/deodorant",
+        "Manage hot flashes and sweating",
+        "Stay hydrated"
+      ],
+      "tags": ["hormonal", "sweating", "minor"],
+      "related_topics": ["hot_flashes", "night_sweats"],
+      "when_to_see_doctor": "If sudden significant changes in body odor"
+    },
+    {
+      "id": "phys_020",
+      "title": "Dizziness",
+      "description": "Feeling lightheaded, faint, or unsteady",
+      "content": "Dizziness can occur during menopause due to hormonal effects on blood sugar regulation, blood pressure, or inner ear function. It can also be related to hot flashes or anxiety.",
+      "severity": "medium",
+      "duration": "Can be intermittent",
+      "management": [
+        "Stay hydrated",
+        "Eat regular meals to maintain blood sugar",
+        "Rise slowly from sitting or lying",
+        "Manage hot flashes and anxiety",
+        "Balance exercises"
+      ],
+      "tags": ["neurological", "cardiovascular", "hormonal"],
+      "related_topics": ["hot_flashes", "anxiety", "blood_sugar"],
+      "when_to_see_doctor": "If frequent, severe, or accompanied by other symptoms like chest pain or vision changes"
+    },
+    {
+      "id": "phys_021",
+      "title": "Tingling Sensations (Paresthesia)",
+      "description": "Tingling, numbness, or 'pins and needles' in hands, feet, or other areas",
+      "content": "Some women experience tingling sensations (paresthesia) during menopause, possibly due to hormonal effects on the nervous system or changes in circulation.",
+      "severity": "low",
+      "duration": "Usually intermittent",
+      "management": [
+        "Stay active to promote circulation",
+        "Manage stress",
+        "Ensure adequate B vitamins",
+        "Rule out other causes (diabetes, nerve compression)"
+      ],
+      "tags": ["neurological", "sensory", "uncommon"],
+      "related_topics": ["vitamin_b", "circulation"],
+      "when_to_see_doctor": "Always see a doctor to rule out other serious causes like diabetes or neurological conditions"
+    },
+    {
+      "id": "phys_022",
+      "title": "Electric Shock Sensations",
+      "description": "Brief, sudden sensations like an electric shock",
+      "content": "Some women report feeling brief electric shock sensations, often preceding a hot flash. This may be due to hormonal effects on the nervous system.",
+      "severity": "low",
+      "duration": "Usually brief and intermittent",
+      "management": [
+        "Manage hot flashes",
+        "Reduce stress",
+        "Hormone therapy may help"
+      ],
+      "tags": ["neurological", "sensory", "uncommon", "hot_flash_related"],
+      "related_topics": ["hot_flashes", "hormone_therapy"],
+      "when_to_see_doctor": "If frequent or concerning"
+    },
+    {
+      "id": "phys_023",
+      "title": "Allergies and Sensitivities",
+      "description": "New or worsening allergies or sensitivities",
+      "content": "Hormonal changes can affect the immune system, leading to new allergies or worsening of existing ones. This is related to effects on IgE antibodies.",
+      "severity": "low",
+      "duration": "Can vary",
+      "management": [
+        "Identify and avoid triggers",
+        "Antihistamines as needed",
+        "Consult allergist if severe",
+        "Maintain healthy immune system through diet and lifestyle"
+      ],
+      "tags": ["immunological", "hormonal", "uncommon"],
+      "related_topics": ["immune_health", "nutrition"],
+      "when_to_see_doctor": "If new severe allergies or anaphylaxis risk"
+    }
+  ]
+}

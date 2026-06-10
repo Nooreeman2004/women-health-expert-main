@@ -1,0 +1,390 @@
+{
+    "category": "red_flags",
+    "subcategory": "warning_signs",
+    "last_updated": "2025-12-25",
+    "description": "Warning signs and red flag symptoms that require immediate medical attention",
+    "entries": [
+        {
+            "id": "red_001",
+            "title": "Post-Menopausal Bleeding",
+            "description": "Any bleeding or spotting after menopause",
+            "content": "ANY bleeding or discharge after you've reached menopause (12 months without periods) is a red flag that requires immediate medical evaluation. This includes even light spotting or unusual discharge. Post-menopausal bleeding can be a sign of uterine (endometrial) cancer, though it can also have benign causes. It must always be investigated with ultrasound and possibly biopsy.",
+            "severity": "critical",
+            "urgency": "immediate",
+            "why_serious": "Can be a sign of uterine cancer",
+            "what_to_do": [
+                "Contact doctor immediately",
+                "Do not wait or dismiss as normal",
+                "Expect ultrasound and possibly endometrial biopsy"
+            ],
+            "possible_causes": [
+                "Uterine (endometrial) cancer",
+                "Uterine polyps",
+                "Endometrial atrophy",
+                "Hormone therapy effects",
+                "Other benign causes"
+            ],
+            "tags": [
+                "red_flag",
+                "critical",
+                "bleeding",
+                "cancer_warning",
+                "immediate"
+            ],
+            "related_topics": [
+                "uterine_cancer",
+                "abnormal_bleeding",
+                "pelvic_ultrasound"
+            ],
+            "when_to_see_doctor": "IMMEDIATELY - same day or next day"
+        },
+        {
+            "id": "red_002",
+            "title": "Heavy or Prolonged Bleeding",
+            "description": "Very heavy periods or bleeding lasting more than 7 days",
+            "content": "Very heavy menstrual bleeding (soaking through pads/tampons hourly, passing large clots bigger than a quarter) or periods lasting longer than 7 days warrant medical evaluation. While often due to hormonal changes during perimenopause, heavy bleeding can lead to anemia and may indicate other conditions like fibroids, polyps, or rarely, cancer.",
+            "severity": "high",
+            "urgency": "prompt (within days to week)",
+            "warning_signs": [
+                "Soaking through pads/tampons every hour",
+                "Passing blood clots larger than a quarter",
+                "Bleeding lasting more than 7 days",
+                "Bleeding between periods",
+                "Needing to change protection during night"
+            ],
+            "why_concerning": [
+                "Can cause anemia (low iron)",
+                "May indicate fibroids, polyps, or other conditions",
+                "Rarely can indicate cancer"
+            ],
+            "what_to_do": [
+                "Track bleeding pattern",
+                "Contact doctor for evaluation",
+                "May need ultrasound or other testing"
+            ],
+            "tags": [
+                "red_flag",
+                "heavy_bleeding",
+                "anemia",
+                "evaluation_needed"
+            ],
+            "related_topics": [
+                "irregular_periods",
+                "anemia",
+                "fibroids"
+            ],
+            "when_to_see_doctor": "Within days to a week; sooner if severe or causing dizziness/weakness"
+        },
+        {
+            "id": "red_003",
+            "title": "Excessive Night Sweats with Weight Loss",
+            "description": "Soaking night sweats combined with unexplained weight loss",
+            "content": "While night sweats are common in menopause, soaking through sheets nightly combined with unexplained, unintentional weight loss is a red flag. This combination, especially with lumps in the armpit, neck, or groin, can indicate serious conditions like lymphoma. Normal menopausal night sweats do not cause significant weight loss.",
+            "severity": "critical",
+            "urgency": "prompt (within days)",
+            "red_flag_combination": [
+                "Soaking through bed sheets nightly",
+                "Unexplained, unintentional weight loss",
+                "Lumps in armpit, neck, or groin (lymph nodes)",
+                "Fever"
+            ],
+            "why_serious": "Can indicate lymphoma or other serious conditions",
+            "what_to_do": [
+                "Contact doctor promptly",
+                "Mention all symptoms together",
+                "Expect thorough evaluation and testing"
+            ],
+            "tags": [
+                "red_flag",
+                "night_sweats",
+                "weight_loss",
+                "lymphoma",
+                "serious"
+            ],
+            "related_topics": [
+                "night_sweats",
+                "unexplained_weight_loss",
+                "lymph_nodes"
+            ],
+            "when_to_see_doctor": "Within days if this combination of symptoms present"
+        },
+        {
+            "id": "red_004",
+            "title": "Severe or New Pain",
+            "description": "Persistent, severe, or worsening pain in specific areas",
+            "content": "New or worsening severe pain, especially in the breast, pelvis, chest, or joints, requires medical evaluation. Pain that wakes you up at night, occurs without activity, or is progressively worsening is particularly concerning and may indicate serious conditions including cancer.",
+            "severity": "high",
+            "urgency": "prompt to immediate depending on severity and location",
+            "concerning_pain_characteristics": [
+                "Severe or persistent pain",
+                "Pain that wakes you up at night",
+                "Pain without activity or injury",
+                "Progressively worsening pain",
+                "Localized pain (specific area)"
+            ],
+            "locations_of_concern": [
+                "Breast pain (especially if localized, with lumps, or skin changes)",
+                "Pelvic pain (especially with bloating, feeling full quickly)",
+                "Chest pain (rule out heart problems)",
+                "Back pain (especially with cough, weight loss, or breathing difficulty)",
+                "Joint pain (if severe, persistent, or with swelling)"
+            ],
+            "possible_serious_causes": [
+                "Breast cancer",
+                "Ovarian cancer",
+                "Lung cancer (back pain)",
+                "Heart disease",
+                "Other serious conditions"
+            ],
+            "what_to_do": "Contact doctor for evaluation; chest pain requires immediate attention",
+            "tags": [
+                "red_flag",
+                "pain",
+                "cancer_warning",
+                "evaluation_needed"
+            ],
+            "related_topics": [
+                "breast_pain",
+                "pelvic_pain",
+                "chest_pain",
+                "back_pain"
+            ],
+            "when_to_see_doctor": "Chest pain: IMMEDIATE (call emergency services). Other severe pain: within days"
+        },
+        {
+            "id": "red_005",
+            "title": "Incontinence with Other Symptoms",
+            "description": "Urinary urgency/incontinence combined with bloating, pelvic pain, or feeling full",
+            "content": "While urinary incontinence is common during menopause (30-40% of women), the combination of incontinence with bloating, feeling full quickly when eating, pelvic pain, unintended weight loss, and changes in bowel habits can be a warning sign of ovarian cancer. Ovarian cancer symptoms are often vague and easily mistaken for menopause or digestive issues.",
+            "severity": "high",
+            "urgency": "prompt (within 1-2 weeks)",
+            "red_flag_combination": [
+                "Urinary urgency or incontinence",
+                "Bloating (especially persistent or worsening)",
+                "Feeling full quickly when eating",
+                "Pelvic or abdominal pain",
+                "Unintended weight loss",
+                "Changes in bowel habits (constipation)"
+            ],
+            "why_serious": "Can indicate ovarian cancer, which has vague early symptoms",
+            "what_to_do": [
+                "Don't dismiss as just menopause",
+                "Contact doctor if multiple symptoms present",
+                "Expect pelvic exam and possibly ultrasound"
+            ],
+            "important_note": "Incontinence alone is common in menopause; it's the combination with other symptoms that's concerning",
+            "tags": [
+                "red_flag",
+                "ovarian_cancer",
+                "incontinence",
+                "bloating",
+                "combination_symptoms"
+            ],
+            "related_topics": [
+                "urinary_incontinence",
+                "ovarian_cancer",
+                "bloating",
+                "pelvic_pain"
+            ],
+            "when_to_see_doctor": "Within 1-2 weeks if multiple symptoms present together"
+        },
+        {
+            "id": "red_006",
+            "title": "Cognitive Changes Beyond Brain Fog",
+            "description": "Severe memory or cognitive problems suggesting dementia",
+            "content": "While brain fog and mild memory lapses are normal during menopause, more severe cognitive changes warrant evaluation for early-onset dementia or Alzheimer's disease. Warning signs include difficulty maintaining conversations, regularly forgetting where you are or what month/year it is, inability to manage finances or daily tasks, and personality changes noticed by family.",
+            "severity": "high",
+            "urgency": "prompt (within weeks)",
+            "normal_menopause": [
+                "Forgetting where you put keys occasionally",
+                "Word-finding difficulty (tip of tongue)",
+                "Mild concentration problems",
+                "Temporary memory lapses"
+            ],
+            "concerning_signs": [
+                "Trouble maintaining conversations",
+                "Regularly forgetting month, year, or location",
+                "Can't remember how to do routine tasks (pay bills, cook familiar recipes)",
+                "Personality changes noticed by others",
+                "Getting lost in familiar places",
+                "Difficulty with decision-making and judgment"
+            ],
+            "why_serious": "May indicate early-onset Alzheimer's or dementia",
+            "what_to_do": [
+                "Contact doctor for cognitive evaluation",
+                "Bring family member who can describe changes",
+                "Expect cognitive testing and possibly brain imaging"
+            ],
+            "tags": [
+                "red_flag",
+                "cognitive",
+                "dementia",
+                "Alzheimer's",
+                "memory"
+            ],
+            "related_topics": [
+                "brain_fog",
+                "memory_problems",
+                "dementia",
+                "cognitive_health"
+            ],
+            "when_to_see_doctor": "Within weeks if severe cognitive changes present"
+        },
+        {
+            "id": "red_007",
+            "title": "Fractures Before Menopause",
+            "description": "Broken bones before menopause indicating osteoporosis risk",
+            "content": "If you've broken bones, especially after age 50 but before menopause, you're at significantly greater risk for osteoporotic fractures after menopause. This is true even after accounting for other risk factors. Fractures before menopause warrant bone density testing and preventive measures.",
+            "severity": "medium",
+            "urgency": "non-urgent but important",
+            "why_concerning": "Indicates increased osteoporosis risk after menopause",
+            "what_to_do": [
+                "Inform doctor about pre-menopausal fractures",
+                "Request bone density testing (DEXA scan)",
+                "Discuss preventive measures (calcium, vitamin D, exercise, possibly HRT)"
+            ],
+            "prevention": [
+                "Bone density monitoring",
+                "Adequate calcium (1200mg/day) and vitamin D",
+                "Weight-bearing exercise",
+                "Consider HRT for bone protection",
+                "Avoid smoking and excessive alcohol"
+            ],
+            "tags": [
+                "red_flag",
+                "fractures",
+                "osteoporosis_risk",
+                "prevention"
+            ],
+            "related_topics": [
+                "osteoporosis",
+                "bone_health",
+                "fracture_risk",
+                "DEXA_scan"
+            ],
+            "when_to_see_doctor": "Discuss at next appointment; request bone density testing"
+        },
+        {
+            "id": "red_008",
+            "title": "Symptoms with Thyroid or Autoimmune History",
+            "description": "Menopausal symptoms in women with thyroid problems or autoimmune diseases",
+            "content": "If you have an autoimmune disease (Type 1 diabetes, celiac disease) or family history of thyroid problems, and you're experiencing symptoms like weight gain, brain fog, fatigue, temperature regulation issues, and irregular periods, it's important to rule out hypothyroidism (especially Hashimoto's disease). These symptoms overlap significantly with menopause but require different treatment.",
+            "severity": "medium",
+            "urgency": "prompt (within weeks)",
+            "risk_factors": [
+                "Personal history of autoimmune disease (Type 1 diabetes, celiac disease)",
+                "Family history of thyroid problems",
+                "Previous thyroid issues"
+            ],
+            "overlapping_symptoms": [
+                "Weight gain",
+                "Fatigue",
+                "Brain fog",
+                "Irregular periods",
+                "Temperature regulation problems",
+                "Mood changes",
+                "Hair thinning"
+            ],
+            "why_important": "Hypothyroidism requires different treatment than menopause",
+            "what_to_do": [
+                "Request TSH (thyroid) blood test",
+                "Mention autoimmune or family history",
+                "May need thyroid treatment in addition to or instead of menopause treatment"
+            ],
+            "tags": [
+                "red_flag",
+                "thyroid",
+                "autoimmune",
+                "differential_diagnosis",
+                "Hashimoto's"
+            ],
+            "related_topics": [
+                "hypothyroidism",
+                "TSH_test",
+                "autoimmune_disease",
+                "symptoms"
+            ],
+            "when_to_see_doctor": "Within weeks; request thyroid testing"
+        },
+        {
+            "id": "red_009",
+            "title": "History of Major Depression",
+            "description": "Previous major depressive episodes increase perimenopause depression risk",
+            "content": "If you've had a major depressive episode in the past, you are 59% more likely to experience another episode during perimenopause. Fluctuating estrogen can trigger depression, and it's important to recognize symptoms early and seek help. Don't dismiss persistent sadness, hopelessness, or loss of interest as 'just menopause.'",
+            "severity": "high",
+            "urgency": "prompt if symptoms present",
+            "risk_factor": "History of major depressive episode increases perimenopause depression risk by 59%",
+            "warning_signs": [
+                "Persistent sadness or hopelessness",
+                "Loss of interest in activities you used to enjoy",
+                "Fatigue and low energy",
+                "Changes in appetite or sleep",
+                "Difficulty concentrating",
+                "Thoughts of self-harm or suicide"
+            ],
+            "why_important": "Depression requires treatment; don't dismiss as normal menopause",
+            "what_to_do": [
+                "Recognize that you're at higher risk",
+                "Monitor mood closely during perimenopause",
+                "Seek help early if depression symptoms develop",
+                "Treatment may include therapy, antidepressants, and/or HRT"
+            ],
+            "tags": [
+                "red_flag",
+                "depression",
+                "mental_health",
+                "risk_factor",
+                "history"
+            ],
+            "related_topics": [
+                "depression",
+                "mental_health_history",
+                "antidepressants",
+                "CBT"
+            ],
+            "when_to_see_doctor": "Promptly if depression symptoms develop; immediately if thoughts of self-harm"
+        },
+        {
+            "id": "red_010",
+            "title": "Doctor Dismisses Your Concerns",
+            "description": "Healthcare provider not taking your symptoms seriously",
+            "content": "If your doctor dismisses your menopause concerns, doesn't listen to your symptoms, refuses to discuss treatment options, or makes you feel like you're overreacting, it's a red flag that you need a new healthcare provider. You deserve a doctor who takes your symptoms seriously, discusses treatment options, and partners with you in managing your menopause transition.",
+            "severity": "high",
+            "urgency": "non-urgent but important",
+            "signs_of_dismissive_care": [
+                "Doctor says symptoms are 'just part of aging' without offering help",
+                "Refuses to discuss HRT or other treatments",
+                "Doesn't listen to your concerns",
+                "Makes you feel like you're overreacting",
+                "Doesn't take symptoms seriously",
+                "Won't answer questions or provide information"
+            ],
+            "why_important": "You deserve quality care and symptom management",
+            "what_to_do": [
+                "Find a new doctor or gynecologist",
+                "Look for providers with menopause expertise",
+                "Consider menopause specialists",
+                "Don't settle for dismissive care"
+            ],
+            "your_rights": [
+                "To have symptoms taken seriously",
+                "To discuss all treatment options",
+                "To ask questions and get answers",
+                "To be treated with respect",
+                "To quality menopause care"
+            ],
+            "tags": [
+                "red_flag",
+                "healthcare_quality",
+                "patient_advocacy",
+                "find_new_doctor"
+            ],
+            "related_topics": [
+                "finding_doctor",
+                "patient_rights",
+                "quality_care"
+            ],
+            "when_to_see_doctor": "Find a new provider if current one is dismissive"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "category": "treatments",
+    "subcategory": "hormonal",
+    "last_updated": "2025-12-25",
+    "description": "Hormonal treatment options for menopause symptoms",
+    "entries": [
+        {
+            "id": "horm_001",
+            "title": "Hormone Replacement Therapy (HRT) Overview",
+            "description": "The main medical treatment for menopause symptoms using hormones to replace declining levels",
+            "content": "Hormone Replacement Therapy (HRT), also called Hormone Therapy (HT), is the most effective treatment for menopausal symptoms, particularly hot flashes, night sweats, vaginal dryness, and mood symptoms. HRT replaces estrogen (and progesterone if you have a uterus) that the body no longer produces at sufficient levels. It can reduce hot flashes by 75-90%, improve sleep quality, enhance mood, prevent bone loss, and improve overall quality of life during menopause.",
+            "effectiveness": "Highly effective - reduces hot flashes by 75-90%, most effective treatment available",
+            "who_can_use": "Most women going through menopause, especially those under 60 or within 10 years of menopause onset",
+            "who_should_avoid": [
+                "Personal history of breast cancer",
+                "History of blood clots or stroke",
+                "Active liver disease",
+                "Unexplained vaginal bleeding",
+                "Pregnancy"
+            ],
+            "benefits": [
+                "Relieves hot flashes and night sweats (75-90% reduction)",
+                "Improves vaginal dryness and urinary symptoms",
+                "Reduces joint pain and muscle aches",
+                "Improves mood, brain fog, and sleep",
+                "Prevents osteoporosis and reduces fracture risk",
+                "May reduce cardiovascular disease risk when started early",
+                "Improves quality of life"
+            ],
+            "risks": [
+                "Small increased risk of breast cancer with long-term combined HRT (estrogen + progestin)",
+                "Small increased risk of blood clots (especially with oral estrogen)",
+                "Small increased risk of stroke in older women",
+                "Risks are generally small and outweighed by benefits for most women"
+            ],
+            "important_notes": [
+                "Safest and most beneficial when started before age 60 or within 10 years of menopause",
+                "Risks vary based on type, dose, duration, and individual factors",
+                "Regular follow-up with healthcare provider recommended",
+                "Can be taken as long as benefits outweigh risks"
+            ],
+            "tags": [
+                "HRT",
+                "hormonal",
+                "estrogen",
+                "progesterone",
+                "gold_standard",
+                "effective"
+            ],
+            "related_topics": [
+                "estrogen_therapy",
+                "combined_therapy",
+                "bioidentical_hormones",
+                "risks_benefits"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss HRT with your doctor if menopausal symptoms are affecting your quality of life"
+        },
+        {
+            "id": "horm_002",
+            "title": "Estrogen Therapy (ET)",
+            "description": "Estrogen-only hormone therapy for women without a uterus",
+            "content": "Estrogen Therapy (ET) involves taking estrogen alone without progesterone. This is only appropriate for women who have had a hysterectomy (uterus removed), as estrogen alone can cause uterine lining overgrowth and increase cancer risk in women with a uterus. ET is highly effective for menopausal symptoms and comes in various forms.",
+            "forms": [
+                "Skin patches (changed 1-2 times weekly)",
+                "Gels or sprays applied to skin daily",
+                "Pills taken daily",
+                "Vaginal rings (changed every 3 months)",
+                "Implants (less common)"
+            ],
+            "dosing": "Lowest effective dose for symptom relief",
+            "who_can_use": "Women without a uterus (post-hysterectomy)",
+            "effectiveness": "Highly effective for all menopausal symptoms",
+            "benefits": [
+                "Relieves vasomotor symptoms (hot flashes, night sweats)",
+                "Improves vaginal and urinary symptoms",
+                "Prevents bone loss",
+                "May have lower breast cancer risk than combined therapy"
+            ],
+            "preferred_forms": "Transdermal (patches, gels) preferred over oral for lower blood clot risk",
+            "tags": [
+                "estrogen",
+                "ET",
+                "hormonal",
+                "hysterectomy",
+                "transdermal"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "combined_therapy",
+                "delivery_methods"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss with doctor to determine appropriate type and dose"
+        },
+        {
+            "id": "horm_003",
+            "title": "Combined Hormone Therapy (EPT)",
+            "description": "Estrogen plus progesterone therapy for women with a uterus",
+            "content": "Combined Hormone Therapy (EPT), also called Estrogen-Progestogen Therapy, uses both estrogen and progesterone (or progestin, a synthetic form). The progesterone is essential for women with a uterus to protect the uterine lining from overgrowth and cancer risk caused by estrogen alone. EPT is highly effective for menopausal symptoms.",
+            "forms": [
+                "Combined patches (estrogen + progestin)",
+                "Separate estrogen (patch/gel) + progestin pill",
+                "Combined pills",
+                "Estrogen (any form) + progestin IUS (Mirena coil)"
+            ],
+            "who_can_use": "Women with a uterus",
+            "who_must_use": "Any woman with a uterus taking systemic estrogen MUST also take progesterone",
+            "regimens": [
+                "Continuous combined: Daily estrogen + daily progesterone (no periods)",
+                "Sequential/cyclical: Daily estrogen + progesterone for part of month (may have withdrawal bleeding)"
+            ],
+            "effectiveness": "Highly effective for menopausal symptoms",
+            "benefits": [
+                "Relieves all menopausal symptoms",
+                "Protects uterine lining",
+                "Prevents osteoporosis"
+            ],
+            "considerations": [
+                "Slightly higher breast cancer risk than estrogen alone with long-term use",
+                "Risk is still small and depends on duration and type of progestin",
+                "Benefits often outweigh risks, especially when started early"
+            ],
+            "tags": [
+                "combined_HRT",
+                "EPT",
+                "estrogen",
+                "progesterone",
+                "progestin"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "estrogen_therapy",
+                "uterine_protection"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Required for women with uterus taking estrogen"
+        },
+        {
+            "id": "horm_004",
+            "title": "Vaginal Estrogen",
+            "description": "Low-dose estrogen applied directly to the vagina for local symptoms",
+            "content": "Vaginal estrogen is a low-dose estrogen treatment applied directly to the vagina to treat vaginal dryness, atrophy, pain during sex, and urinary symptoms. Unlike systemic HRT, vaginal estrogen works locally with minimal absorption into the bloodstream, making it very safe for long-term use. It can be used alone or alongside systemic HRT.",
+            "forms": [
+                "Vaginal creams (applied with applicator)",
+                "Vaginal tablets (inserted with applicator)",
+                "Vaginal rings (inserted and changed every 3 months)"
+            ],
+            "who_can_use": "Most women with vaginal/urinary symptoms, including many who cannot use systemic HRT",
+            "effectiveness": "Highly effective for vaginal dryness, pain during sex, and urinary symptoms",
+            "benefits": [
+                "Relieves vaginal dryness and atrophy",
+                "Reduces pain during intercourse",
+                "Improves urinary symptoms and reduces UTI risk",
+                "Very safe - minimal systemic absorption",
+                "Can be used indefinitely",
+                "Can be used with systemic HRT"
+            ],
+            "duration": "Can be used for life; symptoms typically return if stopped",
+            "safety": "Very safe, even for women who cannot use systemic HRT",
+            "tags": [
+                "vaginal_estrogen",
+                "local_treatment",
+                "vaginal_atrophy",
+                "safe",
+                "long_term"
+            ],
+            "related_topics": [
+                "vaginal_dryness",
+                "painful_intercourse",
+                "urinary_symptoms"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if experiencing vaginal dryness or urinary symptoms"
+        },
+        {
+            "id": "horm_005",
+            "title": "Testosterone Therapy",
+            "description": "Testosterone gel or cream for low libido in menopausal women",
+            "content": "Testosterone therapy can help restore sex drive (libido) in menopausal women when HRT alone doesn't help. Testosterone is produced by the ovaries and levels decline with age. While not officially licensed for women in many countries, it can be prescribed off-label by specialists. It's safe to use alongside HRT.",
+            "forms": [
+                "Gel applied to skin daily",
+                "Cream applied to skin"
+            ],
+            "who_can_use": "Women with low libido not improved by HRT, prescribed by specialist",
+            "effectiveness": "Can improve libido, mood, and energy in some women",
+            "benefits": [
+                "Improves sex drive",
+                "May improve mood and energy",
+                "Can enhance overall well-being"
+            ],
+            "side_effects": [
+                "Acne (uncommon)",
+                "Unwanted hair growth (uncommon)",
+                "Can affect others if they contact treated skin - wash hands after use and cover area"
+            ],
+            "safety": "Generally safe when properly dosed and monitored",
+            "tags": [
+                "testosterone",
+                "libido",
+                "sex_drive",
+                "hormonal",
+                "specialist"
+            ],
+            "related_topics": [
+                "low_libido",
+                "HRT",
+                "sexual_health"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss with specialist if low libido persists despite HRT"
+        },
+        {
+            "id": "horm_006",
+            "title": "Bioidentical Hormones (Body-Identical Hormones)",
+            "description": "Hormones chemically identical to those the body produces",
+            "content": "Bioidentical or body-identical hormones are hormones that are chemically identical to those produced by the human body. Many regulated HRT products available on the NHS and by prescription are bioidentical, including micronized progesterone and 17-beta estradiol. These are different from compounded bioidentical hormones, which are custom-mixed and not regulated. Regulated bioidentical hormones are safe, tested, and effective.",
+            "types": [
+                "Micronized progesterone (Utrogestan, Prometrium)",
+                "17-beta estradiol (patches, gels, tablets)"
+            ],
+            "who_can_use": "Same as standard HRT",
+            "effectiveness": "Same as standard HRT",
+            "benefits": [
+                "Chemically identical to body's hormones",
+                "Well-tested and regulated",
+                "May have better side effect profile for some women",
+                "Micronized progesterone may have lower breast cancer and blood clot risk than synthetic progestins"
+            ],
+            "important_distinction": "Regulated bioidentical hormones (available by prescription) are different from unregulated compounded bioidentical hormones (not recommended)",
+            "tags": [
+                "bioidentical",
+                "body_identical",
+                "micronized_progesterone",
+                "estradiol",
+                "regulated"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "compounded_hormones"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss bioidentical options with your doctor"
+        },
+        {
+            "id": "horm_007",
+            "title": "Prasterone (Intrarosa)",
+            "description": "DHEA vaginal insert for vaginal dryness",
+            "content": "Prasterone is a vaginal insert containing DHEA (dehydroepiandrosterone), a hormone that the body converts to estrogen and testosterone locally in vaginal tissues. It's used to treat vaginal dryness and pain during intercourse in postmenopausal women.",
+            "forms": [
+                "Vaginal insert (suppository) used nightly"
+            ],
+            "who_can_use": "Postmenopausal women with vaginal symptoms",
+            "effectiveness": "Effective for vaginal dryness and painful intercourse",
+            "benefits": [
+                "Relieves vaginal dryness",
+                "Reduces pain during sex",
+                "Works locally with minimal systemic absorption"
+            ],
+            "tags": [
+                "DHEA",
+                "prasterone",
+                "vaginal",
+                "local_treatment"
+            ],
+            "related_topics": [
+                "vaginal_estrogen",
+                "vaginal_dryness"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Discuss if vaginal symptoms persist"
+        },
+        {
+            "id": "horm_008",
+            "title": "HRT Duration and Follow-up",
+            "description": "How long to take HRT and monitoring recommendations",
+            "content": "There is no arbitrary time limit for HRT. Women can take HRT as long as the benefits outweigh the risks for their individual situation. Many women take HRT for several years; some continue for decades. Regular follow-up with a healthcare provider is important to reassess benefits, risks, and appropriateness.",
+            "initial_review": "After 3 months of starting HRT",
+            "ongoing_reviews": "Annually, or more often if needed",
+            "what_happens_at_reviews": [
+                "Assess symptom control",
+                "Check for side effects or vaginal bleeding",
+                "Monitor weight and blood pressure",
+                "Review type and dose of HRT",
+                "Discuss benefits and risks",
+                "Adjust treatment as needed"
+            ],
+            "duration_guidance": [
+                "No fixed time limit",
+                "Can continue as long as benefits outweigh risks",
+                "Symptoms often return if HRT is stopped",
+                "Can restart HRT if needed after stopping"
+            ],
+            "tags": [
+                "HRT",
+                "duration",
+                "monitoring",
+                "follow_up",
+                "long_term"
+            ],
+            "related_topics": [
+                "HRT_overview",
+                "risks_benefits"
+            ],
+            "severity": "n/a",
+            "when_to_see_doctor": "Regular annual reviews recommended"
+        }
+    ]
+}

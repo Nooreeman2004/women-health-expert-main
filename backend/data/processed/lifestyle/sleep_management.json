@@ -1,0 +1,163 @@
+{
+    "category": "lifestyle",
+    "subcategory": "sleep_management",
+    "last_updated": "2025-12-25",
+    "description": "Sleep hygiene and management strategies for menopause-related sleep problems",
+    "entries": [
+        {
+            "id": "sleep_001",
+            "title": "Sleep Hygiene Basics",
+            "description": "Foundational practices for better sleep during menopause",
+            "content": "Good sleep hygiene - habits and practices that promote quality sleep - is essential during menopause when sleep is often disrupted by night sweats, insomnia, and hormonal changes. Establishing consistent routines and optimizing your sleep environment can significantly improve sleep quality.",
+            "key_practices": [
+                "Maintain consistent sleep schedule (same bedtime and wake time daily, even weekends)",
+                "Create relaxing bedtime routine (30-60 minutes before bed)",
+                "Keep bedroom cool (60-67°F / 15-19°C)",
+                "Make bedroom dark (blackout curtains, eye mask)",
+                "Keep bedroom quiet (white noise machine if needed)",
+                "Use comfortable, breathable bedding",
+                "Reserve bed for sleep and sex only (not work, TV, phone)",
+                "Limit screen time 1-2 hours before bed (blue light disrupts sleep)",
+                "Avoid large meals close to bedtime",
+                "Limit fluids before bed to reduce nighttime bathroom trips"
+            ],
+            "tags": [
+                "sleep",
+                "sleep_hygiene",
+                "habits",
+                "routine"
+            ],
+            "related_topics": [
+                "insomnia",
+                "night_sweats",
+                "sleep_environment"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "sleep_002",
+            "title": "Managing Night Sweats for Better Sleep",
+            "description": "Strategies to minimize sleep disruption from night sweats",
+            "content": "Night sweats are one of the most disruptive menopausal symptoms. These strategies can help minimize their impact on sleep quality.",
+            "strategies": [
+                "Keep bedroom very cool (60-67°F / 15-19°C)",
+                "Use fan or air conditioning",
+                "Wear light, breathable sleepwear (moisture-wicking fabrics)",
+                "Use breathable, moisture-wicking sheets",
+                "Layer bedding for easy adjustment",
+                "Keep cold water by bedside",
+                "Place cold packs under pillow, flip to cool side",
+                "Shower before bed to lower body temperature",
+                "Avoid triggers before bed (alcohol, spicy foods, hot drinks)",
+                "Consider medical treatment (HRT, gabapentin, other medications)"
+            ],
+            "medical_options": "If night sweats severely disrupt sleep, discuss HRT or medications like gabapentin with doctor",
+            "tags": [
+                "sleep",
+                "night_sweats",
+                "management",
+                "cooling"
+            ],
+            "related_topics": [
+                "night_sweats",
+                "hormone_therapy",
+                "gabapentin"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "sleep_003",
+            "title": "Caffeine and Alcohol Management",
+            "description": "How caffeine and alcohol affect sleep during menopause",
+            "content": "Caffeine and alcohol can significantly disrupt sleep, especially during menopause when sleep is already compromised. Managing intake, particularly timing, can improve sleep quality.",
+            "caffeine": [
+                "Avoid caffeine after noon (or earlier if very sensitive)",
+                "Remember hidden sources: tea, soda, chocolate, some medications",
+                "Caffeine has 6-hour half-life (stays in system long time)",
+                "Can trigger hot flashes and worsen sleep",
+                "Consider decaf alternatives"
+            ],
+            "alcohol": [
+                "Avoid alcohol 3-4 hours before bed",
+                "While alcohol may help you fall asleep, it disrupts sleep quality and causes early waking",
+                "Triggers hot flashes and night sweats",
+                "Increases nighttime bathroom trips",
+                "Limit overall consumption"
+            ],
+            "tags": [
+                "sleep",
+                "caffeine",
+                "alcohol",
+                "triggers"
+            ],
+            "related_topics": [
+                "sleep_hygiene",
+                "hot_flashes",
+                "nutrition"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "sleep_004",
+            "title": "Relaxation Techniques for Sleep",
+            "description": "Methods to calm mind and body for better sleep",
+            "content": "Relaxation techniques can help calm an anxious or racing mind, reduce stress, and prepare your body for sleep. These are particularly helpful during menopause when anxiety and stress can worsen sleep problems.",
+            "techniques": [
+                "Deep breathing exercises (4-7-8 breathing, diaphragmatic breathing)",
+                "Progressive muscle relaxation (tense and release muscle groups)",
+                "Meditation or mindfulness",
+                "Guided imagery or visualization",
+                "Gentle yoga or stretching",
+                "Reading (not on screen)",
+                "Listening to calming music or sleep sounds",
+                "Journaling to clear mind of worries",
+                "Warm bath (not hot, which can trigger hot flash)"
+            ],
+            "timing": "Practice 30-60 minutes before bed as part of bedtime routine",
+            "tags": [
+                "sleep",
+                "relaxation",
+                "stress_reduction",
+                "mindfulness"
+            ],
+            "related_topics": [
+                "stress_management",
+                "anxiety",
+                "CBT"
+            ],
+            "severity": "n/a"
+        },
+        {
+            "id": "sleep_005",
+            "title": "When to Seek Help for Sleep Problems",
+            "description": "Signs that sleep problems need medical attention",
+            "content": "While some sleep disruption is common during menopause, persistent or severe sleep problems warrant medical attention. Chronic poor sleep affects health, mood, and quality of life.",
+            "seek_help_if": [
+                "Sleep problems persist despite good sleep hygiene",
+                "Daytime functioning is significantly impaired (fatigue, concentration, mood)",
+                "Falling asleep while driving or during activities",
+                "Loud snoring or gasping during sleep (could indicate sleep apnea)",
+                "Severe insomnia (difficulty falling or staying asleep most nights)",
+                "Sleep problems causing significant distress"
+            ],
+            "treatment_options": [
+                "Treat underlying causes (night sweats with HRT or medications)",
+                "Cognitive Behavioral Therapy for Insomnia (CBT-I) - highly effective",
+                "Sleep medications (short-term use)",
+                "Sleep study if sleep apnea suspected"
+            ],
+            "tags": [
+                "sleep",
+                "insomnia",
+                "when_to_see_doctor",
+                "treatment"
+            ],
+            "related_topics": [
+                "insomnia",
+                "CBT",
+                "hormone_therapy"
+            ],
+            "severity": "n/a"
+        }
+    ]
+}

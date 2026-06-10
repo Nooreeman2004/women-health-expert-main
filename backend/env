@@ -1,0 +1,38 @@
+# # Secret API Keys and Settings
+# OpenAI Model Configuration
+OPENAI_API_KEY=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
+
+# Groq Cloud Configuration
+GROQ_API_KEY=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
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=8000
+DEBUG=False
+# API Configuration
+API_V1_PREFIX=/api/v1
+PROJECT_NAME=Women-Health-Expert
+# OPENAI_API
+PINECONE_API_KEY=pcsk_6zYn1A_62z84BEmAiqYcfZvSivLMyubGPh1zzbfFRuMmeqYnnKn6ZsBu7Rc7V2ZhUWdk7F
+PINECONE_ENVIRONMENT=us-east-1
+PINECONE_INDEX_NAME=women-health-expert
+# Optional: OpenAI Model Configuration (Embeddings Only)
+OPENAI_EMBEDDING_MODEL=text-embedding-3-large
+OPENAI_EMBEDDING_DIMENSIONS=3072
+
+# Groq Model Configuration (Chat Completions)
+GROQ_GENERATION_MODEL=openai/gpt-oss-20b
+GROQ_ENFORCER_MODEL=openai/gpt-oss-20b
+# Optional: Application Configuration
+CHUNK_SIZE=1000
+CHUNK_OVERLAP=200
+MAX_RETRIES=3
+BATCH_SIZE=100
+# Vector Store Configuration
+VECTOR_STORE_PATH=data/vector_store_data
+EMBEDDINGS_PATH=data/embeddings_data
+# RAG Configuration
+DEFAULT_N_RESULTS=5
+SIMILARITY_THRESHOLD=0.3
+# Logging Level
+LOG_LEVEL=INFO

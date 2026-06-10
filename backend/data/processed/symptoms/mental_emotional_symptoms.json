@@ -1,0 +1,373 @@
+{
+    "category": "symptoms",
+    "subcategory": "mental_emotional",
+    "last_updated": "2025-12-25",
+    "description": "Mental and emotional symptoms experienced during perimenopause and menopause",
+    "entries": [
+        {
+            "id": "ment_001",
+            "title": "Mood Swings",
+            "description": "Rapid, unpredictable changes in emotional state",
+            "content": "Mood swings during menopause involve sudden shifts from feeling energetic and happy to sad, irritable, or angry. These fluctuations are caused by changing estrogen levels, which affect neurotransmitters like serotonin and dopamine that regulate mood. Mood swings can be distressing and impact relationships and daily functioning.",
+            "severity": "medium",
+            "duration": "Common during perimenopause, often improve after menopause",
+            "management": [
+                "Regular exercise to boost mood-regulating neurotransmitters",
+                "Adequate sleep",
+                "Stress management techniques (meditation, yoga)",
+                "Maintain social connections and support system",
+                "Cognitive Behavioral Therapy (CBT)",
+                "Hormone therapy can help stabilize mood",
+                "Antidepressants if severe"
+            ],
+            "tags": [
+                "mood",
+                "emotional",
+                "hormonal",
+                "common",
+                "neurotransmitters"
+            ],
+            "related_topics": [
+                "hormone_therapy",
+                "CBT",
+                "exercise",
+                "stress_management"
+            ],
+            "when_to_see_doctor": "If mood swings are severe, disruptive to relationships or work, or accompanied by thoughts of self-harm"
+        },
+        {
+            "id": "ment_002",
+            "title": "Anxiety",
+            "description": "Persistent worry, nervousness, or feelings of unease",
+            "content": "Anxiety is common during menopause, characterized by excessive worry, restlessness, tension, rapid heartbeat, and difficulty relaxing. Hormonal fluctuations affect brain chemistry and the stress response system. Anxiety can be new or worsen existing anxiety disorders.",
+            "severity": "medium",
+            "duration": "Can persist throughout menopause transition",
+            "management": [
+                "Regular physical activity",
+                "Relaxation techniques (deep breathing, progressive muscle relaxation)",
+                "Mindfulness and meditation",
+                "Limit caffeine and alcohol",
+                "Adequate sleep",
+                "Cognitive Behavioral Therapy (CBT)",
+                "Hormone therapy may help",
+                "Anti-anxiety medications or SSRIs/SNRIs if needed"
+            ],
+            "tags": [
+                "anxiety",
+                "mental_health",
+                "hormonal",
+                "common",
+                "stress"
+            ],
+            "related_topics": [
+                "CBT",
+                "hormone_therapy",
+                "stress_management",
+                "panic_disorder"
+            ],
+            "when_to_see_doctor": "If anxiety is severe, persistent, interferes with daily life, or includes panic attacks"
+        },
+        {
+            "id": "ment_003",
+            "title": "Depression",
+            "description": "Persistent low mood, sadness, or loss of interest in activities",
+            "content": "Depression during menopause involves persistent sadness, hopelessness, loss of interest in previously enjoyed activities, changes in appetite, and low energy. Women with a history of major depressive episodes are 59% more likely to experience depression during perimenopause. Hormonal changes affect serotonin and other mood-regulating neurotransmitters.",
+            "severity": "high",
+            "duration": "Can be episodic or persistent",
+            "management": [
+                "Seek professional mental health support",
+                "Psychotherapy (CBT, interpersonal therapy)",
+                "Antidepressant medications (SSRIs, SNRIs)",
+                "Regular exercise",
+                "Social support and connection",
+                "Hormone therapy may help in some cases",
+                "Light therapy",
+                "Maintain routine and structure"
+            ],
+            "tags": [
+                "depression",
+                "mental_health",
+                "serious",
+                "mood",
+                "neurotransmitters"
+            ],
+            "related_topics": [
+                "antidepressants",
+                "CBT",
+                "hormone_therapy",
+                "mental_health_history"
+            ],
+            "when_to_see_doctor": "Always seek help for depression, especially if persistent, severe, or includes thoughts of self-harm or suicide"
+        },
+        {
+            "id": "ment_004",
+            "title": "Irritability",
+            "description": "Increased tendency to feel annoyed, frustrated, or angry",
+            "content": "Irritability during menopause involves a lower threshold for frustration, increased impatience, and quick anger responses. This can strain relationships and is often compounded by other symptoms like poor sleep and hot flashes. Hormonal changes and the stress of managing multiple symptoms contribute to irritability.",
+            "severity": "low",
+            "duration": "Common during perimenopause",
+            "management": [
+                "Recognize triggers and warning signs",
+                "Practice stress management techniques",
+                "Regular exercise to release tension",
+                "Adequate sleep",
+                "Communicate with family and friends about what you're experiencing",
+                "Vitamin B6 may help with irritability",
+                "Hormone therapy or antidepressants if severe"
+            ],
+            "tags": [
+                "mood",
+                "emotional",
+                "irritability",
+                "common",
+                "relationships"
+            ],
+            "related_topics": [
+                "mood_swings",
+                "stress_management",
+                "vitamin_b",
+                "sleep"
+            ],
+            "when_to_see_doctor": "If irritability is severe or damaging relationships"
+        },
+        {
+            "id": "ment_005",
+            "title": "Brain Fog",
+            "description": "Difficulty with memory, concentration, and mental clarity",
+            "content": "Brain fog during menopause includes forgetfulness, difficulty concentrating, trouble finding words, and reduced mental sharpness. Women may forget appointments, lose items, or have trouble multitasking. This is caused by hormonal effects on brain function and is often worsened by poor sleep. Brain fog is usually temporary and improves after menopause.",
+            "severity": "medium",
+            "duration": "Common during perimenopause, often improves postmenopause",
+            "management": [
+                "Prioritize sleep quality",
+                "Mental exercises and cognitive stimulation",
+                "Physical exercise to improve brain blood flow",
+                "Stress reduction",
+                "Organizational tools (lists, calendars, reminders)",
+                "Omega-3 fatty acids",
+                "Hormone therapy may help",
+                "Rule out other causes (thyroid, vitamin deficiencies)"
+            ],
+            "tags": [
+                "cognitive",
+                "memory",
+                "concentration",
+                "common",
+                "brain_health"
+            ],
+            "related_topics": [
+                "sleep",
+                "hormone_therapy",
+                "omega_3",
+                "thyroid"
+            ],
+            "when_to_see_doctor": "If cognitive problems are severe, progressive, or include personality changes (could indicate dementia or Alzheimer's)"
+        },
+        {
+            "id": "ment_006",
+            "title": "Memory Problems",
+            "description": "Difficulty remembering names, words, or recent events",
+            "content": "Memory lapses are common during menopause, including forgetting names, misplacing items, or losing train of thought. This is related to hormonal effects on the hippocampus (memory center) and is often temporary. However, severe memory problems warrant evaluation to rule out other conditions.",
+            "severity": "medium",
+            "duration": "Usually temporary, improves after menopause",
+            "management": [
+                "Use memory aids (notes, apps, routines)",
+                "Stay mentally active (puzzles, reading, learning)",
+                "Physical exercise",
+                "Adequate sleep",
+                "Manage stress",
+                "Mediterranean diet for brain health",
+                "Social engagement",
+                "Hormone therapy may help"
+            ],
+            "tags": [
+                "cognitive",
+                "memory",
+                "brain_health",
+                "common"
+            ],
+            "related_topics": [
+                "brain_fog",
+                "sleep",
+                "nutrition",
+                "hormone_therapy"
+            ],
+            "when_to_see_doctor": "If memory problems are severe, worsening, or include forgetting familiar people, places, or how to do routine tasks"
+        },
+        {
+            "id": "ment_007",
+            "title": "Difficulty Concentrating",
+            "description": "Trouble focusing, maintaining attention, or completing tasks",
+            "content": "Difficulty concentrating during menopause involves trouble staying focused on tasks, being easily distracted, and struggling to complete work or conversations. This is related to hormonal effects on attention and executive function, and is often worsened by fatigue and sleep problems.",
+            "severity": "medium",
+            "duration": "Common during perimenopause",
+            "management": [
+                "Break tasks into smaller steps",
+                "Minimize distractions",
+                "Take regular breaks",
+                "Prioritize important tasks when energy is highest",
+                "Adequate sleep",
+                "Exercise to improve focus",
+                "Mindfulness practices",
+                "Treat underlying sleep or mood problems"
+            ],
+            "tags": [
+                "cognitive",
+                "attention",
+                "focus",
+                "common",
+                "executive_function"
+            ],
+            "related_topics": [
+                "brain_fog",
+                "sleep",
+                "fatigue"
+            ],
+            "when_to_see_doctor": "If severely impacting work or daily functioning"
+        },
+        {
+            "id": "ment_008",
+            "title": "Low Self-Esteem",
+            "description": "Reduced confidence and negative self-perception",
+            "content": "Menopause can affect self-esteem due to physical changes, societal attitudes about aging, and hormonal effects on mood. Women may feel less attractive, capable, or valuable, impacting confidence and well-being.",
+            "severity": "medium",
+            "duration": "Can vary",
+            "management": [
+                "Challenge negative thoughts",
+                "Focus on strengths and accomplishments",
+                "Self-care and activities you enjoy",
+                "Social support and connection",
+                "Therapy (CBT) if needed",
+                "Treat physical symptoms that affect self-image",
+                "Reframe menopause as a natural life stage"
+            ],
+            "tags": [
+                "emotional",
+                "self_perception",
+                "mental_health",
+                "body_image"
+            ],
+            "related_topics": [
+                "CBT",
+                "mood_swings",
+                "depression"
+            ],
+            "when_to_see_doctor": "If low self-esteem is severe or accompanied by depression"
+        },
+        {
+            "id": "ment_009",
+            "title": "Panic Disorder",
+            "description": "Sudden episodes of intense fear with physical symptoms",
+            "content": "Some women experience panic attacks during menopause - sudden episodes of overwhelming fear accompanied by rapid heartbeat, sweating, trembling, shortness of breath, and feeling of losing control. Hormonal changes can trigger or worsen panic disorder.",
+            "severity": "high",
+            "duration": "Can be episodic",
+            "management": [
+                "Seek professional mental health treatment",
+                "Cognitive Behavioral Therapy (CBT)",
+                "Anti-anxiety medications or SSRIs",
+                "Learn panic attack coping strategies",
+                "Breathing exercises",
+                "Avoid caffeine and stimulants",
+                "Regular exercise",
+                "Stress management"
+            ],
+            "tags": [
+                "anxiety",
+                "panic",
+                "mental_health",
+                "serious"
+            ],
+            "related_topics": [
+                "anxiety",
+                "CBT",
+                "antidepressants",
+                "stress_management"
+            ],
+            "when_to_see_doctor": "Always seek help for panic attacks, especially if frequent or severe"
+        },
+        {
+            "id": "ment_010",
+            "title": "Emotional Sensitivity",
+            "description": "Heightened emotional responses, crying easily",
+            "content": "Increased emotional sensitivity during menopause involves crying more easily, feeling overwhelmed by emotions, or having stronger reactions to situations. This is related to hormonal effects on emotional regulation.",
+            "severity": "low",
+            "duration": "Common during perimenopause",
+            "management": [
+                "Practice self-compassion",
+                "Allow yourself to feel emotions",
+                "Stress management techniques",
+                "Talk to supportive friends or family",
+                "Hormone therapy may help",
+                "Therapy if needed"
+            ],
+            "tags": [
+                "emotional",
+                "mood",
+                "hormonal",
+                "sensitivity"
+            ],
+            "related_topics": [
+                "mood_swings",
+                "hormone_therapy",
+                "stress_management"
+            ],
+            "when_to_see_doctor": "If emotional sensitivity is severely disruptive or accompanied by depression"
+        },
+        {
+            "id": "ment_011",
+            "title": "Loss of Motivation",
+            "description": "Reduced drive, energy, or interest in activities",
+            "content": "Loss of motivation during menopause involves difficulty starting or completing tasks, reduced interest in hobbies or goals, and feeling unmotivated. This can be related to hormonal changes, fatigue, or depression.",
+            "severity": "medium",
+            "duration": "Can vary",
+            "management": [
+                "Set small, achievable goals",
+                "Regular exercise to boost energy and mood",
+                "Adequate sleep",
+                "Social activities and connection",
+                "Treat underlying fatigue or depression",
+                "Hormone therapy may help",
+                "Therapy if persistent"
+            ],
+            "tags": [
+                "motivation",
+                "energy",
+                "mood",
+                "depression"
+            ],
+            "related_topics": [
+                "fatigue",
+                "depression",
+                "exercise"
+            ],
+            "when_to_see_doctor": "If accompanied by other signs of depression or severely impacting life"
+        },
+        {
+            "id": "ment_012",
+            "title": "Social Withdrawal",
+            "description": "Reduced desire for social interaction or isolation",
+            "content": "Some women withdraw from social activities during menopause due to embarrassment about symptoms (hot flashes, mood changes), low energy, or depression. Social isolation can worsen mental health symptoms.",
+            "severity": "medium",
+            "duration": "Can vary",
+            "management": [
+                "Maintain social connections even when difficult",
+                "Communicate with friends about what you're experiencing",
+                "Join menopause support groups",
+                "Treat symptoms that cause embarrassment",
+                "Address underlying depression or anxiety",
+                "Start with small social interactions"
+            ],
+            "tags": [
+                "social",
+                "isolation",
+                "mental_health",
+                "relationships"
+            ],
+            "related_topics": [
+                "depression",
+                "anxiety",
+                "support_groups"
+            ],
+            "when_to_see_doctor": "If social withdrawal is severe or part of depression"
+        }
+    ]
+}
